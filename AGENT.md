@@ -1,3 +1,7 @@
-# Agent Guide
+# Agent Notes
 
-Preserve source-first research. Keep src, docs/index.html, and dated docs/YYYYMMDD/index.html synchronized. Do not cite Google News wrappers when canonical URLs are known. Store source notes under docs/source/. Keep remote clean.
+- Preserve Korean enterprise consulting tone.
+- Do not fabricate publication times or source details.
+- Prefer canonical vendor/source URLs over Google News wrappers.
+- Update `docs/index.html`, `docs/YYYYMMDD/index.html`, source notes, and standalone output together.
+- Keep GitHub remote clean; never store tokenized remotes.
