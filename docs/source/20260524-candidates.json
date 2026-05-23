@@ -1,0 +1,761 @@
+{
+  "window": {
+    "start": "2026-05-23T00:00:00+09:00",
+    "end": "2026-05-24T07:50:00+09:00"
+  },
+  "items": [
+    {
+      "kind": "official",
+      "source": "Databricks Blog",
+      "title": "How World Bank Group uses databricks to eradicate poverty through shared knowledge",
+      "url": "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge",
+      "time": "2026-05-23T00:00:00+09:00",
+      "summary": "The World Bank Group's mission is to improve shared prosperity across the planet...."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Opinion: The Class of 2026 rains boos down on AI - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG45eXVhejF6dU54LXc1RUNhQlhUTi1QN241bURoUUpwMEM2UjJueXpuZU9uWm5xRkx2WF90TUZ5emVsODFyeWlBdmxON1pzdnVNZFl1UVY4UUVfaVItSWpZY3VvUW5SM09MNlgtenF2OVhBUWNTa2JfSFdkTl9KMkRjazJFd3ZwOTlGeWE0X1h1V0wxaXNjcHFpeUF2UThSeGpLMDlFRQ?oc=5",
+      "time": "2026-05-23T00:00:00+09:00",
+      "summary": "Opinion: The Class of 2026 rains boos down on AI    The Globe and Mail"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale - Towards Data Science",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZwa1VXakVmVVZvdGdIY3ItaU5IQXZLTE4tNWM1b2hhQTNLX01JWUg0WmVxbGhWNUNWTDRGdTlPN05HUmdrZDY5dXVRb2x3VHpJNkFZX3BFMWFjcnh0SHAzcGYwRkt2X196RGl3cXVPbnIzbHV5UWhpTThPXzNxVzcwWEI0cFhjeGNxUlJoNzgtN0dOWDBfak42QjJJeUZXS3RaeXA1anRQRG9HdkNBWnd4RkZVY1M3blRrWFZZVQ?oc=5",
+      "time": "2026-05-23T00:00:00+09:00",
+      "summary": "Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale    Towards Data Science"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "JetBrains positions independence for AI coding tools - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGZURnpGQmtsRlRWX3ZTVEVneDB1N0U0SVhyb0ZKTFI5VXpGQVhubUVSZ0dkZFN0VHdFeHhfZ0lQNXY5TXY1MFdCOG5Fd0RualZTTGRZSkt5MWV4Q3pXWTZ5VXhldmJnMjhoc01rb2RQcXZGd2xMMzFSbTJfUFVVeWJycmY5S3VJMkswSnVFaDBGcHZBYmRMS1Rn?oc=5",
+      "time": "2026-05-23T00:00:00+09:00",
+      "summary": "JetBrains positions independence for AI coding tools    Let's Data Science"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "JetBrains is selling independence as the rest of AI coding picks sides - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vWi04bjhGc09samVvR0taNWdoRktSOF9ObVdfaE1zNWVSVWQ2TTV1elhBMTRraXVmN0NGWjhvSXVybWVBeU50bWNfRGlPZmdPU3ZaTlJyQmhCelFTOFdtNEpNMzFXQQ?oc=5",
+      "time": "2026-05-23T00:04:31+09:00",
+      "summary": "JetBrains is selling independence as the rest of AI coding picks sides    The New Stack"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "7 identity security best practices for the Agentic AI era | perspective | SC Media - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTF9xcEJ5aVRZX3lOeWxCcmdKRFl5RHFEV0NVMDR6Y25MWXdNd21iTHplT0JRMmlfNHNqWnZCYXBwbFNIRDRWcUZsemM1b19tenlzTXR4TklLWlhZSGFiU1VVVW5Ea0hkYnFjb00wX3k2eXNwbHpRUVB2aVpvTEFMQjhmb1NPcmJybWRhNmRPalBfWjd1YW9j?oc=5",
+      "time": "2026-05-23T00:10:04+09:00",
+      "summary": "7 identity security best practices for the Agentic AI era | perspective | SC Media    SC Media"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Microsoft, EY to spend $1 billion on helping customers buy agentic AI - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZV9fMkZLZVBvTGlkWXUxcjFud0tmTzlrbm5VU1otUjE2cWs4M1RZMmlMOHJma3VKZUZCZ2xRbFp3OF9tZHdXWkVvazZmRDh3Mk53ODVZd3k3ODZpaTl6REEzZmlIZmNtelBwTFZvRktTbXpuRHQyV1ltN2lZYUV3anozZXJRX3RMcE16dGczczlCZjlLbmtFblhaWjVNX0pFTWZaRVhfTFVLZ3Rs?oc=5",
+      "time": "2026-05-23T00:17:58+09:00",
+      "summary": "Microsoft, EY to spend $1 billion on helping customers buy agentic AI    cio.com"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Denodo expands AWS integrations to power agentic AI with governed enterprise data - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0pmUHhnMTJUaTlQNmpGdEN5ZDZ3aWtzak1naUpDOWNDZEwxNUdrVm1HS2VCZS1DQm95X2pmWXpqR2dNeWpqOWU0Rk1ZdDhVS1VNaWU5ZzkwRWlqZFc2V2pNS2U4MUwzNF8xeE9DTjVXeXVzX1NiSEt5bEJpQ2dvRDNZby1mSHdxaEhaUW9Canc0RXNnVUluR2ZjR1JBSG8xZzlVLVdHM1J0YnBJY3JaMzIwUUtGU2FHMFFvTUl4MWkzbW4yUUE?oc=5",
+      "time": "2026-05-23T00:42:31+09:00",
+      "summary": "Denodo expands AWS integrations to power agentic AI with governed enterprise data    Computer Weekly"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Microsoft, EY to spend $1 billion on helping customers buy agentic AI - OODAloop",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNja0VRRVJmZTIxcWFmMS05VkxoaTU5dlFaVjBiWGpBdUVSSjFRMWRLYVo4QlF1YnVxNFdMekNVa0xhYUNZT2VrWExyanJzLVpoZVdnQTdFSkcwTlVBVmM3T0RSRUJPN3RZYmhoRG9zNTYyc3JFTVhUdkhrdDRUaEFjdWJqQ0kzWlRhckZsTE1HUlhnQzBJaFJzcFNNR1RjRUN5ME8tYnEyS3c?oc=5",
+      "time": "2026-05-23T00:55:47+09:00",
+      "summary": "Microsoft, EY to spend $1 billion on helping customers buy agentic AI    OODAloop"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/",
+      "time": "2026-05-23T01:00:00+09:00",
+      "summary": "Amazon Keyspaces (for Apache Cassandra) is now available in the Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions, allowing customers in Asia Pacific Region to build Cassandra-compatible applications with lower latency while keeping their data within the Region to meet data residency requirements.    Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and managed Apache Cassandra–compatible database service. Amazon Keyspaces is serverless, so you pay for only the resources that you use and you can build applications that serve thousands of requests per second with virtually unlimited throughput and storage.    The Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions provide the same Amazon Keyspaces features available in other AWS Regions, including point-in-time recovery, Multi-Region replication, CDC streams, and IPv6 support. This regional expansi"
+    },
+    {
+      "kind": "official",
+      "source": "Google Cloud Blog",
+      "title": "The Blueprint: How Movix fills a gap in dental skills with specialized agentic AI",
+      "url": "https://cloud.google.com/blog/topics/startups/filling-the-gaps-in-dental-skills-with-specialized-agentic-ai/",
+      "time": "2026-05-23T01:00:00+09:00",
+      "summary": "Welcome to The Blueprint, a regular feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work . The demand for dental appliances, like crowns and aligners, is booming, but it’s hard for manufacturers to keep up. At Movix, we’re building one of the first agentic AI solutions for dental appliance manufacturers and dental labs to help companies in the sector acquire digital technical expertise so they can scale clinical workflows cost-effectively and consistently. The challenge: Movix started in 2025 with a mission to solve a serious shortage of skilled dental technicians in aligner manufacturing through AI and agentic workflows. The need is significant: the global dental market is valued at nearly $400 billion and growing at double "
+    },
+    {
+      "kind": "official",
+      "source": "Google Cloud Blog",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "time": "2026-05-23T01:00:00+09:00",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> May 18 - May 22 Chinese Webinar | June 4: AI Command and Control As AI agents move from experimental pilots to core enterprise functions, governance has become a critical next step. Join Google Cloud on June 4th at 10:00 AM (Beijing Time) to learn how to build a secure AI management layer architecture. We'll explore how to develop governed MCP (Model Context Protocol) endpoints, manage tool access to enterprise data, and leverage robust audit logs to operationalize AI. This session also includes a practical demonstra"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Agentic AI and Automation Change Cybersecurity Landscape - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHJiQW5LSmFuNXhfREdjQkl0bnhSLVNUS1BNTmVLWVNPc01oRk9qWEtlS1RkY2dCR3FBSWFMd3IxRGJlZDVpR1Z0NkZEVUJSSW1nTmlvb2V3TGdrYTltN0ZsVEdTV19UdGJUZzNReTZEcFN5b21LRi1zNUZZekdfY09pc0ZqOVY5NG9qMldPTk5kS2xzTXNxb1NHMGdCMHM?oc=5",
+      "time": "2026-05-23T01:00:00+09:00",
+      "summary": "Agentic AI and Automation Change Cybersecurity Landscape    Let's Data Science"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "How Agentic AI and Automation Are Changing Cybersecurity - KnowBe4 Blog",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1peWhwNHI0QmlyS1gzNnV1TFdVakN2Y2pJLVU1Q2FGUUFTdmZ0WVREdUNWdnU0eDBNYlZFVHdrNlR3bGRSNVkzdFVLcjBDNHV1aDNhWVhhRGVPNl9kZV9FTGxxd2h4ZjVScVFF?oc=5",
+      "time": "2026-05-23T01:01:22+09:00",
+      "summary": "How Agentic AI and Automation Are Changing Cybersecurity    KnowBe4 Blog"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Harsh Verma Publishes Nuanced Framework on Rise of Agentic AI and Enterprise System Era, Arguing AI System Architecture Has Replaced Model Building as the Core Discipline - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeHFYX3A5eFhyUHhuMDFtWWp5b05xVGRPQjE5SHZCUXBNYWIzLTAtb1FnajNqelp0SDhfU2JuNl9GS2V0RVpackFYYkFLOWRHVzdSV3VjWkswcU81eTZxbXFlV20yUzJmbEh2MjJ4SHNZMTJPUmxkcERNSDBxUjlMT3pqa09IdU9uUFNZclJTa05ZMEN1MVI2VWF1NXlCQ2dOMWJyN3BKZkRjbU9TNzNxTWhCN2xreHQtNTI5SFpUdnBsSzNZbm01VnpHblFiUWY5M3ZEeHhOOHNwMklONlpoRjQzRHliRkhFVmtPb0dDMlFZLWFoVFVZOC1kMUhQeFAwTmFYRGh5c253Uk04Y1dnZkVpaVc5bFRVcWc?oc=5",
+      "time": "2026-05-23T01:03:17+09:00",
+      "summary": "Harsh Verma Publishes Nuanced Framework on Rise of Agentic AI and Enterprise System Era, Arguing AI System Architecture Has Replaced Model Building as the Core Discipline    The AI Journal"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "OpenAI Leads in AI Coding Agents - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVctbmZNMllOSnlObmZfZUdtNEFpSnZvcmZ3eWdXYWZNUWJiSEtaQ2V2VDFmM0Y4R0lfS0J2aFZwMXNpUFhkTEVLcGhtY3RqaTBTTWlsN1BENjJLRW16eWl1QWVLZDVzTEp6aEtwbEV4WVE1V3V6ZmtVME5hUTcxTzl6eEZBMkxNWDlMZzFodjRzNUw3UWdVWVFIdw?oc=5",
+      "time": "2026-05-23T01:03:57+09:00",
+      "summary": "OpenAI Leads in AI Coding Agents    StartupHub.ai"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row - The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUtSb0JJeGtMOUNiQWlLZkJSUU80RU5wa1J3WUd0Z1hUSW5BTHo2U19HemhoRXJTYWdQcW83RFM2RVRLWTJOMkxaT0pmOWhNZV9VRHlVWHJZbXdGMGRtUE9nQzRpNmRDdkk0ZmM3N3hoZ1dDQ2JuY3Rkbzd1SWswVk1TTnZlQUdiYmE5SFZEZHpiZ2dCdktHN3pFTklMVHFQZHAxcWhBdXlFSGRTN3NjbENEY1FVZGtCRnVoVUpDZWl0aFhDZnNwSzg0OEZYSGRHNVFKYThiYlgzaFhOQ1hhZ1JqcjhIaUJRTi1valhTaWsxUUtIN1V0Mw?oc=5",
+      "time": "2026-05-23T01:15:06+09:00",
+      "summary": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row    The GitHub Blog"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
+      "time": "2026-05-23T01:24:00+09:00",
+      "summary": "Amazon WorkSpaces now supports the WorkSpace Migration feature for all Linux operating systems that Amazon WorkSpaces offers. This allows customers to seamlessly migrate WorkSpaces from one Linux operating system to another, automating the process to migrate to newer operating system versions or to move from one Linux operating system to another. When customers migrate their WorkSpaces from one operating system to another, the user data on a Linux WorkSpace’s home directory is now automatically moved to the new WorkSpace. Customers can seamlessly migrate WorkSpaces without having to manually copy data between WorkSpaces. This streamlines the process to upgrade Linux WorkSpaces to take advantage of the latest Linux operating systems without disrupting end users with manual migration steps. The WorkSpace Migration feature is now supported for all Linux operating systems in AWS commercial a"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "AI Coding Assistants in 2026: Avoiding Pitfalls and Maximizing Value - SD Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDlwdmZWN2hhZHQzTFREeHlqbVJMMThCRXVRQ01DT0FiRENDNk9iRnJ5VWp3Xy1xbDZMc05tR2hmTlphajFxYkt4Sk9VcHhHR0hSTHRjZEMtM3NmdW1MNXdvLXFnRmJpUjg2QWFBang5SjdtaVJzUHRIbUhRUzJWSV96M1FHTTBXOGdWYXBISk50YnozWVE?oc=5",
+      "time": "2026-05-23T01:36:00+09:00",
+      "summary": "AI Coding Assistants in 2026: Avoiding Pitfalls and Maximizing Value    SD Times"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Agentic AI could help electron microscopes plan, adapt and analyze experiments - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qRVB0dG83TkI1ZlF5akpBM09sakhobXJZVGhGNHBsUmx1OFdhOW5YYlFXZDFTZTBUTk9zSlpoTEdUUU5WcGQxMkFCOUJiVGNfVC1LNDFGa0gwTkdCSDl5Zm9RVDdCTjZGbE5Zb2Zrd1FCUHpE?oc=5",
+      "time": "2026-05-23T02:00:04+09:00",
+      "summary": "Agentic AI could help electron microscopes plan, adapt and analyze experiments    Phys.org"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "GitHub Leads Again in AI Coding Agents - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGkyUkpaUFdrVjNzQWhXbzViU3owNW1TeUxJX3dxa0NSVVhuVHg1cTN3NHZRZlF4VTBJOE1tOFNuMGdPelBKZTVLNDNIUk5pLVZaWWRYTF9IeVY3Y29DeTBpUnR5SGxNS3hNMjlKR19oTDVBaHRTVkVFcUhYVHBMWHJXem1Za3JhNVJYRWlQVzBXQQ?oc=5",
+      "time": "2026-05-23T02:01:32+09:00",
+      "summary": "GitHub Leads Again in AI Coding Agents    StartupHub.ai"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Cursor Leads Gartner AI Coding Agents Quadrant - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUI1SGk0cUU1eTk3ekVaR1V2MG0zbGFNVkZ1WHFxbkNFZmg5ZHpUR2JjTGllV3RxUm13clZleEw3Y3dJSlhiNTlLaXhubVI3eXRBc1VKbnduUGsxSUgxSnVRVHNlZGlaV0RMMXVPME4yRmszWGh5bk5Hc2FNbE13S3ZncTlXa2VMWkZXX2VVSEZsOHdLNWMtWXcyZ1o?oc=5",
+      "time": "2026-05-23T02:01:41+09:00",
+      "summary": "Cursor Leads Gartner AI Coding Agents Quadrant    StartupHub.ai"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "DICK'S Sporting Goods Introduces Coach by DICK'S, an Agentic AI Conversational Experience to Support Athletes at Every Stage - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNekpfVjNBR3VaUG8zc1I1VjlEMVNWT0lkMVA2dlV4cUJRZkNJT21KNmpRYk5pNkxfaUZSSHZMVFU2b0FYcmVhbjVHSGRibEtqbC1Tc0dRaEgxV3hiNDhSUENuYlN2WWpsYmxwcUJfOXFlb1NVUldqNG9wOEV0SVhmbFc0ZE9aX3FBZHhpMmlXRTVnTkNQMXRXZU91OE1peGl6dnB4Z3JFUnNSdGNKRENQaEZMZEJpc1BzV0RxYzlkWnZQRWpwTnlLOTlVOGN5bWw0ZkEyWjlfT3F1a3ZkbWY4UGktVmZxWl9HZHl3d1BQWVdQM0U3aEZLTUNWM19GSHVMMllvbmNmeDg?oc=5",
+      "time": "2026-05-23T02:15:00+09:00",
+      "summary": "DICK'S Sporting Goods Introduces Coach by DICK'S, an Agentic AI Conversational Experience to Support Athletes at Every Stage    PR Newswire"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Grok schlock panned by fed flock - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWVZVkc4ZVYtb2tFeUNNRjBYakU3RHRzdms5OFpxUFFVX3A0RGZoU1pLb2F0SEp5ZXVhS2pscmU5bUY1V0c2MUh0Z0hvRFh1d0R3Q0F5eDJ2YmY3eHhKenUxVUlpMXJSYTVGRUJGT2JaZjJpLWZubW9fNHdKQ3NkNW9DWVZ0SDV6YU9pUTZjbUdYMEVLcFpNbmlSQQ?oc=5",
+      "time": "2026-05-23T02:17:06+09:00",
+      "summary": "Grok schlock panned by fed flock    The Verge"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "New AI 'Coach' from DICK'S offers personal sport gear advice and training tips - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjZnaS1OcmNQWU5oVFZWaFlJY3hOWXhySlJESkp3UDhnT1ppZF94Y2NBNWl5eFJBMVN0czYwQmY1bnVjU2U0SzZ4cnhtX1BFZ19aZ2ZlTFAtZDJtXzVkWmFHdFdsd1dQT2xwSnl6cTFEQ05NU2VTbC0wQk1yWS0wSWowSDd4SjNMaDVuM2ZFS2k0c1c4blRsbzZVRkdEb0R5YkdHWWJOWlhBSHMxRUVxYkZWWG83X1E?oc=5",
+      "time": "2026-05-23T02:20:05+09:00",
+      "summary": "New AI 'Coach' from DICK'S offers personal sport gear advice and training tips    Stock Titan"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "AWS Security Agent adds verification scripts for pentest findings",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
+      "time": "2026-05-23T02:21:00+09:00",
+      "summary": "AWS Security Agent now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vulnerabilities. Previously, teams manually followed reproduction steps from finding details. Now, AWS Security Agent automatically generates ready-to-run scripts for each confirmed finding. Teams download the script, configure environment variables, and execute it against their target system to verify the vulnerability, streamlining triage and accelerating remediation. Verification scripts include setup instructions, documented environment variables, and redacted sensitive values. Available in all AWS Regions where AWS Security Agent is supported. To get started, run a penetration test, navigate to findings, and expand the Verification Script section. To learn more, see Review findings from a penetration test in the AWS Security "
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Three ways to strike a balance between AI and human reasoning for your own good - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlU1dW1fU3JGSERWc3Vua0dsNUgtM2lWWGtrMkpWNnhvVW0zYTFpMmRLUEZudnNWdTRFRF9rbVBSZUM2c1RuOVBWWE9BN1FwcV93LXRJZEVFcHVZZERrZWtQUDV6bW1sSVZVMjVwUTBfMmlvYlN3ZHo4QkFIa3dkYXRpV3BGVlExZEVIbE1QdS1RTUdHaW04UDlEUVZVbkJnMlhEdnVkUzVuUnlTMHRlZnU2UjDSAboBQVVfeXFMTlI2MlJjYWJEUEFXZ3AyUEZwai02cklpdTlhcEFqeEtSWFFtWV9SM3R3elZoMzNrNjQ0TENfaTNQUWtKTDN1NFB5N3hEcFpSb3gtS3YzaERxb2dyVC1OTXl5a3gzU0h2VVgxNklZLWMwQTl0czA2bElKZm5rU09HdlAxd1c3ZldxVjFTaW9XOEctOHZfQ2NKZGFUaTdrUWxrYndiWlpNT0xMZTJjZ2tPWDVlU0JSMUZ1QU9R?oc=5",
+      "time": "2026-05-23T02:21:25+09:00",
+      "summary": "Three ways to strike a balance between AI and human reasoning for your own good    Psychology Today"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Gale L. Harness - InkFreeNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kZlZYdlJkTFY4OHptXy1YNl9KZ25yVnl5MG5rV2U0UkR6cmFPcWdFUnJEVXRldDFSYTVIeTlJTHpud3Brb01YVXVjSUd1TEpkWUZXb2t5NGszQkxITEJwbDRtckk?oc=5",
+      "time": "2026-05-23T02:50:51+09:00",
+      "summary": "Gale L. Harness    InkFreeNews.com"
+    },
+    {
+      "kind": "official",
+      "source": "Google AI Blog",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "time": "2026-05-23T03:00:00+09:00",
+      "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Agentic AI in SOC: Autonomous Decision-Making Explained - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMl9YelUyTDFMTWNFTDhVT19uYmtrWEpWVk1oRzZhbFp1aEtWRndPdXlkTzBveXJMM1RDdnc5MFNRdXZHaEpIbzhOOEZzVXd2bE1hUVdxbm9tVDNmU3c3Nk5LWDZmMVVnR25fUXNnNlgxX0k3VmtfOUdoV2l2d0xGbkNHaTg4ZGhHZV9JQ181RHRIUUlwMlU5LQ?oc=5",
+      "time": "2026-05-23T03:21:20+09:00",
+      "summary": "Agentic AI in SOC: Autonomous Decision-Making Explained    Security Boulevard"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
+      "time": "2026-05-23T03:24:00+09:00",
+      "summary": "Amazon SageMaker Unified Studio now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers using Amazon SageMaker IAM-based domains can add business context to their AWS Glue Data Catalog tables, including business names, descriptions, and README documentation. They can use AI-generated metadata to produce business names and descriptions automatically, reducing the effort of cataloging large numbers of tables. Customers can also create business glossaries so that teams across the organization use consistent definitions for terms like \"ARR\" or \"churn rate,\" and define metadata form templates to capture structured attributes such as data classification, retention policies, or ownership details. With this business context in place, data engineers, analysts, and data scientists can search for and discover tables across the entir"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Dick’s Sporting Goods rolling out Agentic AI 'coaches' in June - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcklseUhMdnZaazdQMGdmRkR4YW1Nb3dKVzJXZEZZemNSZEE1dnhIc3FPdVdXMS03SVlCNmxyXzBxM2hYLUFhS0xDbVhrdGxIMzB0QmpCN2VZeUJ2aEFsQ0piTVV5YmpUYzVNdmZqV2hhMHFkUEQyZWw4c2dqbGdOaWlvUTFnMlNwWUE?oc=5",
+      "time": "2026-05-23T03:24:06+09:00",
+      "summary": "Dick’s Sporting Goods rolling out Agentic AI 'coaches' in June    Chain Store Age"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Glow Recipe, Danessa Myricks Beauty and Milk Makeup Talk Indie Brands - WWD",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnFUdnhUd3p4R3Y4NUkzam5QZDEta1MyTXpFNWhkcG54LThmd0pWTkZnblctdzZyQzJqUmVWSUNoYmlXSlN5VWRpajlCZXdHOV82a1RXQmNsN3BsQ3VzMkI3MkVEaDYyS1N1XzlQR0p6ZlNWczZmQzEwekxndXNENmlUNm41VVR6SUplcmM3WXkxY0dtc3VPMW53VENYTGVWTWh0NTRR?oc=5",
+      "time": "2026-05-23T03:29:58+09:00",
+      "summary": "Glow Recipe, Danessa Myricks Beauty and Milk Makeup Talk Indie Brands    WWD"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmcxRWpzZDBvMHNKQTVRYkxBT3JTT2JySkJMamFTNzBQX3hCb09SY290ZldiRkhXYk9WaEc3R3JuRXNVeEVzTTNkU18yUFd3VVFNclgxdmVOTmtsQ2hXTll0ZjFFaG5aRFZ2SzNtaHZUMlNSX0U1N1UwMVR6UjZRZ1hvb2VPdzdoWUNwTDhZRFBlc3B6OExoaXB3?oc=5",
+      "time": "2026-05-23T03:45:23+09:00",
+      "summary": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week    Yahoo Finance"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Google redesigns the Gemini app and brings new agentic AI tools: Here's what's new - MSN",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxObXB5REtGcHkwQUxzSnhEQXBobFBlZm1UNjduVWtVbEFDcDdNTURsME91WG9oQ0ZrQkM3ZTRRZC1qWnhleEdmOUxib0hqNDVFQ1FFZ1NoMXNlSUE3V3ZZVF91LXpCaGhJRElwcTJoMnpDLTY0emoyUDdEUjN5Y3ZXdU4yWm5nYVAxeVdabVBaOFNuMGd5a3lsY0k5MmhhczlxMWFCdGZGdWkzLVNhZ3NqUThfQmpsaE5FQ0dvZWFCZlN4LTJLT1FXNU5sNHhrNVhWZzFaQ094ZEZydy1SLWliNEV0WmVfWDY3RTZJRUJ1UHloUWVlNkdoeFFGODBXRHVJd3lZUklIYkdYZktiNThWUklUclBHV3BnTTlkc2dKOWFRUUZyU3ZUT2l5VzBlQTJCUDRJLTItekN4N3E5VkVaVXJVWDlsOW9QX21nVFBXWDNDMTd3UGV4cHJFazJKMzhPUExaWU5YcVNMUVBqdGdKdkRsaUVVdDVicFVTeUNiSFVCMVR5RmJ4S3JVOENaNGFxOTJEMXZYSQ?oc=5",
+      "time": "2026-05-23T03:49:27+09:00",
+      "summary": "Google redesigns the Gemini app and brings new agentic AI tools: Here's what's new    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "PIA “doesn’t have confidence” in provincial AI investments - EverythingGP",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhfekVrZjRLVFo0b2lyQjVfQ1E3WGVwNHN4QnB5bjlVLVhjdGg2bFJHODZGMWt3SmFHSEFwbV9qOWFNcEV4M3ZBaGdCWGRSaC1Fb0dwUjVLb0p3SlV0LUhPV1RKUWFiSUZHMUU0RFdfUDVxYnVsU3lGdG9NR0ZOYTJpOFNnSnpRbUlnVUh4ZE1HMTEydXNr?oc=5",
+      "time": "2026-05-23T03:50:08+09:00",
+      "summary": "PIA “doesn’t have confidence” in provincial AI investments    EverythingGP"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "New agentic migration assessment capabilities now available with AWS Transform",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
+      "time": "2026-05-23T03:58:00+09:00",
+      "summary": "AWS Transform now offers advanced migration assessment capabilities including what-if scenarios, customizable assumptions, flexible file format support, and multiple new total cost of ownership (TCO) assessment features. These latest features let you quickly build a migration business case and accelerate your migration decisions. You can start your migration assessment with whatever data you have including RVTools exports, CMDB data, exports from the AWS Transform discovery tool, and a wide variety of third-party discovery tools. Create what-if scenarios for your migrations with customized assumptions including region, resource utilization, and service mapping. You can also compare scenarios and find the best path for your AWS migration. This latest release lets you include multiple analyses in your what-if scenarios including cost modelling of EC2, FSx, S3, SQL Server on EC2, and virtua"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Ask AI or just Google it? Google makes a big change to a little search box - NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRDJOZy1ncGV4Tjk3cGcyZUlXMU9TV3NiUDlYRVZ3dnlyVlhQbXR5YWlsQ3BkZ2NVUnJLV3NOUFV4TjhUbjFMWFAtYmRwS3I3eDAwaEhlYl8wS3NLNEh3NFF5SWRXeTdhN0FMeU9KUng3cjg?oc=5",
+      "time": "2026-05-23T04:05:25+09:00",
+      "summary": "Ask AI or just Google it? Google makes a big change to a little search box    NPR"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "DICK’S Sporting Goods: Agentic AI Coach Experience Launched For Athlete Guidance - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmFWOTBSZTZ0akdpU21ydTFzbkNQLXhxUW9yN3VYd05PQWRsQmNuRnpMY0RNa0Y4S2FQcHlWMnRFN09nQUpOREszejJXMjg4Q0t4WC1DM3ZHQWRjYjZ3cGZ1WXpNRW82ZWw5b0Znd3otVk5OZlBRb3FmTDBZNU1UZ2thYmdvSThyR1h6a05GTjBGckNjQk9xUG8zeVkwc3fSAaQBQVVfeXFMUDlDNF9NdXdMeHRwcTl1TmgzVC1OWjlTNDlybFFIYjJ4VzZJQ29HR0g2Zmk1aG9VWDZ6ZzhOdzNTc2g1bEFCcXc3NEVtLTluTXNWVnNoUlh1N3hFS3RXektHUWljek04MXl3aGQxTWdUbDhVS1NJWVZVYjR5NjNvRWVsRE92WlZ5ZzFaenhYVENkaTBOTnhvaEZFWk1sc1VlbEJhQVc?oc=5",
+      "time": "2026-05-23T04:07:07+09:00",
+      "summary": "DICK’S Sporting Goods: Agentic AI Coach Experience Launched For Athlete Guidance    Pulse 2.0"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Gemini's Daily Brief Tries to Make a Strong Case for Handing Google Your Data - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2RTZlk2ZVA5ZVNKR2U2UDlvSzFDQXdDMW01dkljdnhBZHVsZkdGb2lJeE9hSnZpUkFxMDJLbW02UGVIRGNCUVFlTXVPT2pEVm5sLVh3c3RtUjFWcUhCak95SmhObHRrV2hNOW9uelhlalVUM0VaRURvcGNoaVVaRDEwVGIxS3ppUFhmQUFoX1dsd1JDekE?oc=5",
+      "time": "2026-05-23T04:19:17+09:00",
+      "summary": "Gemini's Daily Brief Tries to Make a Strong Case for Handing Google Your Data    PCMag"
+    },
+    {
+      "kind": "official",
+      "source": "Databricks Blog",
+      "title": "Observability for any agent, anywhere: Production-ready tracing with OpenTelemetry & Unity Catalog on Databricks",
+      "url": "https://www.databricks.com/blog/observability-any-agent-anywhere-production-ready-tracing-opentelemetry-unity-catalog",
+      "time": "2026-05-23T04:20:00+09:00",
+      "summary": "Why AI Tracing Breaks Traditional ObservabilityAs AI applications move into production..."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Google is bringing AI-content detection to Search and Chrome as deepfakes proliferate - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4Y2t4cDNiN20tVXY4TjJmcjYtcklGYTVHYWpkMmhhOFFvci1CTHlENDNmeU9YNHYxY25SdVRPTXl1N2tHcnBsOGMtRC1PbWhmYVVXUWRybWwtbHcxM29LM1NxaE5aV0ZRVlJJaUtTTjA?oc=5",
+      "time": "2026-05-23T04:23:33+09:00",
+      "summary": "Google is bringing AI-content detection to Search and Chrome as deepfakes proliferate    qz.com"
+    },
+    {
+      "kind": "official",
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker expands domain management across domain types",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
+      "time": "2026-05-23T04:30:00+09:00",
+      "summary": "Amazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects, configure workforce identity, manage users and permissions, and set networking properties for projects. Previously, this was only available for IAM based domains. With this launch, administrators of Identity Center-based domains can access domain management capabilities in SageMaker Unified Studio portal to create projects with configurable execution roles that define which AWS analytics, AI, and ML services the project can access. VPC configuration is consistent across both domain types, inherited by all projects, and can be edited to change the VPC, subnets, or security group. Administrators can also manage associated accounts, enabling users to publish and consume data "
+    },
+    {
+      "kind": "official",
+      "source": "Databricks Blog",
+      "title": "Accelerating LLM Inference with Prompt Caching for Open‑Source Models on Databricks",
+      "url": "https://www.databricks.com/blog/accelerating-llm-inference-prompt-caching-open-source-models-databricks",
+      "time": "2026-05-23T05:00:00+09:00",
+      "summary": "Why Prompt Caching MattersLarge language model (LLM) inference often involves repeated..."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "PATH Stock Steadies As UiPath Doubles Down On Agentic AI - StocksToTrade",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJSzlTTEZBMlFhVzNHSjAyQ3RJWThGQ3FCM0dqRnhONlpyRjJMc29fLUZhb2ZXbXZzUHhOTlpyaWdzSTJyTmN5UW83VHN5NEc2dkNNeVJGLTdzazRMZ1RCV3NDNGNWOV9QSk9abzktUHc?oc=5",
+      "time": "2026-05-23T05:04:00+09:00",
+      "summary": "PATH Stock Steadies As UiPath Doubles Down On Agentic AI    StocksToTrade"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Palladyne AI Announces Employee Equity Awards - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2lQTk1LTzVVZ2Z3S2FxeGE1MExVcWVKR2VCSEZGVkdGYW81NDVDcHlIWS13aEJpSl9tenIwTV9uaUg4S2R1VW9ZaGY2ZjhuUjZDVm84bWxzMmRNRDZTTDc4aWMzeEUxYVE1QXlEajJ4SGpyVG5IUDd2OE1iZ1ZqX095bWVmQVR0TEFCWm9ZSnQ0S1FlclNvc1NySjdEUVFfeW83cQ?oc=5",
+      "time": "2026-05-23T05:05:00+09:00",
+      "summary": "Palladyne AI Announces Employee Equity Awards    Business Wire"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Trust is the real bottleneck in agentic AI - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZTZ5YjVzUnR0QzBQWEEtNHhwUFVtT25seXAyQm0yUDRidWswNWZKOUdMTjFVaW1aREluX19JNEdzU1ZJeGlxbmxpejNaWXFUUEk1MW83Z0lFTXB6TTBIZ1pnaDI1U1p0OWZWYkxVSXBBa01GZ0NZcXNYNDM?oc=5",
+      "time": "2026-05-23T05:12:33+09:00",
+      "summary": "Trust is the real bottleneck in agentic AI    VentureBeat"
+    },
+    {
+      "kind": "official",
+      "source": "Anthropic Sitemap",
+      "title": "Glasswing Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "time": "2026-05-23T05:37:40+09:00",
+      "summary": "Anthropic sitemap lastmod"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Analysts see SoundHound AI surging 60% on agentic AI boom - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmxucklBdG05Yl9QQ3ZQbkZ5LUd2NGVhdmZ4UERERUtVdkpXLXRXQmdaZUE3VjlhdllDXzF1UnNsZ1pXYWFIVHVUX2ViMXFvZEI5YlBLS0ozdlNseHhkenlVY3l3MFA4ZzRQMFZwbWxGUzQ3OTQxYkExZTRPN0JhbGRwZ3JxNjl1VTVTZTBnZ2stZnZGdV9RaWRPWXRYVVpael81TVJKMTNyb0F0cm9GeHpLVGE5Y01xLTZMeTZqS2c4OXI4a0VseFVwa1oyamUxTlBGd0gzX0R0US1PQTJv?oc=5",
+      "time": "2026-05-23T05:51:15+09:00",
+      "summary": "Analysts see SoundHound AI surging 60% on agentic AI boom    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "The ‘Coding Agent’ Is the Wrong Name. It’s an Everything Agent. - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXhQdi11VVFxZ25TWUVLUmZJX285SDFhQWFydERlMjdxb1pZUEM0bElON01WaFVWbk84VXlBRkRkN0N1Mkt1Z25hZ1daVFhnTHkzSGhrNk1fRTBFWGpaMWtyOXZrV3lkZGttWC1aVnB4S1pMa2dWUFYtV2pvYVVMQmQwSDJ4V2c?oc=5",
+      "time": "2026-05-23T05:53:27+09:00",
+      "summary": "The ‘Coding Agent’ Is the Wrong Name. It’s an Everything Agent.    Unite.AI"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "PATH Stock Gains Traction As UiPath Doubles Down On Agentic AI - timothysykes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CRzZ0Zl8zNXF0bEtaTGNucU1IdnNsejhjUTBheDJkZV9Ib3pnYy15S2dGMTlsV2ZmcHhxTGp5WWR1bEFIZ0tXZm1ZQjZ0SGhjX05QZDVjdW12eWFiUFpoRTlMUnJmbVRoZ0pzU3VscjdaTExPT1Jz?oc=5",
+      "time": "2026-05-23T06:04:00+09:00",
+      "summary": "PATH Stock Gains Traction As UiPath Doubles Down On Agentic AI    timothysykes.com"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Building RAG Pipelines for Financial Research Platforms - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1zZThBVU9vdmt1QjVHdHZmTHdQQkhJTzBGTElXTmduR1ZWOHptb2ZFVnVyeG5FMUh0TVRROTdsSnZHcXZqZHFCU283SmJBdWx4NGhQRjU5aGNGOTRUWVFsM0JWeXE4cm05N1hhVlFlT1lsU1NXZFBEay1FN2dZNGlR?oc=5",
+      "time": "2026-05-23T06:18:25+09:00",
+      "summary": "Building RAG Pipelines for Financial Research Platforms    The AI Journal"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Trying to self-host LLMs made me realize local AI has a friction problem, not a quality problem - XDA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlB3OXc5TkRqSWtLVXRiRzhzenZVV0JVempGRUJzaEhyeEdOYTBSMWIyR3Z2MGFxVkZiN1psTVMzWUtnZFlBdlVjZTVicHZOOVNGOWRKWEtzeUY4emNQX21UU0pEUmRGTmNGVmg1NFRWX3NpNUpscHJhOEJFZ0xmMl9qeEpXZHdIb2k3MVctSmdQbTB4b2ozYnA5bGRGeW90VXdWRzFR?oc=5",
+      "time": "2026-05-23T07:00:23+09:00",
+      "summary": "Trying to self-host LLMs made me realize local AI has a friction problem, not a quality problem    XDA"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "AI or bust - The Star | Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUElvbUUwNVM3c1I5a2MtTVlxRWdCQVBIaW1qdVF3ZzVmQjJxU3pvMVBIbm4xdlZuUGpyUFFlWENoVHlnV0hlV2VxLUNBeWJrMGFKZXY5RUpKYVI3RGFPM2twR0V1RUJQSGpvckFzS3FaLWphVXIzU1Vmaw?oc=5",
+      "time": "2026-05-23T07:21:18+09:00",
+      "summary": "AI or bust    The Star | Malaysia"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Rick Powell — Steel guitar rag moog synthesizer (Music Video) - Dork | Down With Boring",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0Y5SWhXUjFIMVQzLUd3VXNTVkZqRm1ENHpWcU53bXZMZlRwOG5LVXRjMHQ0TnhNUmpNS1NIWDVmQUZlR0ZhYk5KUjlXNGxyc2hXaGlmRGtsTTZDSGJycEwxSTRhNVotMmRCSmtZaDBOZEZLWVdNeDlQMmFMNS1xajV2c3NlY1NLcU15N25fZlFXQQ?oc=5",
+      "time": "2026-05-23T08:31:23+09:00",
+      "summary": "Rick Powell — Steel guitar rag moog synthesizer (Music Video)    Dork | Down With Boring"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "YY Group launches OpenClaw agentic AI deployment across Southeast Asia hotel clients (YYGH) - MSN",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPY0JoN1hSZHppb3ZwQ3hkTk45MC1XNWZIejBYVjdES2pnVEwtUHV5b0p4T19JQWdFUTN1WGFIUEM1b3U3amFTSGtjZHJzYjhpRVlUbDA3d0RfcEFua2JCZ0YwY3NlZFppaExqdUtYdnlaaXA2RUhVRzlzcEkzRzJnZkpOV3NOcTl1QUEtSDNLby1CWGY3Y2tXRTJYNGVEbTR1Y0s4ZmhXNFAxNUQtYzh3SFFOazkxNG5VR1ZQemRqcjhNbkRHY0pCMlJ3cXpTVG5GOXVaVlNqdXlfNXJNVl9HZnY2ZUtudGQxdEY1X2xOXzd2NHFVQ1pMbTVxamJVR1lNUGd6bjhScmVRMTVvbThjbDBxNFVicmdGYkpHRnNHVm5GZ0MzS3NVOGpaZ18tYTVXNTNoUHJHMTNkN1BRNTY1UHZnSDdCYmFHU09WekdqXzk3SElDLXplcHBqNnQza2dDdzFWV196eElaSV84eWF3alpyM2g4RWloWXhkSjBlWW9CcHd3SEdCaWNldWRxem5sb1RBdVlJMkJXMHJJM2c?oc=5",
+      "time": "2026-05-23T08:51:24+09:00",
+      "summary": "YY Group launches OpenClaw agentic AI deployment across Southeast Asia hotel clients (YYGH)    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "AI or algorithm - The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11eW8zX2dxekc5SERuN2dOV2d4Q2ozTEcwdUtLTTRFbFRiVE1SQV9rdW83M3ViVTcwVWhoLTNPRU81RC16M1lJNERYZElIN2VlR3NnRzdKOW9kRnpiYXY3UUprTWdzQTZkWk1aNGxIY2wtdzhtR1MxWlRHdGw?oc=5",
+      "time": "2026-05-23T09:05:00+09:00",
+      "summary": "AI or algorithm    The Edge Singapore"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "ITC Infotech, InsureMO partner on agentic AI insurance push - MSN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOV9XRkFCcTkyMXhiT2wyVUVveVNuVldIV2lpNlJnWkctcVhydmZNYmJXeHpiZjQ3bWQwck1XWGhpUnpPeXRURXY3TFlSVVBiMFF5UDJqY1I5amtLX3ZueWpWeEVFOExZUG5mYXFKX01lN3NDMUdOeVJlQ0t5SE9ESHl3SE9qN0tGZ2xqdzlabWZQTGRpUjJnbFo2S3VnQmZZc2lOZ19DQkFXbUlL?oc=5",
+      "time": "2026-05-23T09:08:15+09:00",
+      "summary": "ITC Infotech, InsureMO partner on agentic AI insurance push    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "IBM partners with SEI on agentic AI: Will it boost profits? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOFFMRlE1akczQTBGZTNmc1BuZ255V1FQckFkZmtLWGlITmstTEVLYkRqa3JPdmV0YlhsU0xGZHFyWWVYQmhibk0zR2F4RVdCOUVNdXRSS0o0bVlyYkNTdkNJaGxlUTlPTDlsTHhFbVNSbmJDRDB3cTlUQ1ZRVkhIUGY5cFVnZGJBTGhwZmdjNHJSMm1rNjdsRG5fRnk5ZTUwTEhhN3A3RFhGYl9WNjBoV09HU1kyQTZsQW10OGp4QjVBdFdzaUhHWS1mRFFURDZuWFZGbUstTFRkZ2t5T1Zqd2lqRHd0N0hkT0F2MlFYM3Y4OTVRTVE3WEdGclYweUxTQXo2NGJSOTFhdEVXT0lYQ0otVFhVZGs1N2xNbUdnQ3VYVEdKUjVVd2pIRU5Cdl8tYVhGanpYNnlSZVhWcUxLamlhc2w0RS1SR1FmOWJRTlNtamFKZUMyMFhVeEoxNEU?oc=5",
+      "time": "2026-05-23T09:19:01+09:00",
+      "summary": "IBM partners with SEI on agentic AI: Will it boost profits?    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Australian Analyst – Saturday Harness Racing Best Bets 23rd May - Harnesslink",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0NLMVJ5WmRpY1l6TXpCcDU0UTdrSDd0TVpKMTM3UmxOc2VWb0JiYU5vUG5pbW9taHdKNDRFbmJkTjdkUERZRUlqSzRra1FxRkRyYm1wZDl3TXU1Ymd0a0M1UUNaQmlnOHhmSXRLMzRHVG1PUmVRaWRlWGoxNDlKamQ5ckhhNlNPNXZaSnk3cw?oc=5",
+      "time": "2026-05-23T09:36:35+09:00",
+      "summary": "Australian Analyst – Saturday Harness Racing Best Bets 23rd May    Harnesslink"
+    },
+    {
+      "kind": "official",
+      "source": "Databricks Blog",
+      "title": "Scaling for MHHS: how Octopus Energy achieved a 50x cost reduction in margin data engineering",
+      "url": "https://www.databricks.com/blog/scaling-mhhs-how-octopus-energy-achieved-50x-cost-reduction-margin-data-engineering",
+      "time": "2026-05-23T09:40:09+09:00",
+      "summary": "The energy transition has a data problemThe UK's energy grid is in the middle of..."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Startup raises US$1.3bil for an AI ‘grid’ - The Star | Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSV9pZ05IcTBEWVhTMndIZ1plc1ZONHNQT2Vrbm42TC10QnIyOG1jWTB3bmhtbzkxTWRHTzBQdnhNY2ZJWjVMaFRXQ3I0cTVJRnQyaldTZVNFMkRyNHIzNEtBdW93UXRNaGlYV1ZSODJYQlBBMXQ2N09hRjQ0QkRYd2xnU1o1UnczUFpUU25VQjQ5aEVO?oc=5",
+      "time": "2026-05-23T11:00:00+09:00",
+      "summary": "Startup raises US$1.3bil for an AI ‘grid’    The Star | Malaysia"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Agentic AI pushes advertisers toward open web performance - ContentGrip",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oZXFFOHhaZmIyVjJadV9xTDZZYjZlLWxod1NMUGwwM19XR1JYdWZKOHo5VlM4SWZNMTQ3LTFMa3dWUkhIOFM0am5MMDlONmVGT2wyOV9xLW5aLThKcWRMRDJoN250RURTU3g2bGwxZlEtb3VzRGNj?oc=5",
+      "time": "2026-05-23T11:05:19+09:00",
+      "summary": "Agentic AI pushes advertisers toward open web performance    ContentGrip"
+    },
+    {
+      "kind": "official",
+      "source": "Databricks Blog",
+      "title": "Pharma launch analytics: How to compress the first 90 days and win the three years that follow",
+      "url": "https://www.databricks.com/blog/pharma-launch-analytics-how-compress-first-90-days-and-win-three-years-follow",
+      "time": "2026-05-23T11:15:31+09:00",
+      "summary": "USE CASECommercial Launch Intelligence & Market Access AnalyticsPharmaceutical companies..."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "How agentic AI can create an intelligence layer for infrastructure - EY",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjJEUXlKalJvRVdXeVVVRi1SVmZPTEl2TGpZNDcydjV4V0pXazBmaU14RjI5aXRvdU5ZNHpvRkNUakxTcldBTldfV3RyZDM0S3hyV2FUZDY2NjMwd0FiQUk0UXhRLWZpVkRVX1h2WW1XY3ZfMzRxVWFZWTNJYXJsbENibGpEWGRWWDFuWUlOY3pHZGY2OGdxYUJ6SGphV2g2OWxtZms4U2hOTjdIVDNwYk9aVFVSUQ?oc=5",
+      "time": "2026-05-23T11:56:54+09:00",
+      "summary": "How agentic AI can create an intelligence layer for infrastructure    EY"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Insiders: DeepSeek is forming a Harness team to compete with Claude Code - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0xJOF84b3dUY2ZRQWktQVlfTmZXNjd4TFM1SjBFV25IM2N1dzhxZ2NQUEpNa1BSOWFHc0RaSEdjSWVrRHJ5V1JUNld3VGVHdXVVQXhjUzFyVEFLOTRVUE5GUDc1UE1tNi1mWW9vNndwUXlpdVBtcElDMGUzZ040ME9Xb0tsODFraUV3bTd4YUlNdUZ2OFZxV19zbm9HTTlmNHFDMFVmNlQ2WGxIbk9NRUdkQjZfVHV1amJneTNiYWNCZUJHT2ozWA?oc=5",
+      "time": "2026-05-23T15:56:08+09:00",
+      "summary": "Insiders: DeepSeek is forming a Harness team to compete with Claude Code    WEEX"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Key facts: Dell $43B AI Backlog; $64.1B Orders, Agentic AI Launch - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpMN1VtR0V5SHB3Z0I3ZWxwczVfTUdqWEtVLUNzRVZLQzNaeWU1c3pWSWkyZi1KdUlJQjZBU1BJNVNsOXB4d2Q4SnJBd0F1OGlmR3ppQjd5bENfYUg2a0dfWExQcG9PQkxabGFsU2dVZDRaMDVYODg1X1ppU1JpbVVMMlZyNklyR0RuQm13NHN1a3ktT2xqMkczMFJOVXdlMW1xN0lkR19yYzZpdEVCSXlWMXpZbkNfNVRSQTU0MA?oc=5",
+      "time": "2026-05-23T16:13:53+09:00",
+      "summary": "Key facts: Dell $43B AI Backlog; $64.1B Orders, Agentic AI Launch    TradingView"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "AI-Powered Investing Platforms - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1YmxybmJwWHNnYWpuZmY1SHZTQXZTT0ppeXNjZnZHNGVxWXpaV0hKMlhveDdsSXN3djE4S3VCVE80LVAwZlhpWFByNUNNYkxkQTZvR0dOZkUtWnlZLWVmeFV2RE9zUlZJMlHSAWpBVV95cUxQNWJscm5icFhzZ2FqbmZmNUh2U0F2U09KaXlzY2Z2RzRlcVl6WldISjJYb3g3bElzd3YxOEt1QlRPNC1QMGZYaVhQcjVDTWJMZEE2b0dHTmZFLVp5WS1lZnhVdkRPc1JWSTJR?oc=5",
+      "time": "2026-05-23T16:37:45+09:00",
+      "summary": "AI-Powered Investing Platforms    Trend Hunter"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "FAQ: AI, misinformation and journalism - Online Journalism Blog",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlCc0p0eTVRSGVBYXRKZ3Y2OUlZS3NYVFUzNC1PbEY4al9KWlpiZWJERHpKck9mcm0xQzZzTDgtenYtbWdGanRIck9RaDEzcWUxYlRKQndDemtqd1ZhYWlIY3pHNTUwX09MajZ0ZllWeXhxZUpGSk9aUWIzY3VDOFpOV25oMmF1?oc=5",
+      "time": "2026-05-23T17:03:59+09:00",
+      "summary": "FAQ: AI, misinformation and journalism    Online Journalism Blog"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Marc Andreessen doesn't mince words on why AI coding agents are better than humans - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTJUb1NYLVVXMUZma1lpRjhGc244c1NseUQtMkNxWmN4X2NCajdfVlZNSVVTRWFsZm41V1ZtREw3VUdRY2lNOGZ2eW82amxQN3Yxcl85S1dmUlZjY3luVHdXMUhCZktZTU1WUWxyRy1CTUVpSTdtdHVsTk9hTWp4bVJBTm1jY0xEWUN0N1JZem9tM1d2eUxVSTlB?oc=5",
+      "time": "2026-05-23T17:59:00+09:00",
+      "summary": "Marc Andreessen doesn't mince words on why AI coding agents are better than humans    Business Insider"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Inside startups, Claude has already won the AI coding wars. Cursor is fading. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGhaT0c5eVN5bnhVX1JyNkNKN1Z3NktZMHctM2Z2dFpkLWtWRDFaaFNUaEVrWUIyQlR6WW9UVWpWVm9DU09KVFFUbDBrOXpsNzZPa0xzSmxNcE5UZl9JaHp0NTA2N0Y2YnMxcHFfUWNwa3dXQS02NjVpY2ZVVldjVkhkT241QjJDTWpEOGtPVkN2bVB4YVpHVDJVQTE?oc=5",
+      "time": "2026-05-23T18:00:00+09:00",
+      "summary": "Inside startups, Claude has already won the AI coding wars. Cursor is fading.    Business Insider"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Marc Andreessen Praises AI Coding Agents Over Employees - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVZQdEZlNFV0VGd6RlRmdWFUdmtFa0pvaHpuUEVSTlRtYlNaeWY4dzRhQXQ3cU15MEZ1Y1gzdGJscEFRZ0VPVm9FakVvWFNkZmVqUHktSFMxTVJhQWlGNnA0Y0taWUVyblo0MXVfUnllQ3R4LU05RlhhSjJ0Yy10ZkF4TUFLWkVLT0h3T2dJczFuOTVoOS1DNEhOMXh6Zw?oc=5",
+      "time": "2026-05-23T18:06:58+09:00",
+      "summary": "Marc Andreessen Praises AI Coding Agents Over Employees    Let's Data Science"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Startups Adopt Claude Code as Default Coding Tool - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm5RSXd5ZWtOMFcxY1FFYTI1S2RhbUNRSjkyTGhUWlBRY28wVEx5WVFZZmRUZTRYc3g4ajNUa09oM2NNUHc3TXhQZUdxSTYwWVJDV0VjenBQVm5ZNFNBa201enJiVHpFcVQxMXU3SmgwTGFBSVAzSktncTZXOVh2N055N014el9aeHlhSXUwQkdVWkhxV3c?oc=5",
+      "time": "2026-05-23T18:06:58+09:00",
+      "summary": "Startups Adopt Claude Code as Default Coding Tool    Let's Data Science"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Vera CPU Delivers 50% Faster Per-Core Performance For AI - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QUkVmdW1tSm81dlBmc3lZTUx6YWUzUGtXZDFsM3ZNZzZyUnp0QXkxc3hCTXlvV1Ytb1Z3YkJXNDIwczRjei1sRW1SU2RjZEhfczVwYVd1alc5OTdoOEM2ZnIxb0pfak0yZXR1Q19GZ2paRzFn?oc=5",
+      "time": "2026-05-23T18:54:36+09:00",
+      "summary": "Vera CPU Delivers 50% Faster Per-Core Performance For AI    Quantum Zeitgeist"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "The Agentic AI Gold Rush - businessplus.ie",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82X1JFLUllSkp1Z2NXV0FUamJvUmtrLTd3dG5McFVoTnV3NWowZjFoOWRoaDFaNEpZWnlkclBpSlN0NlZyX21Yb1I3Z3FWNVE5QmdVLXhMYl9JMTRuQ3pn?oc=5",
+      "time": "2026-05-23T20:00:00+09:00",
+      "summary": "The Agentic AI Gold Rush    businessplus.ie"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "I paired Claude Code with my editor and built a local AI coding setup that never leaves my machine - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEJ3MWtyd3AweVFIZDEyS3VQNFRfNjBBOWVqaTRKaV94b0NkeHJpT0phMmRWUkhQcWN5QVRhaElEMmxnNkQ3cE9CcWdfSkQtUXZaZ0JSLUxwTElnTzV6dzgyU1FnZUlNUFBHekVEWElxcjBxRmdTMUo5enAtTV9HVW5hTC1qV0kyLS03YU1KMURnam5YRWs5R3lfemxRT1E?oc=5",
+      "time": "2026-05-23T20:00:52+09:00",
+      "summary": "I paired Claude Code with my editor and built a local AI coding setup that never leaves my machine    MakeUseOf"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Is Accenture’s (ACN) Agentic AI Push Redefining Its Core Enterprise Transformation Narrative? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmNpdzBXQlJYQUpVcnJKU0NjbWlwa1RfZzRTTklLejVLM1VQMnpuUXhXZ2N4MFZJeEx4UVhIcVltMTRaYlczTFY4MktIWGw4MWplR3B6czdLeXZ4ZmhiX1lwaktWWE1ZZlkwTFJWNjVSZlhLc2dqV3NHZnBZMDB3cm1RZml0djVhcG5uZGRWSmR6X29iZWNWOGJxcEFaRXhxVm1rdzF1VDEzUFE3Y0pVUzUtTzZuWnpvdnhIMEJJUm5HOEXSAcgBQVVfeXFMT2owSmUxdG1tcHBIajlJT25hT1ZOTGpqdFdneWJpZ0Nybm56YzB6MzJ1aWZhaFFIblhDQWxzQWlLR3BDZk5uOUFMbE9YeDM3b2JaZ05SVUNXb0l5QUxWTG84NmlfVGxNdW5ZSzZkZC1ZLTVtaEctMHdId0FqNHlVNmFDU0hyWnZnOGJ2aWdKYWU5aG12X21IRHJDSHBqNVhUTGJGbmhtQXJmU3Y0YW9IOW9DSlRHTHlGZHE3eHA3UTFwbWk0RVNUOGU?oc=5",
+      "time": "2026-05-23T20:04:58+09:00",
+      "summary": "Is Accenture’s (ACN) Agentic AI Push Redefining Its Core Enterprise Transformation Narrative?    simplywall.st"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Why Computer Science Remains Essential in the Era of AI Coding Bots - streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTNieXgwbGdKZDRhX1AxZ3JRdmlSTFlBc2o3dTFaN3lIVDJuZE8wc04yd2RhV3pCaWNUZUNhLVRRWm9ueVg1Q0s0UW1yTGlSV0lNeWlWMGF1SzBCYXAzeWFJckFINzFmZVh2a01wNmE5b3FrRHhaUnV3SC01RGQ2RERNOFdMWFVGa2VGRDBUeDlneFFSRDFkS0F3LUpFY1U5bTVv?oc=5",
+      "time": "2026-05-23T20:30:00+09:00",
+      "summary": "Why Computer Science Remains Essential in the Era of AI Coding Bots    streamlinefeed.co.ke"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Tabnine's Visionary Status: Does Context-Driven AI Coding Redefine Enterprise Software Delivery? - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW9kQS1VZHAyNGk3ZnBjRzhpcnlaa25tbExOZzV4V3BCdWtZd29IQldaQVlXWEJ3TTMwbnV2NGhFVDI5cE4tMHRpTjZJeVhSWXhxNnlkbVp6LUpuWkJYWG1PakVjcDJfNnJoSG80RVJRN0dtZUVud3N4b0JXVWF2Wm05bXZlWDBKVzYwa1drNE11ZkJGMjhxZHpLQmFWVndSZDBEOXBQTTFqMkoxRUIwNGtpanJhV3paR1YtN2o1eVM4eWV4UVlr?oc=5",
+      "time": "2026-05-23T21:48:14+09:00",
+      "summary": "Tabnine's Visionary Status: Does Context-Driven AI Coding Redefine Enterprise Software Delivery?    The Futurum Group"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Marc Andreessen doesn't mince words on why AI coding agents are better than humans - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnBEaVBubmJzam9QTERpTjQzMGVvZ3FURnRybldyWWJWQ3dFa0ZldFpYQ0lzSVVwTWFkV05yR0N5cndIdlc5TDNxUjlldDc3UXNRblhWREcxLVJ3WVRuYU9EZ3hQMzRNUzIxd1VfdzFKMy1QVE9ocEtnRUwwNmlKRnpLbmhOa3hETkpEbVFKMTAzOFVmTlplUHhVRWIxdUVTQ051T0liSFBLOGV1bnJNUVJDV0NTWDk0cFJ2blJZT09vUzZPcTl0RzVwMWZlZGpKaFE?oc=5",
+      "time": "2026-05-23T21:53:19+09:00",
+      "summary": "Marc Andreessen doesn't mince words on why AI coding agents are better than humans    MSN"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Case study: Building an enterprise-scale agentic AI OS - EY",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmlxOEFpcV9mSmk2ZnZ3dHlkcWVuTXJyU0hpbkpwTW1fV2dxcGYtZTZtSFRlWW0yTTRObkxSOVpROGpZRlFFMXN0dVQxRFZiZVlHTEh5amNaTnpYakVqX0luR2haUUFDejlhenZHSWJpUzZuc3lZWHhjUWVBSkZHdTQ0RVYtQUdDSllGMDcybUxNOHFQZkpHbw?oc=5",
+      "time": "2026-05-23T22:12:30+09:00",
+      "summary": "Case study: Building an enterprise-scale agentic AI OS    EY"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcmxZUkhjOC02R3JuVGQwWWhKRzRaOVlSYWFEN0FDR3EybVVnWF9kOXprVXJNYmV0Y2ZQeXlhS0hZVnBfeklVMWxxXzQ5bnQ5czFuejB3RnlYUG9WdF9ZT0NyT2VUUFRuekV2Y2psV1pPVEJ4SnBoZ0JDaUN4RlJwdjVDYWgxOTRHWTRLS3lVSFBlVlFRZmZkeENja1RWM1RxNnpRaVV4bWw3eEhKQ1BIbnl4cFp2aGFRM2RsNmNjRmt3RjVKdjhYWXBIbFJxR0l1WENPWmYxWDh5bHJadEdEUV9NQm0yTVplVnlPb1RuRE9fWWR1MXlTcVdldk1wWUhTU3J4TlF6c1lVY01HaUpsdzNOak5EemY1RmtoV19PakFnenVLOTRBLUF2UG5mOWZ3MUJleS1val91RXNLN0tjbjVpWG5MbW9XOFhNd0RWb0FvaUdCeENDTmlyX05tWXBkN2ow?oc=5",
+      "time": "2026-05-23T22:43:00+09:00",
+      "summary": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI    Tom's Hardware"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "4 Million Weekly Users Drive OpenAI’s Coding Agent Lead - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3aUlleTQ0N0RmQ29kNURfR2kxRWp0ZEw1d1RmdnRVY0lUdUNoZ2dRUU1wX2c4dkxmay1hVWFEM0QxdEdpQjVhb2ZFN1VGNkRwVUpvWG9YNlI5TlJwclFUSUprRTkzcDFlbk9IQ05iSllhdw?oc=5",
+      "time": "2026-05-23T23:03:26+09:00",
+      "summary": "4 Million Weekly Users Drive OpenAI’s Coding Agent Lead    Quantum Zeitgeist"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Nvidia’s Hidden $60 Billion Business Is About to Overtake Broadcom - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRk9QNTUxajZXQUlfN2tfSE1QdjJnZ2xObHFIbDA4a1MwTXctZzRyNUdBZlRrcmZ5Vjk2U3FmSVN0S2J4d0dYRWZleE1wdm5qMElENEtHZllNSzQ1c3Bva1FjY3VuS085N1Y3TU85VVpUY1FVdXBBeHZxamJBdTBGRDZmOUVBVzkyOWxiSWVkZ01YTHlYSjl6VFlabXA0dXNETHdfcWN6NWVMVVVv?oc=5",
+      "time": "2026-05-23T23:59:03+09:00",
+      "summary": "Nvidia’s Hidden $60 Billion Business Is About to Overtake Broadcom    24/7 Wall St."
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Google CEO Sundar Pichai reveals ‘agentic’ AI future at I/O conference - News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOODlNUDctRzNiRkhieTZGSjRWNFRBd0x2YW9DMlItajV2WTNsUkgzU2w4Q1F0TWhzc2l3X2NNNXZRcW0xY0VsUFdCbXZueGxhSkdIVFpybmJiUkdQZXZJX2VpUjVQYWtZeF9fdUJYUmIxWVlySVlDc0FfRW12MUdKcTdQc1BFQnBDNXJuUjBGVnllbDRIUUJkVEZPY09VUGlwTU01X1JUXzdqalMwZExycEVTUXVkNmdPd0oteWo5UGVlNGtrczc2WU1wVkNFTnZfZmRucDNQRnBqd9IB3wFBVV95cUxQYnV6eTN4cHRPWERwWEx4cGhJNHBoX0dyT3hXWlBSTXcwUFhTYnd6bFZPeGRORTZRYjBFYmthNkVVUWUzZkd4eWU0dDNYNktrWF9SSTU4em4tclZyNWhVU0tYMWNxQW5XdHVCdGtia29waHh2Qm1VYWZZNnVXTWdTM2QyUUE5b2JMT1FLSm84R1NTZC0tMkJ2aUpDZHJuclh3N2hSMlVta3RkUVBOZmdrTG4zVEZSUk5ualZqT01PQmNNNy15cVZINVVlY0llUVptMEZGRzROS2NFQzkwNktB?oc=5",
+      "time": "2026-05-24T00:35:11+09:00",
+      "summary": "Google CEO Sundar Pichai reveals ‘agentic’ AI future at I/O conference    News.com.au"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Flowise: Open-Source Visual Low-Code Platform for AI Agents & RAG – Comprehensive Review. - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT21ySEc3bEhRTV90d2xMYmFCXzV6LW9CajVtWFZ5bGx5Rl9WTUpfX3NjOUhPN3h6SVRycVhGQXRWeWhvZE4tX0NYTDdsU3RxbnhiMk5zNGxFa3hiNUV1MjA5UjRXREVJSl8yX01fTF9EZFMyVGJkcE9pd1lHeFpLZUpsN2o3aWZCU0tkbWtqLWxMQUxHczJCVlMxTzA0RlJZTTI4TGJVTmVzdw?oc=5",
+      "time": "2026-05-24T01:32:28+09:00",
+      "summary": "Flowise: Open-Source Visual Low-Code Platform for AI Agents & RAG – Comprehensive Review.    quasa.io"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnRteENoYllxeFotbl92SVJ5QnZtZVRfMGRzZGxISTBkLWlPbDJjbkdkRWtoZnBrRTFNZXFKNUFDM1N1VDduUEhwbUFqR01QaV9mNGhWaVFsU3licElESlJtXzM1MHJzNUg1SFlSSllnMDR0ZnhNdldael9XY2xQeWZRNnhFVWtvNHdvZ28xdFhHUFVNTEhTQzdUdlMyZw?oc=5",
+      "time": "2026-05-24T01:41:59+09:00",
+      "summary": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs    PCMag"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire? - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2RU9TSTFoNUhicE9JTXJXV0lObkFSa0xacllLRXVwd09QeVM3THhoVnNqYVVkRmlPOUZEd3FwUzZpLU1jSkxWd1E3YXRrdUZUajB0OW5Ybm1HRmtzY2l2Vm9fUFpDS0N6OTVVemViVUxuZ01lVGIwc001X2NUdw?oc=5",
+      "time": "2026-05-24T01:45:00+09:00",
+      "summary": "Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire?    Futurism"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Ask AI or just Google it? Google makes a big change to a little search box - LAist",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenR3c1dUZ193YnowY3ZSY0hxampDY1kyalhaR0NnMEdjdElmLVpTOGstV3pwTUdUaGxVZEphSWwwcS1SSVZsa244b2ZYemtxMHhQZl9MNmhJeWhDLWo5Szd6ajg4RW1CR0RDV2pjT0dnX1pFM3NYTGpMNlJLU043VEgzdTJPZ0FWZC1pbENUUnNLelZGTTFmcnVpdnE?oc=5",
+      "time": "2026-05-24T02:06:00+09:00",
+      "summary": "Ask AI or just Google it? Google makes a big change to a little search box    LAist"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Independent SAP Consultancy Launches Agentic AI Tools to Cut S/4HANA Programme Costs - Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUxwVjVPVXdBYnlab0tMemZSOWd3RVRJNjFmVFlWa0VUZ091aF85R0NXeC1mam9wUFJfQUttOERGWHktN2NaVXdLdm9VZkZVVmRjNUxnS3dWZXUwMEVGYkVuRERhT2ZEWjJrRXU1cXRBdkl6dUZpMHFTWHY2a3FHaS1fcG5mOGx6VTZGT1NVMDMyTFVqUEd6Z0VkRTQ5TWJLc0dTRFJxb0dUaDNNcklhb1hMN0laZEE?oc=5",
+      "time": "2026-05-24T04:00:03+09:00",
+      "summary": "Independent SAP Consultancy Launches Agentic AI Tools to Cut S/4HANA Programme Costs    Carroll County Mirror-Democrat"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Independent SAP Consultancy Launches Agentic AI Tools to Cut S/4HANA Programme Costs - lincolnjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPb09WRFFzX3R2Q0NyZGczeldHbDlncVVvWm5CdFJheFhLLTZzc0kxNjdTVGpIU3NrZlo0cEJaa0gxUGtQUVpUcG1OTldLYnA3WThJa2ZZWUZnN0l5cHo4Tk05VkJoVjdDQ2lueTQwU05zU2N3RUozSm9WQ0czczZQYVdONFhuNmtGSGY0emljWG1XZnRpWTZvcDAyOHhicXhqTkgxaWZaanVJdElSVnNSRGlzeDVYcXhKNG9Rd2Z3SXZJVHlxdm9UbnlsRmM0SGU3OU9oZlFGMzBWVm9hNnptVENjTUoxaUFSSUVxMmZPNFlIbWpoZEFNTVJqT0praWNXNy1iR3JMdDlhQ1ZkUnVaM1V0NGpQTEVUUHN6dDhCSThhUQ?oc=5",
+      "time": "2026-05-24T04:00:03+09:00",
+      "summary": "Independent SAP Consultancy Launches Agentic AI Tools to Cut S/4HANA Programme Costs    lincolnjournal.com"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Inside Google I/O 2026: the agentic AI shift no one saw coming - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFlMZUpSTUltZG10ZXEzbGtHeTkySnkwN21UcDZFVVhoRXNlaFRQamJUQlg0Q09hYldLV2VoeDNOM0x4VEJtcWhiVUx5bUQtV0dzQy1UWVREckg0S0dHdVgyeThHeGFVUTNTdGJudDFtcVRBMm52SWhUOGV4Q3NYX3JXNWJrZw?oc=5",
+      "time": "2026-05-24T05:53:37+09:00",
+      "summary": "Inside Google I/O 2026: the agentic AI shift no one saw coming    PPC Land"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Arm Holdings (ARM), Red Hat Expand Collaboration for Agentic AI Stack - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQXlzdVI0RGhsY1pjd2wwbW95VDdzb3pvOTVEUWJEOEpVdTJyOUd4Vi1mM3FvRVlIMXRYeWxtazdHZXF2WkZIM3IzWUdiVTFhSWd2RU1FNjY3dGRfVjFEaU50TDZMRjJORHFpTEEyOGtZckppQzNiWjM2QVZvUXdMRUhTV0FhblZQSWx5azcya3VCOVU?oc=5",
+      "time": "2026-05-24T06:16:53+09:00",
+      "summary": "Arm Holdings (ARM), Red Hat Expand Collaboration for Agentic AI Stack    Yahoo Finance"
+    },
+    {
+      "kind": "news_discovery",
+      "source": "Google News RSS",
+      "title": "Arm and Red Hat expand agentic AI stack - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0pZblJ1UGdCMkJsdEsyMndTWWcwN0Nxd3VOOWp4ell6bDI4b2JLUFpUSnpMaHF4Z0NSSkh4Nm9KNDY1NnJ5QVRqQ3RIRUZ1aHhHYUl3SDlFQ2dnZ1pJU2pPUGE3dU5iaEFRd2JwUzNwN2Rzalh3dUlZUDg3SjlpRDI2UEwzaHUx?oc=5",
+      "time": "2026-05-24T06:16:53+09:00",
+      "summary": "Arm and Red Hat expand agentic AI stack    Let's Data Science"
+    }
+  ],
+  "errors": []
+}
