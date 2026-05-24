@@ -1,7 +1,3 @@
-# Design System
+# Design
 
-- Tone: Korean enterprise technology briefing, executive-readable, consulting-ready.
-- Typography: Noto Sans KR with system sans fallback.
-- Layout: sticky TOC, responsive cards, long-form article, executive signal panels.
-- Color: dark navy, cyan/violet accents, white cards for readability.
-- Visual assets: no vendor logos; abstract AI operating model imagery only.
+Professional Korean enterprise technology briefing. Dark navy background, cyan accent, sticky TOC, card-based news/post summaries, long-form article, and executive action panels. Font: Noto Sans KR. Avoid vendor logos and copyrighted brand marks.
