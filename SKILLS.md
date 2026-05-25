@@ -1,5 +1,7 @@
-# Natural-language editing examples
+# Natural-language Maintenance Examples
 
-- “오늘 날짜 브리핑을 추가하고 docs/index.html을 최신 날짜로 갱신해.”
-- “뉴스 카드의 presales 코멘트를 더 금융권 중심으로 바꿔.”
-- “Pages 배포본과 standalone HTML을 다시 생성하고 HTTP 200을 검증해.”
+- "오늘 날짜 브리핑으로 `docs/YYYYMMDD/`를 추가하고 최신본을 갱신해줘."
+- "뉴스 카드의 실무 코멘트를 금융권 presales 관점으로 강화해줘."
+- "Pages 최신본과 날짜별본의 이미지 경로를 검증해줘."
+
+Always run local HTTP checks and GitHub Pages checks after updates.

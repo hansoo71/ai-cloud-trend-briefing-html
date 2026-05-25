@@ -1,6 +1,7 @@
-# Agent Guide
+# Agent Editing Guide
 
-- Preserve source-first research notes under `docs/source/`.
-- Keep `src/` as editable source and `docs/` as GitHub Pages deployment output.
-- Do not invent timestamps or inaccessible source details.
-- If public repo contains full copyrighted article extracts, replace them with brief notes or keep only machine-readable extraction metadata necessary for verification.
+- Keep facts grounded in source URLs and RSS/feed timestamps.
+- Prefer vendor/original URLs over Google News wrappers.
+- Update `src/`, `docs/index.html`, dated `docs/YYYYMMDD/`, and standalone output together.
+- Do not commit secrets or tokenized GitHub remotes.
+- If image generation creates recognizable company logos without permission, discard and regenerate or use deterministic fallback.
