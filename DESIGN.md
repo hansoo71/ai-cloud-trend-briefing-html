@@ -1,3 +1,8 @@
-# Design Notes
+# Design
 
-Professional Korean enterprise technology briefing style: dark navy background, electric blue accents, sticky table of contents, responsive cards, Noto Sans KR typography, and executive callout panels. Generated hero imagery must avoid official vendor logos unless explicitly licensed or requested.
+Editorial executive briefing style for Korean enterprise readers.
+
+- Typography: system sans-serif with Korean readability.
+- Layout: hero, signal cards, source-linked update cards, article section, governance checklist.
+- Colors: dark navy, blue/cyan highlights, high-contrast white cards.
+- Interaction: static HTML, responsive grid, no external runtime dependency.

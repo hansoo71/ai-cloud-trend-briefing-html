@@ -1,14 +1,13 @@
 # AI Cloud Trend Briefing HTML
 
-Daily Korean AI/cloud trend briefing companion site.
+Daily Korean AI/cloud/engineering trend briefing generated from public sources.
 
-- Latest Pages entry: https://hansoo71.github.io/ai-cloud-trend-briefing-html/
-- Dated entry: https://hansoo71.github.io/ai-cloud-trend-briefing-html/20260526/
-- Source notes: `docs/source/20260526-source-notes.md`
-- Telegram Markdown: `docs/source/20260526-briefing.md`
+- Latest Pages entry: `docs/index.html`
+- Dated archive: `docs/20260527/index.html`
+- Source notes: `docs/source/20260527-source-notes.md`
+- Reporting window: 2026-05-26 00:00 ~ 2026-05-27 07:59 KST
 
-## Structure
-- `src/`: editable source HTML/CSS/JS
-- `docs/`: GitHub Pages deployment copy
-- `docs/20260526/`: dated archive
-- `docs/source/`: collection notes and briefing markdown
+## Run locally
+```bash
+python3 -m http.server 8080 -d docs
+```
