@@ -1,13 +1,3 @@
-# AI Cloud Trend Briefing HTML
+# 인공지능 클라우드 동향 브리핑
 
-Daily Korean AI/cloud/engineering trend briefing generated from public sources.
-
-- Latest Pages entry: `docs/index.html`
-- Dated archive: `docs/20260527/index.html`
-- Source notes: `docs/source/20260527-source-notes.md`
-- Reporting window: 2026-05-26 00:00 ~ 2026-05-27 07:59 KST
-
-## Run locally
-```bash
-python3 -m http.server 8080 -d docs
-```
+공개 출처 기반 일일 기술 브리핑 저장소입니다. 최신 공개본은 `docs/index.html`, 날짜별 보관본은 `docs/20260528/index.html`입니다.

@@ -1,8 +1,1 @@
-# Design
-
-Editorial executive briefing style for Korean enterprise readers.
-
-- Typography: system sans-serif with Korean readability.
-- Layout: hero, signal cards, source-linked update cards, article section, governance checklist.
-- Colors: dark navy, blue/cyan highlights, high-contrast white cards.
-- Interaction: static HTML, responsive grid, no external runtime dependency.
+어두운 배경, 높은 대비, 카드형 레이아웃, 한국어 가독성을 우선합니다. 사용자 가시 텍스트는 한국어로 작성합니다.

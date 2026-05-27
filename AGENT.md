@@ -1,6 +1,1 @@
-# Agent Notes
-
-- Use only verifiable public sources.
-- Do not invent dates, feature status, model names, or metrics.
-- Keep `src/`, `docs/`, dated archive, standalone output, and `docs/source/` synchronized.
-- Avoid internal offering or customer-specific positioning unless explicitly requested.
+콘텐츠는 공개 원문 URL과 발표일이 확인된 항목만 사용합니다. 화면 표시 텍스트는 한국어로 유지하고, 출처 URL은 변경하지 않습니다.

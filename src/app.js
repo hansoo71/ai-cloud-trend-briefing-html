@@ -1,1 +1,1 @@
-document.querySelectorAll('a[target="_blank"]').forEach(a=>a.setAttribute('rel','noopener noreferrer'));
+document.documentElement.classList.add('ready');
