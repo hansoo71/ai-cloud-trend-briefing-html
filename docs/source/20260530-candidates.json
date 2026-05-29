@@ -1,0 +1,648 @@
+{
+  "window": {
+    "start": "2026-05-29T00:00:00+09:00",
+    "end": "2026-05-30T07:59:59+09:00"
+  },
+  "count": 79,
+  "items": [
+    {
+      "source": "OpenAI News",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "published_kst": "2026-05-29T21:00:00+09:00",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "published_kst": "2026-05-29T21:00:00+09:00",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "published": "Fri, 29 May 2026 03:00:00 GMT",
+      "published_kst": "2026-05-29T12:00:00+09:00",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "published_kst": "2026-05-29T09:00:00+09:00",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS End User Messaging RCS for Business now available in 20 additional countries",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/",
+      "published": "Fri, 29 May 2026 20:23:00 GMT",
+      "published_kst": "2026-05-30T05:23:00+09:00",
+      "summary": "<p> AWS End User Messaging now supports RCS for Business messaging in 20 additional countries, bringing the total to 22. Businesses can now send verified, branded RCS messages to customers in Austria, Brazil, Colombia, Czech Republic, Denmark, Dominican Republic, France, Germany, Guatemala, Italy, Mexico, Netherlands, Norway, Peru, Poland, Singapore, Slovakia, Spain, Sweden, and the United Kingdom, in addition to the United States and Canada.</p> <p>Customers can use the existing SendTextMessage"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule",
+      "published": "Fri, 29 May 2026 18:00:00 GMT",
+      "published_kst": "2026-05-30T03:00:00+09:00",
+      "summary": "<p>Amazon Connect Customer now supports scheduling tasks up to 90 days in advance, helping organizations plan, route, and track long-running follow-up work. For example, an insurance team managing an auto repair claim can schedule future tasks for an adjuster visit, parts availability check, and repair completion follow-up, with each task routed to the right team at the right time with relevant claim context. You can schedule tasks using the StartTaskContact API, flows, or the agent workspace.</"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Shield Advanced introduces DDoS attack flow logs",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/",
+      "published": "Fri, 29 May 2026 17:00:00 GMT",
+      "published_kst": "2026-05-30T02:00:00+09:00",
+      "summary": "<p>AWS Shield Advanced announces distributed denial-of-service (DDoS) attack flow logs, giving you packet-level visibility into traffic hitting Shield Advanced protected resources during a DDoS attack. The log data is published to Amazon S3, Amazon CloudWatch Logs, or Amazon Data Firehose, for forensic analysis and compliance purposes.</p> <p>The DDoS attack flow logs, capture critical packet-level details, including source and destination IP addresses, ports, protocols, packet and byte counts, "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
+      "published": "Fri, 29 May 2026 15:00:00 GMT",
+      "published_kst": "2026-05-30T00:00:00+09:00",
+      "summary": "<p>AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds.</p> <p>Customers have been adopting multicloud strategies while migrating more applications to the cloud. With AWS Interconnect - multicloud, AWS simplified the way cloud services providers (CSPs) offer managed, highly-resilient, private connectivity for customers. The <a href=\"https://github.com/aws/Interconnect\" target=\"_blank"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/",
+      "published": "Fri, 29 May 2026 15:00:00 GMT",
+      "published_kst": "2026-05-30T00:00:00+09:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-capacity.html\">base capacity configuration</a> of 4 Redshift Processing Units (RPUs) in the Asia Pacific (Hong Kong), Asia Pacific (Seoul), Canada (Central), Europe (London), South America (Sao Paulo), AWS GovCloud (US-East), and AWS GovCloud (US-West) regions. Amazon Redshi"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle",
+      "published": "Fri, 29 May 2026 07:49:00 GMT",
+      "published_kst": "2026-05-29T16:49:00+09:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpuapr2026.html#AppendixDB\" target=\"_blank\">Oracle April 2026 Release Update</a> (RU) for Oracle Database versions 19c and 21c, and the corresponding Supplemental Patch Bundle for Oracle Database version 19c. We recommend upgrading to the April 2026 RU as it includes security updates for Oracle database pro"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Oracle Database@AWS is now available in twenty AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "published_kst": "2026-05-29T16:00:00+09:00",
+      "summary": "<p>Oracle Database@AWS is now generally available in eight additional AWS Regions: EU-Central-2 (Zurich), EU-South-1 (Milan), EU-South-2 (Spain), EU-West-3 (Paris), AP-Northeast-3 (Osaka), AP-Southeast-1 (Singapore), AP-Southeast-4 (Melbourne) and SA-East-1 (Sao Paulo). Oracle Database@AWS enables customers to access Oracle Cloud Infrastructure (OCI) managed Oracle Exadata systems within AWS data centers. With this launch, customers in Europe, South America, and Asia Pacific with in-region data "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon S3 Tables are now available in two additional AWS Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/",
+      "published": "Fri, 29 May 2026 04:00:00 GMT",
+      "published_kst": "2026-05-29T13:00:00+09:00",
+      "summary": "<p>Amazon S3 Tables are now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions.</p> <p>Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, streamlining tabular data storage at scale. S3 Tables automatically perform continual table maintenance to optimize query efficiency and reduce storage costs as your data lake grows and evolves. Because S3 Tables support the Apache Iceberg standard, your data is easily queryable by both AWS an"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
+      "published": "Thu, 28 May 2026 20:57:00 GMT",
+      "published_kst": "2026-05-29T05:57:00+09:00",
+      "summary": "<p>Today, AWS Billing and Cost Management (BCM) announces support for Budgets widgets in BCM Dashboards, giving you the flexibility to customize your cost management console with the views that matter most to your organization. You can now monitor AWS Budgets alongside Cost Explorer reports and Savings Plans and Reserved Instance coverage and utilization reports, all in a single, tailored dashboard.</p> <p>Previously, reviewing budget performance required navigating to a separate console page. N"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS IoT Core adds APIs for MQTT connection management",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/",
+      "published": "Thu, 28 May 2026 20:30:00 GMT",
+      "published_kst": "2026-05-29T05:30:00+09:00",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> launches two new MQTT connection management APIs, GetConnection and ListSubscriptions, enabling you to easily access MQTT client connection and subscription information for your Internet of Things (IoT) devices. These APIs help you troubleshoot connectivity issues, monitor client behavior, and audit connection patterns across your device fleet.<br> <br> The <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/mqtt.ht"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Organizations emits CloudTrail events for account membership changes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
+      "published": "Thu, 28 May 2026 16:00:00 GMT",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<p>AWS Organizations now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new events—AccountJoinedOrganization and AccountDepartedOrganization—provide security teams and cloud administrators with enhanced visibility into organizational membership changes, helping detect unauthorized activities and potential security incidents that previously could go unnoticed. </p> <p>The AccountJoinedOrganization event captures how an acc"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS announces general availability of the next generation of AWS Resilience Hub",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/",
+      "published": "Thu, 28 May 2026 16:00:00 GMT",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<p>Today, AWS announces the general availability of the next generation of AWS Resilience Hub, a central location in the AWS console that helps platform engineering and site reliability teams assess and strengthen the resilience of their critical workloads running on AWS. This new update expands on AWS Resilience Hub’s existing experience for meeting resilience objectives by introducing a new application model, dependency discovery, generative AI-powered failure mode analysis, modular resilience"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/",
+      "published": "Thu, 28 May 2026 15:21:00 GMT",
+      "published_kst": "2026-05-29T00:21:00+09:00",
+      "summary": "<p>Amazon Connect Customer now supports generative AI-powered post-contact summaries in eight additional language families: Portuguese, French, Italian, German, Spanish, Chinese, Japanese, and Korean. Post-contact summaries also now support non-US variations of English, including British English, Australian English, and other regional locales, ensuring summaries reflect locally appropriate spelling and terminology.</p> <p>Generative AI-powered post-contact summaries provide agents and managers w"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Claude Opus 4.8 is now available on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/",
+      "published": "Thu, 28 May 2026 15:16:00 GMT",
+      "published_kst": "2026-05-29T00:16:00+09:00",
+      "summary": "<p>AWS now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, professional knowledge work, and long-running autonomous tasks for developers and enterprises building production AI applications.</p> <p>Claude Opus 4.8 can perform longer autonomous runs, deeper reasoning, and consistency to be trusted with production work. For coding, the Opus 4.8 reads codebases like an engineer, plans before it edits, and h"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/",
+      "published": "Thu, 28 May 2026 15:00:00 GMT",
+      "published_kst": "2026-05-29T00:00:00+09:00",
+      "summary": "<p>Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. DynamoDB Streams captures time-ordered sequences of item-level modifications in DynamoDB tables, enabling real-time data processing and event-driven architectures. This enhancement allows government agencies and organizations with federal compliance requirements to establish private connectivity between their VPCs and DynamoDB Streams FIPS endpoints w"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon WorkSpaces Applications adds support for Windows Desktop OS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS/",
+      "published": "Thu, 28 May 2026 15:00:00 GMT",
+      "published_kst": "2026-05-29T00:00:00+09:00",
+      "summary": "<p>Amazon WorkSpaces Applications now supports the ability to set up streaming resources powered by Windows Desktop operating systems using Bring Your Own License (BYOL). Customers can now bring their existing Windows Desktop licenses to support their eligible Microsoft 365 Apps for enterprise, delivering a consistent and familiar desktop experience as users move between on-premises and virtual desktop environments.<br> <br> With BYOL support on WorkSpaces Applications, the operating system is h"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "The next generation of Amazon OpenSearch Serverless is now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/",
+      "published": "Thu, 28 May 2026 15:00:00 GMT",
+      "published_kst": "2026-05-29T00:00:00+09:00",
+      "summary": "<p>Today, AWS announced the general availability of the next generation of Amazon OpenSearch Serverless, a fully managed search and vector engine designed for customers building agents. The next generation of OpenSearch Serverless auto scales 20x faster than its predecessor and provisions resources in seconds to meet the demands of even the most unpredictable agentic workflows. With scale-to-zero and pay-per-usage pricing, customers can now save up to 60% compared to the cost of provisioning Ope"
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+      "published": "Thu, 28 May 2026 21:54:06 +0000",
+      "published_kst": "2026-05-29T06:54:06+09:00",
+      "summary": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with limited training data and no existing blueprint for efficient LLM training in Azerbaijani. In a six-week collaboration, Azercell worked with the AWS Generative AI Innovation Center to establish a production"
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
+      "published": "Thu, 28 May 2026 20:39:22 +0000",
+      "published_kst": "2026-05-29T05:39:22+09:00",
+      "summary": "In this post, you learn how to build a custom portal with embedded SageMaker AI MLflow Apps UI. You walk through the architecture pattern behind a React front end paired with a Flask reverse proxy that handles AWS Signature Version 4 (SigV4) authentication, deploy the entire stack through the AWS Cloud Development Kit (AWS CDK), validate the deployment, and review security considerations and cleanup procedures."
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
+      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+      "published": "Thu, 28 May 2026 20:35:44 +0000",
+      "published_kst": "2026-05-29T05:35:44+09:00",
+      "summary": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing cloud transformation who want to preserve their existing ML workflows while adopting cloud-native services."
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Evaluating Deep Agents using LangSmith on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
+      "published": "Thu, 28 May 2026 20:32:23 +0000",
+      "published_kst": "2026-05-29T05:32:23+09:00",
+      "summary": "This post combines learnings from LangChain’s work on evaluating deep agents and Anthropic’s guide to demystifying evals for AI agents into a practical guide. In this post, you will learn how to: 1) apply five evaluation patterns for deep agents, 2) build offline evaluations using pytest and LangSmith, and 3) configure online monitoring for production. The walkthrough uses a text-to-SQL deep agent with Amazon Bedrock for the full development to production lifecycle."
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
+      "published": "Thu, 28 May 2026 18:10:47 +0000",
+      "published_kst": "2026-05-29T03:10:47+09:00",
+      "summary": "Agent evaluation is most powerful when you combine fast-moving online signals with stable offline baselines. To understand whether your agent is truly improving over time, you need a fixed benchmark alongside your changing real-world traffic. Managing test cases for evaluation baselines as a dataset in Amazon Bedrock AgentCore brings the discipline of versioned test fixtures […]"
+    },
+    {
+      "source": "AWS ML Blog",
+      "title": "Automate AML alert triage with Amazon Quick and Snowflake Cortex AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+      "published": "Thu, 28 May 2026 16:41:07 +0000",
+      "published_kst": "2026-05-29T01:41:07+09:00",
+      "summary": "This post demonstrates that integration in action by automating one of the most labor-intensive workflows in financial services: anti-money laundering (AML) alert triage. You will build a triage workflow using Amazon Quick Flows and Snowflake Cortex, connected through the Amazon Quick Model Context Protocol (MCP) integration. In our testing environment, automated workflows built using Amazon Quick reduced alert investigation time from 30-90 minutes to under 5 minutes. Actual results may vary bas"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
+      "url": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/",
+      "published": "Thu, 28 May 2026 22:44:17 +0000",
+      "published_kst": "2026-05-29T07:44:17+09:00",
+      "summary": "AWS Network Firewall now supports native attachment to AWS Transit Gateway. Customers commonly use Transit Gateway to route traffic from Amazon Virtual Private Cloud (Amazon VPC) networks to a centralized inspection VPC (a VPC dedicated to hosting firewall endpoints for traffic inspection) where their network firewall endpoints are deployed. This centralized deployment model reduces the […]"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
+      "url": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/",
+      "published": "Thu, 28 May 2026 18:57:13 +0000",
+      "published_kst": "2026-05-29T03:57:13+09:00",
+      "summary": "Network administrators face a persistent challenge: maintaining domain blocklists and allowlists that keep pace with the internet. New websites and services emerge daily, and keeping these lists current requires constant manual updates that leave gaps in coverage. This challenge intensifies when managing access to rapidly evolving categories like AI services, where new tools launch on […]"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Cool stuff Google Cloud customers built, May edition: Agentic algorithms for supply chains; virtual try-on APIs; robotic camera operators & more",
+      "url": "https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"font-style: italic; vertical-align: baseline;\">AI and cloud technology are reshaping every corner of every industry around the world. Without our customers, who are building the future on our platform, there would be no Google </span></p> <p><span style=\"font-style: italic; vertical-align: baseline;\">Cloud. In this </span><a href=\"https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up-april-202"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Cloud CISO Perspectives: How to build an AI-ready security program for the public sector",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-to-build-an-ai-ready-security-program-for-the-public-sector/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph\"><p data-block-key=\"eucpw\">Welcome to the second Cloud CISO Perspectives for May 2026. Today, Usman Chaudhary, Field CISO, Google Public Sector, offers a guide for CISOs protecting government agencies and critical infrastructure on how to get started — and get the most out of — defending with AI.</p><p data-block-key=\"3iu9a\">As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the <a href=\"https://cloud.google.com/blog/products/identity-s"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Developer's guide to Gemini Enterprise and A2UI integration",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-gemini-enterprise-and-a2ui-integration/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">If you've built a chatbot, you know this conversation:</span></p> <p style=\"padding-left: 40px;\"><strong style=\"vertical-align: baseline;\">User:</strong><span style=\"vertical-align: baseline;\"> \"Book a table for two tomorrow at 7pm.\" </span><strong style=\"vertical-align: baseline;\">Agent:</strong><span style=\"vertical-align: baseline;\"> \"Okay, for what day?\" </span><strong style=\"vertical-align: baseline;\">User:</st"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "From petabytes to predictions: Easy BigQuery insights in Google Sheets",
+      "url": "https://cloud.google.com/blog/products/data-analytics/using-connected-sheets-to-analyze-bigquery-data/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p style=\"text-align: justify;\"><span style=\"vertical-align: baseline;\">Many organizations’ single source of truth is data that resides in BigQuery, Google’s governed, secure and petabyte-scale data platform. However, the \"last mile\" of ad-hoc analysis, modeling, and reporting often happens where business users are most comfortable: Google Sheets.</span></p> <p style=\"text-align: justify;\"><span style=\"vertical-align: baseline;\">Bridging this gap usually inv"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "AlloyDB Hot Standby: Faster failovers, consistent performance",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-hot-standby-faster-failovers-and-consistent-performance/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">AlloyDB for PostgreSQL is a fully managed, PostgreSQL-compatible database service designed for the most demanding enterprise workloads. It combines the best of PostgreSQL with the power of Google, delivering exceptional performance, scalability, and availability. We are continuously innovating to make AlloyDB even more resilient, and today, we're excited to announce a significant upgrade to our High Availability (HA"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 29 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-30T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph\"><p data-block-key=\"kgod7\">Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. </p><hr/><p data-block-key=\"ru1z9\"><b>Tip</b>: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: <a href=\"https://cloud.google.com/blog/topics/inside-google-cloud/complete-list-google-cloud-blog-links-2021\">Google Clou"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "How the University of Central Oklahoma is using AI to streamline analysis of complex criminal cases",
+      "url": "https://cloud.google.com/blog/topics/public-sector/how-the-university-of-central-oklahoma-is-using-ai-to-streamline-analysis-of-complex-criminal-cases/",
+      "published": "Thu, 28 May 2026 19:00:00 +0000",
+      "published_kst": "2026-05-29T04:00:00+09:00",
+      "summary": "<div class=\"block-paragraph\"><p data-block-key=\"ea4by\">In the high-stakes world of forensic science, time is the enemy of justice. <a href=\"https://www.uco.edu/\" target=\"_blank\">The University of Central Oklahoma</a> (UCO) Forensic Science Institute (FSI) was looking for an innovative AI solution that could help reduce the time required to analyze complex criminal case documents and construct clear timelines. In early tests, this solution, which can typically take criminal investigators months, "
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "AI in SRE: Where and how Google is deploying agentic AI to improve operations",
+      "url": "https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations/",
+      "published": "Thu, 28 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Since its inception over 20 years ago, Google has used </span><a href=\"https://sre.google/\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; vertical-align: baseline;\">Site Reliability Engineering (SRE)</span></a><span style=\"vertical-align: baseline;\"> to keep services like Search, Gmail, Maps, YouTube and Google Cloud reliable and highly available, adhering to the </span><a href=\"https://sre"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Evolving Dataflow to process massive datasets for machine learning",
+      "url": "https://cloud.google.com/blog/products/data-analytics/ai-focused-innovations-in-dataflow/",
+      "published": "Thu, 28 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Google created </span><a href=\"https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; vertical-align: baseline;\">MapReduce</span></a><span style=\"vertical-align: baseline;\"> more than 20 years ago to solve the scaling problems in data processing that the then young company was running into. The AI era th"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Nano Banana 2 and Nano Banana Pro are generally available, and already powering creative workflows",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available/",
+      "published": "Thu, 28 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Organizations are unlocking entirely new ways to use image generation and editing across their industries. To drive next-generation experiences, businesses are embedding AI directly into creative, agentic workflows. But next-gen workflows require enterprise-grade AI you can trust. </span></p> <p><strong style=\"vertical-align: baseline;\">What’s new: </strong><span style=\"vertical-align: baseline;\">To help customers c"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Go from resource-level to business-level maintenance in Google Cloud",
+      "url": "https://cloud.google.com/blog/products/application-development/app-centric-maintenance-visibility-in-unified-maintenance/",
+      "published": "Thu, 28 May 2026 16:00:00 +0000",
+      "published_kst": "2026-05-29T01:00:00+09:00",
+      "summary": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Managing planned maintenance is a critical part of running a reliable business. But as your cloud footprint grows into hundreds or even thousands of projects, keeping track of every individual update can feel like a full-time job. For many platform teams, the reality is a disjointed experience: jumping between dashboards to figure out which maintenance event affects which business service.</span></p> <p><span style="
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "published": "Fri, 29 May 2026 19:00:00 +0000",
+      "published_kst": "2026-05-30T04:00:00+09:00",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\">We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "published": "Fri, 29 May 2026 17:30:00 +0000",
+      "published_kst": "2026-05-30T02:30:00+09:00",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\">Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "published": "Fri, 29 May 2026 12:00:00 +0000",
+      "published_kst": "2026-05-29T21:00:00+09:00",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\">University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "published": "Thu, 28 May 2026 15:00:00 +0000",
+      "published_kst": "2026-05-29T00:00:00+09:00",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp\">Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Databricks at SIGMOD 2026",
+      "url": "https://www.databricks.com/blog/databricks-sigmod-2026",
+      "published": "Fri, 29 May 2026 18:28:00 GMT",
+      "published_kst": "2026-05-30T03:28:00+09:00",
+      "summary": "Databricks continues to lead the way in engineering innovation, consistently pushing..."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Winning under CMS TEAM: Building the learning health system to realize success in VBC today and tomorrow",
+      "url": "https://www.databricks.com/blog/winning-under-cms-team-building-learning-health-system-realize-success-vbc-today-and-tomorrow",
+      "published": "Fri, 29 May 2026 13:53:00 GMT",
+      "published_kst": "2026-05-29T22:53:00+09:00",
+      "summary": "Starting January 1, 2026, over 700 hospitals across the United States faced a new..."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "How enterprise leaders are scaling AI agents across their organization",
+      "url": "https://www.databricks.com/blog/how-enterprise-leaders-are-scaling-ai-agents-across-their-organization",
+      "published": "Thu, 28 May 2026 19:30:00 GMT",
+      "published_kst": "2026-05-29T04:30:00+09:00",
+      "summary": "Dee Fitzgerald (CDO, Danone), Prem Natarajan (EVP, Chief Scientist, Capital One),..."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Advancing Apache Iceberg on Databricks: Iceberg v3 GA, Open Sharing, and Unified Governance",
+      "url": "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm",
+      "published": "Thu, 28 May 2026 18:58:09 GMT",
+      "published_kst": "2026-05-29T03:58:09+09:00",
+      "summary": "The next phase of the open lakehouse will be defined by the catalog. Open table formats..."
+    },
+    {
+      "source": "Harness Blog",
+      "title": "BigQuery CI/CD with Harness Database DevOps",
+      "url": "https://www.harness.io/blog/bigquery-ci-cd-and-database-devops-with-harness",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "published_kst": "2026-05-29T09:00:00+09:00",
+      "summary": "Automate BigQuery schema deployments with Harness using secure OIDC authentication and CI/CD pipelines. | Blog"
+    },
+    {
+      "source": "Harness Blog",
+      "title": "Feature Flag Tools Compared: 10 Platforms for Safer Releases",
+      "url": "https://www.harness.io/blog/feature-flag-tools-compared-10-best-platforms-for-safer-releases",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "published_kst": "2026-05-29T09:00:00+09:00",
+      "summary": "Compare 10 feature flag tools across rollout controls, experimentation, governance, self-hosting, and observability. Find the best platform for startups, enterprises, and data-driven teams. | Blog"
+    },
+    {
+      "source": "Harness Blog",
+      "title": "Anthropic’s Mythos, Glasswing, and AI’s Next Phase",
+      "url": "https://www.harness.io/blog/anthropics-mythos-glasswing-and-how-the-industry-must-move-forward",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "published_kst": "2026-05-29T09:00:00+09:00",
+      "summary": "This is not a security problem. As we’ve settled into the speed of AI, it’s become clear that security isn’t a job solely for the security team. Here’s why. | Blog"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "How Is AI Used in Neurological Care? - Brain & Life",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwV2EyaG04NGVXYjk5dTMwNFpvSDRHWEhBX2VFZGhhd3VMbHdQX2l1NnRSS0QzZ3lIczZSWi12dkxCV0RicThseTAtNmlhdFVybFNfckVibDdlOGhrc2ZRTzBPZ2RRNlJBVUhsUk9iMzd2bDlIT1VNX0VjMEY4dw?oc=5",
+      "published": "Fri, 29 May 2026 20:10:23 GMT",
+      "published_kst": "2026-05-30T05:10:23+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwV2EyaG04NGVXYjk5dTMwNFpvSDRHWEhBX2VFZGhhd3VMbHdQX2l1NnRSS0QzZ3lIczZSWi12dkxCV0RicThseTAtNmlhdFVybFNfckVibDdlOGhrc2ZRTzBPZ2RRNlJBVUhsUk9iMzd2bDlIT1VNX0VjMEY4dw?oc=5\" target=\"_blank\">How Is AI Used in Neurological Care?</a> <font color=\"#6f6f6f\">Brain & Life</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Who Asked You: To AI or not to AI? That is the question - The Daily Northwestern",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzZHX1I5b0tuRXFIZ3BxYTJ1ckt5aXJfa3NCLTcxWGlURXVJUnc4SVFvR1N2MDlOZDFkRUFicmFQRzRfNDJ4YnRNMm4tWTVBcktPbkdkMVpJWTBzNmdZVVl3WTUybjFFY2hNU2tHeFM5Q2FFRHVHcnRxdUwzV1ByN3htTFlUb0pJb25ac3RPRnRER3IxTGRjQ0lfU2Z2Mi1YT3lzb0lQT0xnXzRHbXc?oc=5",
+      "published": "Fri, 29 May 2026 05:45:32 GMT",
+      "published_kst": "2026-05-29T14:45:32+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzZHX1I5b0tuRXFIZ3BxYTJ1ckt5aXJfa3NCLTcxWGlURXVJUnc4SVFvR1N2MDlOZDFkRUFicmFQRzRfNDJ4YnRNMm4tWTVBcktPbkdkMVpJWTBzNmdZVVl3WTUybjFFY2hNU2tHeFM5Q2FFRHVHcnRxdUwzV1ByN3htTFlUb0pJb25ac3RPRnRER3IxTGRjQ0lfU2Z2Mi1YT3lzb0lQT0xnXzRHbXc?oc=5\" target=\"_blank\">Who Asked You: To AI or not to AI? That is the question</a> <font color=\"#6f6f6f\">The Daily Northwestern</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "The dueling A.I. apocalypses—and what Pope Leo has to say about both - America Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHkzV3k4dzZEalZlejVHcVZpM0hxZ1BFM3NyNV9RTFU3TC1OMFE3eWlZTllMNE1kWHhLMlMzUDFwQmE1UmFHdUhZUHJTN2pMYV9vcDVBSVVnWTV0emdwMHdEN2JZRHJlcnJEOUJMOU9XNFV6QlFmU213VUw3TjAwYUFFUjdsZ0RmSTlpTzdkOHIyc09fQkZQeEhzaGZMZEM1Ml96cXpIelZvY1huaWQ4cmRqRk1XY1hiTnpnQW5Daw?oc=5",
+      "published": "Fri, 29 May 2026 14:46:34 GMT",
+      "published_kst": "2026-05-29T23:46:34+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHkzV3k4dzZEalZlejVHcVZpM0hxZ1BFM3NyNV9RTFU3TC1OMFE3eWlZTllMNE1kWHhLMlMzUDFwQmE1UmFHdUhZUHJTN2pMYV9vcDVBSVVnWTV0emdwMHdEN2JZRHJlcnJEOUJMOU9XNFV6QlFmU213VUw3TjAwYUFFUjdsZ0RmSTlpTzdkOHIyc09fQkZQeEhzaGZMZEM1Ml96cXpIelZvY1huaWQ4cmRqRk1XY1hiTnpnQW5Daw?oc=5\" target=\"_blank\">The dueling A.I. apocalypses—and what Pope Leo has to say about both</a> <font color=\"#6f6f6f\">America Magazine</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Alibaba stock price keeps falling: 'Too much cash burn on AI or something else?' - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeE1IYW5mX0VoWHRLSEZEazJaV0RFOGNYYk9GalZJQmJ0cm5RanJaTEVSY1VTTVk5bk4wMG5hT3pEV0FleF9weUdOdEYwdHlBZnBZNUtJdEliamRFODhmRF9GSm9RZXU4a3kxU0wtdEhVVXJLV1FxMG5pMFpNRUd0dWlrRzhEOFczWlR2VVlYS1NTWGRVdVBwYnNOYWdRT1BGV0hkV1ozZmd6MkswMzZMMmwtdHU?oc=5",
+      "published": "Fri, 29 May 2026 18:01:22 GMT",
+      "published_kst": "2026-05-30T03:01:22+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeE1IYW5mX0VoWHRLSEZEazJaV0RFOGNYYk9GalZJQmJ0cm5RanJaTEVSY1VTTVk5bk4wMG5hT3pEV0FleF9weUdOdEYwdHlBZnBZNUtJdEliamRFODhmRF9GSm9RZXU4a3kxU0wtdEhVVXJLV1FxMG5pMFpNRUd0dWlrRzhEOFczWlR2VVlYS1NTWGRVdVBwYnNOYWdRT1BGV0hkV1ozZmd6MkswMzZMMmwtdHU?oc=5\" target=\"_blank\">Alibaba stock price keeps falling: 'Too much cash burn on AI or something else?'</a> <font color=\"#6f6f6f\">Seeking Alpha</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "The Hollywood A.I. Appeasement Vibe Shift - Puck",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaTUMzYjZkaDJSUno2OUpKZ1RBaHE5STU5VDU2M21KVU9oT1dhaGItOE1TQk9uQWRVaGVaTmJJQWxXbEc4ZGk4SUZTUk9OLVlnX0drMVAzazlwdzZzSW03Zy0yN2hWcVFLM241MWxoUVE0YnRUVzNZYw?oc=5",
+      "published": "Fri, 29 May 2026 17:06:47 GMT",
+      "published_kst": "2026-05-30T02:06:47+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBaTUMzYjZkaDJSUno2OUpKZ1RBaHE5STU5VDU2M21KVU9oT1dhaGItOE1TQk9uQWRVaGVaTmJJQWxXbEc4ZGk4SUZTUk9OLVlnX0drMVAzazlwdzZzSW03Zy0yN2hWcVFLM241MWxoUVE0YnRUVzNZYw?oc=5\" target=\"_blank\">The Hollywood A.I. Appeasement Vibe Shift</a> <font color=\"#6f6f6f\">Puck</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "LumeFlow AI Revolutionizes Video Production Pipeline with GPT Image 2 and AI Agent Skill - yourvalley.net",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1BIU2lTYlhnZmZaRzRTWlZsaFRYU3hZRDZDYVRmdTlYOG95SnNTZTUzZUFoeHJZMVF0M0F0aWNrTEstXzNIQmxOVkhuVlZva2Y1Q21iTkJfa3lIR1ozcy0zb0Z1UkdHdDdjUWpoMFpwVnBSTFdWSjZtMFdCdkY3QTh1LXdQc09oZDJsNE5rUnRCdWRZMXVUZ2hBbm15T0pxaDBOS2t2UkdkU3o2TVN6UzBUbnRFZjVFQ2tmTWxPT2U0cW4tSDloTmln?oc=5",
+      "published": "Fri, 29 May 2026 18:38:47 GMT",
+      "published_kst": "2026-05-30T03:38:47+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1BIU2lTYlhnZmZaRzRTWlZsaFRYU3hZRDZDYVRmdTlYOG95SnNTZTUzZUFoeHJZMVF0M0F0aWNrTEstXzNIQmxOVkhuVlZva2Y1Q21iTkJfa3lIR1ozcy0zb0Z1UkdHdDdjUWpoMFpwVnBSTFdWSjZtMFdCdkY3QTh1LXdQc09oZDJsNE5rUnRCdWRZMXVUZ2hBbm15T0pxaDBOS2t2UkdkU3o2TVN6UzBUbnRFZjVFQ2tmTWxPT2U0cW4tSDloTmln?oc=5\" target=\"_blank\">LumeFlow AI Revolutionizes Video Production Pipeline with GPT Image 2 and AI Agent Skill</a> <font color=\"#6f6f6f\">yourvalley.net</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Meta’s Massive Layoffs Are the Latest Sign Mark Zuckerberg Is All In on AI Overhaul - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWpHVnBjM2h1U0tuTXhLd1FuWElNc1ZZczRKTFdSTkN0eWZQamxJMUY5T3F0SkRHS2lmb2xXZUxXNWpHc1BIYXd4ZW5Yb2JJYkFqSzJyMkpCWGE1ZzBROWlxU2tVNnpSd0cyUmM4bVJDQTlYWlpOUkppRHlubXpvLW5HejhKN1JBelRsMm1JdkhjTGktZVZjTERqRVBMUVNqZnM4ajB3?oc=5",
+      "published": "Fri, 29 May 2026 18:25:34 GMT",
+      "published_kst": "2026-05-30T03:25:34+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWpHVnBjM2h1U0tuTXhLd1FuWElNc1ZZczRKTFdSTkN0eWZQamxJMUY5T3F0SkRHS2lmb2xXZUxXNWpHc1BIYXd4ZW5Yb2JJYkFqSzJyMkpCWGE1ZzBROWlxU2tVNnpSd0cyUmM4bVJDQTlYWlpOUkppRHlubXpvLW5HejhKN1JBelRsMm1JdkhjTGktZVZjTERqRVBMUVNqZnM4ajB3?oc=5\" target=\"_blank\">Meta’s Massive Layoffs Are the Latest Sign Mark Zuckerberg Is All In on AI Overhaul</a> <font color=\"#6f6f6f\">MarketWise</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Token shock and the hidden cost of AI consumption - Spiceworks",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEw5NVVtMkdna3NzWkR6REZrdWQ2ZV81cmx0bjZBR1JaVEpueDB2ZG04cS1hdEJMWVQ5QjNoYVJOQUdXdjNfTVZ0a3V5QnR4WUFOUjBlNHBuRVdpcXpKb2hrQVpzTkdHVTdyRUJ2Y2tnMFZ1VlVOcldfSGJDbS1Dc0UtY0xXbGs?oc=5",
+      "published": "Fri, 29 May 2026 13:24:57 GMT",
+      "published_kst": "2026-05-29T22:24:57+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEw5NVVtMkdna3NzWkR6REZrdWQ2ZV81cmx0bjZBR1JaVEpueDB2ZG04cS1hdEJMWVQ5QjNoYVJOQUdXdjNfTVZ0a3V5QnR4WUFOUjBlNHBuRVdpcXpKb2hrQVpzTkdHVTdyRUJ2Y2tnMFZ1VlVOcldfSGJDbS1Dc0UtY0xXbGs?oc=5\" target=\"_blank\">Token shock and the hidden cost of AI consumption</a> <font color=\"#6f6f6f\">Spiceworks</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "CEOs go bargain hunting for AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IZ1dGNFFTN3pKdGpFR3ZXT1VZNzh3UXNQLVVmTmlJY2VsTXdzdVpWYVZuVkpYWnpjTF9ILThYRGNPNE5DMFRHcFFCTUdUUzBDSUo5VzlxdHdqZUMyMkRaeXdDTEcxdw?oc=5",
+      "published": "Fri, 29 May 2026 09:33:52 GMT",
+      "published_kst": "2026-05-29T18:33:52+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IZ1dGNFFTN3pKdGpFR3ZXT1VZNzh3UXNQLVVmTmlJY2VsTXdzdVpWYVZuVkpYWnpjTF9ILThYRGNPNE5DMFRHcFFCTUdUUzBDSUo5VzlxdHdqZUMyMkRaeXdDTEcxdw?oc=5\" target=\"_blank\">CEOs go bargain hunting for AI</a> <font color=\"#6f6f6f\">Axios</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "OpenAI, Anthropic CEOs walk back AI job warnings as IPOs loom - HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1NMbEcxVHluMFZBZEJBeGJCRXdkaHRhWWQyd2xDRGJBT3VWY1BoVHJvSmVmbU9wTHl0bldlRnVSV0dKSndxYXpNbWRyMWxTcm9DZTUyZ0lXWjdOczRfcDNMa1ZDaHEyenNMN1RnUi1jMUlBVFpuZ1dROVdNamFydDBNZ0ludkVXVEZLZktB?oc=5",
+      "published": "Fri, 29 May 2026 11:30:07 GMT",
+      "published_kst": "2026-05-29T20:30:07+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1NMbEcxVHluMFZBZEJBeGJCRXdkaHRhWWQyd2xDRGJBT3VWY1BoVHJvSmVmbU9wTHl0bldlRnVSV0dKSndxYXpNbWRyMWxTcm9DZTUyZ0lXWjdOczRfcDNMa1ZDaHEyenNMN1RnUi1jMUlBVFpuZ1dROVdNamFydDBNZ0ludkVXVEZLZktB?oc=5\" target=\"_blank\">OpenAI, Anthropic CEOs walk back AI job warnings as IPOs loom</a> <font color=\"#6f6f6f\">HR Executive</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Faster decisions, faster care for patients: Cognizant opens TriZetto Unify to AI agents - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM0h0Vk1yR0xTY0s4YUJZeUd6c3RvcXFxbWsyTm55QzJsOVFsLWt2OWJoODcyb0NYLXNMMFRGNWVjRWp2eDI1OVp0S21HY2UxQ2pTVlBIVHpaNmdCZTl0TDNYTXBZZmd1cTNvOS01enVQYzlONkdtdjVHREJQZXZiV3htd2ZYUjA5Z2ktRl9jSkpiSnowV2FfWXh2a2J6RERDX1dtT1dNRXNiT2I0Nk1qSHhSd3JlSzlMVlE1YUpIV0FRWmNSbmhMeWRWaUhCTHVNU3Y0VVB4Y3BBbElIaWEw?oc=5",
+      "published": "Fri, 29 May 2026 14:30:00 GMT",
+      "published_kst": "2026-05-29T23:30:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM0h0Vk1yR0xTY0s4YUJZeUd6c3RvcXFxbWsyTm55QzJsOVFsLWt2OWJoODcyb0NYLXNMMFRGNWVjRWp2eDI1OVp0S21HY2UxQ2pTVlBIVHpaNmdCZTl0TDNYTXBZZmd1cTNvOS01enVQYzlONkdtdjVHREJQZXZiV3htd2ZYUjA5Z2ktRl9jSkpiSnowV2FfWXh2a2J6RERDX1dtT1dNRXNiT2I0Nk1qSHhSd3JlSzlMVlE1YUpIV0FRWmNSbmhMeWRWaUhCTHVNU3Y0VVB4Y3BBbElIaWEw?oc=5\" target=\"_blank\">Faster decisions, faster care for patients: Cognizant opens TriZetto Unify to AI agents</a> <font color=\"#6f6f6f\">Morningstar</"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "D. Boral Capital Acted as Exclusive Placement Agent to Global Mofy AI Limited (Nasdaq: GMM) in Connection with its ~$8,000,000 Registered Direct Offering - newswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckpjUnhyb2VudkpZbVBzbFV1d3pqR0dHS01mc0lJc3RrdTV5VS1HSW1oeFBVaU1TN0k2bEduYjhlcXR0RWZBVXhnTi01ZmNqRXpIeXNsUXlZWDRYRXZ3NnNTZ29kNjVSdVFzcml4dXdyLU85WGE0ZG10YlNEaVFFeGlDQ0g4SmZKTU51QUlFcEt2T3JQQjVLQ2ZLRzVNMUY1QWcyenp4ZFVBZw?oc=5",
+      "published": "Fri, 29 May 2026 15:30:00 GMT",
+      "published_kst": "2026-05-30T00:30:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckpjUnhyb2VudkpZbVBzbFV1d3pqR0dHS01mc0lJc3RrdTV5VS1HSW1oeFBVaU1TN0k2bEduYjhlcXR0RWZBVXhnTi01ZmNqRXpIeXNsUXlZWDRYRXZ3NnNTZ29kNjVSdVFzcml4dXdyLU85WGE0ZG10YlNEaVFFeGlDQ0g4SmZKTU51QUlFcEt2T3JQQjVLQ2ZLRzVNMUY1QWcyenp4ZFVBZw?oc=5\" target=\"_blank\">D. Boral Capital Acted as Exclusive Placement Agent to Global Mofy AI Limited (Nasdaq: GMM) in Connection with its ~$8,000,000 Registered Direct Offering</a> <font color=\"#6f6f6f\">newswire.com</fon"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Cognizant to Host AI Forum on June 5, 2026 - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2ozamt0cXZiYlB0RDFqaktqUXdkWWVVV3V0V3o1RDZMSF93LXRHa3dDbGJTaDE5czduMTJYM1lVc3g2cFJqNnhiNElzaWtMQkRGelRRWmE1QU9HbGRWZ0ZBeEtXYTRZdkhYT2ZlaElkZkU4WV9OaTZCcUpuQzhxOHN5RQ?oc=5",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "published_kst": "2026-05-29T21:00:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2ozamt0cXZiYlB0RDFqaktqUXdkWWVVV3V0V3o1RDZMSF93LXRHa3dDbGJTaDE5czduMTJYM1lVc3g2cFJqNnhiNElzaWtMQkRGelRRWmE1QU9HbGRWZ0ZBeEtXYTRZdkhYT2ZlaElkZkU4WV9OaTZCcUpuQzhxOHN5RQ?oc=5\" target=\"_blank\">Cognizant to Host AI Forum on June 5, 2026</a> <font color=\"#6f6f6f\">Yahoo Finance Singapore</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Commentary: Parenting teens in the age of AI means choosing trust over control — Lisa Jarvis - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhWLWpjN2l4SmxxdkI5TmI4UlVuUlhWRldTeC14VXRyTFR6RmRrbWJhMldiZUdXZUpVNVJvUDdMMWpZTm0tSTIzWlFsNFJPV0NLYWxuOFJIUjJEYjFjQnRhbHhSSkhOWnZfdXp1RERuZHpfQkR5M3pHN0J5bXFxMkhWUEhHaDMxLUw1SGZuSXlvRlQyNnhDOWQyRG5haE5pdTVSUE5Tb3ZEOVk?oc=5",
+      "published": "Fri, 29 May 2026 05:36:49 GMT",
+      "published_kst": "2026-05-29T14:36:49+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhWLWpjN2l4SmxxdkI5TmI4UlVuUlhWRldTeC14VXRyTFR6RmRrbWJhMldiZUdXZUpVNVJvUDdMMWpZTm0tSTIzWlFsNFJPV0NLYWxuOFJIUjJEYjFjQnRhbHhSSkhOWnZfdXp1RERuZHpfQkR5M3pHN0J5bXFxMkhWUEhHaDMxLUw1SGZuSXlvRlQyNnhDOWQyRG5haE5pdTVSUE5Tb3ZEOVk?oc=5\" target=\"_blank\">Commentary: Parenting teens in the age of AI means choosing trust over control — Lisa Jarvis</a> <font color=\"#6f6f6f\">Jacksonville Journal-Courier</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Cognizant CEO and CFO tackle AI promise-to-impact gap June 5 - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlVKbEdoR0FaMW0tMEFsQVBXQWoySkh1QkFrNVpXWFRwalRhSlJCXzk0R0RyeDQ1a2lfYVZ2a01nRzNOZ2o3cHNlcjFkR3JxOVNNZmZ5Y1dnMHVFbWFIdTdnOVR4NVlxVVJEVVhrbC10WjNwYmxEN1pOTzZ1alAwajFHY1dKTVNUd1NzRk5fYmNHMXU2dXc?oc=5",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "published_kst": "2026-05-29T21:00:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlVKbEdoR0FaMW0tMEFsQVBXQWoySkh1QkFrNVpXWFRwalRhSlJCXzk0R0RyeDQ1a2lfYVZ2a01nRzNOZ2o3cHNlcjFkR3JxOVNNZmZ5Y1dnMHVFbWFIdTdnOVR4NVlxVVJEVVhrbC10WjNwYmxEN1pOTzZ1alAwajFHY1dKTVNUd1NzRk5fYmNHMXU2dXc?oc=5\" target=\"_blank\">Cognizant CEO and CFO tackle AI promise-to-impact gap June 5</a> <font color=\"#6f6f6f\">Stock Titan</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Big Law’s AI Threat to Harvey, Legora - The Information",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjlNU3FVTnZJaWpNejQyUkN3a01FbUlISXFiQ1IzcWs4cG83WlhpRElFSU5qODRVMFhWWG9ZcFJQUFMxYzRJRDNHMFF0QnljWG02Q3dveVdyMmJpNWFJZzdXNmZJY2NYVmxpZUNrc3pXeEJYcnVub3ZrOEFYbUxRYkM0eXhjdlBEWUExNlhB?oc=5",
+      "published": "Thu, 28 May 2026 23:47:00 GMT",
+      "published_kst": "2026-05-29T08:47:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjlNU3FVTnZJaWpNejQyUkN3a01FbUlISXFiQ1IzcWs4cG83WlhpRElFSU5qODRVMFhWWG9ZcFJQUFMxYzRJRDNHMFF0QnljWG02Q3dveVdyMmJpNWFJZzdXNmZJY2NYVmxpZUNrc3pXeEJYcnVub3ZrOEFYbUxRYkM0eXhjdlBEWUExNlhB?oc=5\" target=\"_blank\">Big Law’s AI Threat to Harvey, Legora</a> <font color=\"#6f6f6f\">The Information</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "SES UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds SES AI Corporation (SES) Investors of Securities Class Action Deadline on June 26, 2026 - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOM2NpVDdPWGtNX01uc1pDWTdZQWM1dU1PSmx4c1lDUkxVREpwcTlYcHRTLS05UHlKdlVhcFBGdUYtY3B4WlZKOTVZWTI0Y2lSWFdqM2k1akpCYlpsRmFGdXdJZTBfTTc1WnNqZkdpZEdEZURDbW1qZmxXa3FVN2xoelpRbnowRFBTdVNjMnZWRzJSWmlXSXJlUGlwMUZqYXlMTTE1VkxvRHJqbXk5WjIwa0hDTmFvblVZQVhfQzRkUnBCODROLVdXRmRtZXhDcHM0amRaaXFZLWZvM2FTeEx4RDR3ejlyVEZaeS1CLVVpYUlJS0pJQ09Qd2dhSHdURjhYRWxHRlpkdkVmVGszckl4MUhPeXB2MmQ3ZWNjMVdR?oc=5",
+      "published": "Fri, 29 May 2026 14:35:00 GMT",
+      "published_kst": "2026-05-29T23:35:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOM2NpVDdPWGtNX01uc1pDWTdZQWM1dU1PSmx4c1lDUkxVREpwcTlYcHRTLS05UHlKdlVhcFBGdUYtY3B4WlZKOTVZWTI0Y2lSWFdqM2k1akpCYlpsRmFGdXdJZTBfTTc1WnNqZkdpZEdEZURDbW1qZmxXa3FVN2xoelpRbnowRFBTdVNjMnZWRzJSWmlXSXJlUGlwMUZqYXlMTTE1VkxvRHJqbXk5WjIwa0hDTmFvblVZQVhfQzRkUnBCODROLVdXRmRtZXhDcHM0amRaaXFZLWZvM2FTeEx4RDR3ejlyVEZaeS1CLVVpYUlJS0pJQ09Qd2dhSHdURjhYRWxHRlpkdkVmVGszckl4MUhPeXB2MmQ3ZWNjMVdR?oc=5\" target=\"_blank\">SES UPCOMING DEADLINE: Faruqi & Faruqi, LLP"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "CoreWeave Speeds AI Agent Deployment With Real-World Learning - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3gzd1UyZFVJazBlcHpsQnh1eEVSUzM3UFh4WmNQTmRYQjlCUng1bExLOTNlV0JDV3dvRzdXSjZVeEhNLXVSR0o2UEl6Sk9oZU05a1d6TER1NUloMUxEc3FGWkRqRkI5dnBVcmxMdkJUdHVQdTkyZkhfOENIMXZ0LVV4RFFVRlJISEJVWHNIYTMwLTJNeHZBZTlfdnlIeFQ0Mm85NDQyUXJCbUNrTDlDUHQ4cHRnaVdqZmJF?oc=5",
+      "published": "Thu, 28 May 2026 19:18:37 GMT",
+      "published_kst": "2026-05-29T04:18:37+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3gzd1UyZFVJazBlcHpsQnh1eEVSUzM3UFh4WmNQTmRYQjlCUng1bExLOTNlV0JDV3dvRzdXSjZVeEhNLXVSR0o2UEl6Sk9oZU05a1d6TER1NUloMUxEc3FGWkRqRkI5dnBVcmxMdkJUdHVQdTkyZkhfOENIMXZ0LVV4RFFVRlJISEJVWHNIYTMwLTJNeHZBZTlfdnlIeFQ0Mm85NDQyUXJCbUNrTDlDUHQ4cHRnaVdqZmJF?oc=5\" target=\"_blank\">CoreWeave Speeds AI Agent Deployment With Real-World Learning</a> <font color=\"#6f6f6f\">PYMNTS.com</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Companies that say 'I don't want any AI' are at risk of falling behind, executive says - mpamag.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0hCN3JlcUJ4bUJLQ3Q4SEV3Xy1vclJXRHkydHF1YnF3RHN5WlNkaFlCcERfdFdDdHZsWE1pdTd1bkphU2dLVEpGY0tMdV9DZ2RqMHRDaklDZnBBMDNTMHBBQUJ4Qmx3b29Ta1dJbTBvdlctdmVOY1dsekk2UG16NU1PY1U2X3ZxQ0lsOVlwbm9pajgyaGtGU1IzSFdvTUN3OExPbFpxbHB1Y0lTd3hzR1BRbjZ3eWpTZnBOclB5WnpRTmFSWW5LaHhRc2ZYR0Jm?oc=5",
+      "published": "Thu, 28 May 2026 19:10:08 GMT",
+      "published_kst": "2026-05-29T04:10:08+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0hCN3JlcUJ4bUJLQ3Q4SEV3Xy1vclJXRHkydHF1YnF3RHN5WlNkaFlCcERfdFdDdHZsWE1pdTd1bkphU2dLVEpGY0tMdV9DZ2RqMHRDaklDZnBBMDNTMHBBQUJ4Qmx3b29Ta1dJbTBvdlctdmVOY1dsekk2UG16NU1PY1U2X3ZxQ0lsOVlwbm9pajgyaGtGU1IzSFdvTUN3OExPbFpxbHB1Y0lTd3hzR1BRbjZ3eWpTZnBOclB5WnpRTmFSWW5LaHhRc2ZYR0Jm?oc=5\" target=\"_blank\">Companies that say 'I don't want any AI' are at risk of falling behind, executive says</a> <font color=\"#6f6f6f\">mpamag.com</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Amid controversies, LI schools give AI the ‘old college try’ - Long Island Business News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHVDVl9EdUg0QklrUjhCaFJ1aU1ZSlpidGJETk5GN2R4VjBVMVU0cDhDNHRLUkQ5aUJ5eDhGVUg1X2s5T3NDbG55YXRxTG1pUFl5VVpwVTZ2ZkJNQ1ZRTWI5MUVuWUl4cXJxYVlQcHRJNWI3SVlwUlRaRnNpQXZZMVpjWXE?oc=5",
+      "published": "Thu, 28 May 2026 18:35:06 GMT",
+      "published_kst": "2026-05-29T03:35:06+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHVDVl9EdUg0QklrUjhCaFJ1aU1ZSlpidGJETk5GN2R4VjBVMVU0cDhDNHRLUkQ5aUJ5eDhGVUg1X2s5T3NDbG55YXRxTG1pUFl5VVpwVTZ2ZkJNQ1ZRTWI5MUVuWUl4cXJxYVlQcHRJNWI3SVlwUlRaRnNpQXZZMVpjWXE?oc=5\" target=\"_blank\">Amid controversies, LI schools give AI the ‘old college try’</a> <font color=\"#6f6f6f\">Long Island Business News</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Paul Schrader Sees AI Protagonists Becoming Box Office Draws: “You Do The New Clint Eastwood” Via Text Prompt - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVFKLUhYdWxRWUN2aHIxa3FJMl9JNzYzOUx0VHphUzhxamE1ckpVQWVQanVfYTE2U25VVzhOci1GLXpLTC1iU1J2cklyRVVLMkVURklYa3B0NERCRnlrUWtjX0ZIN3MwYy1tSlhMQ0x0OC11OE9Eb2VWUy11TzdnSmluaFdUYjF4Vk8yWThsV2M?oc=5",
+      "published": "Thu, 28 May 2026 18:45:00 GMT",
+      "published_kst": "2026-05-29T03:45:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVFKLUhYdWxRWUN2aHIxa3FJMl9JNzYzOUx0VHphUzhxamE1ckpVQWVQanVfYTE2U25VVzhOci1GLXpLTC1iU1J2cklyRVVLMkVURklYa3B0NERCRnlrUWtjX0ZIN3MwYy1tSlhMQ0x0OC11OE9Eb2VWUy11TzdnSmluaFdUYjF4Vk8yWThsV2M?oc=5\" target=\"_blank\">Paul Schrader Sees AI Protagonists Becoming Box Office Draws: “You Do The New Clint Eastwood” Via Text Prompt</a> <font color=\"#6f6f6f\">Deadline</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "SES AI Corporation (SES) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOUJCU3dPR3RJWGlMQ2ZJNWVUNFI0RXF5aGh2d2lPb3pLWk1pRW9URXRYSHVZUllkZDdUSjktRGZuRTI0SUwwV1lFTXRvSW51QUp5THJmbjZGUy1xSDNMdVVucmhQWVIxRk9wQW9zWVBLUmlxWFRoTlp1VXhJUzJXMXVYS3dVNW94d1NIb3hFMGFGdTllNFNWeHduV3NpeV9lLWE3WnBLbEVuOHJrd19fU0xYYWI4WF9JSlQ0TlBiUjNjN1dScnBDQmtHZlZHNk9Ua3M3RDRfVnJTUHZ4a0dLWE4yQkJUWDhFdktxbFZMbFRCSTA?oc=5",
+      "published": "Thu, 28 May 2026 19:24:00 GMT",
+      "published_kst": "2026-05-29T04:24:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOUJCU3dPR3RJWGlMQ2ZJNWVUNFI0RXF5aGh2d2lPb3pLWk1pRW9URXRYSHVZUllkZDdUSjktRGZuRTI0SUwwV1lFTXRvSW51QUp5THJmbjZGUy1xSDNMdVVucmhQWVIxRk9wQW9zWVBLUmlxWFRoTlp1VXhJUzJXMXVYS3dVNW94d1NIb3hFMGFGdTllNFNWeHduV3NpeV9lLWE3WnBLbEVuOHJrd19fU0xYYWI4WF9JSlQ0TlBiUjNjN1dScnBDQmtHZlZHNk9Ua3M3RDRfVnJTUHZ4a0dLWE4yQkJUWDhFdktxbFZMbFRCSTA?oc=5\" target=\"_blank\">SES AI Corporation (SES) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsu"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "What the Pope’s AI takedown and defence of humanity can teach us - The Hub | More Signal. Less Noise.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ21pcDhJYk5wUC1PeUpIaXVFcUgwTjVRRG9Zek05SFJGamNGSDE1Wm1TYk82bXdHeEhGdGtFQzR2SzE1Wk9rQzNXR3JHMmN0czFrTDhOcjAtaTVQZS04bjRJQU80cDRoZmkwdWl3dmZpeVpGZGxvYXhyTGRQTUV2VXVxMFo3U1FCRkxIRnh6M3R2cUhYdmkxYWZnN2dkZlphb1pGelo2b1YxRUNvckE?oc=5",
+      "published": "Fri, 29 May 2026 07:00:43 GMT",
+      "published_kst": "2026-05-29T16:00:43+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ21pcDhJYk5wUC1PeUpIaXVFcUgwTjVRRG9Zek05SFJGamNGSDE1Wm1TYk82bXdHeEhGdGtFQzR2SzE1Wk9rQzNXR3JHMmN0czFrTDhOcjAtaTVQZS04bjRJQU80cDRoZmkwdWl3dmZpeVpGZGxvYXhyTGRQTUV2VXVxMFo3U1FCRkxIRnh6M3R2cUhYdmkxYWZnN2dkZlphb1pGelo2b1YxRUNvckE?oc=5\" target=\"_blank\">What the Pope’s AI takedown and defence of humanity can teach us</a> <font color=\"#6f6f6f\">The Hub | More Signal. Less Noise.</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "AI in China: Workers' hopes and fears over impact to jobs - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pCTlh0bHJqa2xvUUZpN1NuTllYcDFzWDJ3Uk9HbWZWTjZnNUJKVkhiYjZhaVRXTU9jZERhS1YzT2c3cnVnSDVpc2JuTmNZa1dISFpQMEZWdFllWFNzSFpCUHczRjQtdjM5WUppOUpKVlM4UTQ3S1RMRDR6RkpsWndDbDdGZFVjUlpZSTR3TEc4dEpoZEJqdEQzaWt6S1k?oc=5",
+      "published": "Fri, 29 May 2026 21:01:27 GMT",
+      "published_kst": "2026-05-30T06:01:27+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pCTlh0bHJqa2xvUUZpN1NuTllYcDFzWDJ3Uk9HbWZWTjZnNUJKVkhiYjZhaVRXTU9jZERhS1YzT2c3cnVnSDVpc2JuTmNZa1dISFpQMEZWdFllWFNzSFpCUHczRjQtdjM5WUppOUpKVlM4UTQ3S1RMRDR6RkpsWndDbDdGZFVjUlpZSTR3TEc4dEpoZEJqdEQzaWt6S1k?oc=5\" target=\"_blank\">AI in China: Workers' hopes and fears over impact to jobs</a> <font color=\"#6f6f6f\">The Straits Times</font>"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "No cast, no crew, no cameras: AI-generated film premiering at Tribeca Festival - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TXh6TjNTTFdxaXp2cVN4YmZFUm9pemJOcHlsUllKSDJUV2VOYXFIZnhYOEZqam9BbnZRdmF1dW5Ba0h0aHVmc3JkelFPbk14THVORlktX2tiRjgxMEZYU3F4VFJmeFZqVjIxbkJvbXE2MFk4U3QzMDZXUUNadw?oc=5",
+      "published": "Thu, 28 May 2026 22:16:00 GMT",
+      "published_kst": "2026-05-29T07:16:00+09:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TXh6TjNTTFdxaXp2cVN4YmZFUm9pemJOcHlsUllKSDJUV2VOYXFIZnhYOEZqam9BbnZRdmF1dW5Ba0h0aHVmc3JkelFPbk14THVORlktX2tiRjgxMEZYU3F4VFJmeFZqVjIxbkJvbXE2MFk4U3QzMDZXUUNadw?oc=5\" target=\"_blank\">No cast, no crew, no cameras: AI-generated film premiering at Tribeca Festival</a> <font color=\"#6f6f6f\">CBC</font>"
+    },
+    {
+      "source": "Anthropic Sitemap",
+      "title": "Claude Design Anthropic Labs",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published": "2026-05-28T19:33:59.000Z",
+      "published_kst": "2026-05-29T04:33:59+09:00",
+      "summary": "Anthropic sitemap lastmod in reporting window."
+    },
+    {
+      "source": "Anthropic Sitemap",
+      "title": "Claude Opus 4 8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published": "2026-05-28T16:53:42.000Z",
+      "published_kst": "2026-05-29T01:53:42+09:00",
+      "summary": "Anthropic sitemap lastmod in reporting window."
+    },
+    {
+      "source": "Anthropic Sitemap",
+      "title": "Series H",
+      "url": "https://www.anthropic.com/news/series-h",
+      "published": "2026-05-28T18:07:20.000Z",
+      "published_kst": "2026-05-29T03:07:20+09:00",
+      "summary": "Anthropic sitemap lastmod in reporting window."
+    }
+  ],
+  "errors": [
+    [
+      "Microsoft Azure Updates",
+      "https://azure.microsoft.com/en-us/updates/feed/",
+      "not rss text/html"
+    ]
+  ]
+}
