@@ -1,3 +1,5 @@
+# 출처 및 검증 노트
+
 【📰 AI/클라우드/엔지니어링 뉴스 수집 완료 | 2026-05-31】
 한스님, 2026-05-31 08:00 KST 기준 공개 출처에서 확인된 AI/클라우드/엔지니어링 주요 업데이트를 정리했습니다. 이 리포트는 특정 내부 오퍼링이 아니라 기업의 기술 도입·운영·거버넌스 판단에 필요한 공개 지식 중심으로 작성되었습니다.
 
@@ -59,3 +61,11 @@
 - 확인되지 않은 수치/기능명/일반 제공 여부는 사용하지 않았습니다.
 - 카테고리 중 업데이트가 없는 경우 억지로 채우지 않았습니다.
 - 자체 작성 블로그 제목은 당일 검증 출처에서 새로 도출했으며, 최근 반복 제목과 동일하지 않게 확인했습니다.
+
+
+## 원문 링크
+- 오픈에이아이 공식 페이지: https://openai.com/index/introducing-workspace-agents-in-chatgpt/
+- 구글 클라우드 블로그: https://cloud.google.com/blog/topics/developers-practitioners/guide-to-gemini-enterprise-and-a2ui-integration/
+- 아마존웹서비스 기계학습 블로그: https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/
+- 구글 클라우드 블로그: https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-to-build-an-ai-ready-security-program-for-the-public-sector/
+- 아마존웹서비스 새로운 소식: https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/
