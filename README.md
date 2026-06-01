@@ -1,8 +1,11 @@
 # 인공지능·클라우드 기술 동향 브리핑
 
-매일 오전 한국시각 기준 공개 출처에서 확인한 인공지능, 클라우드, 엔지니어링 업데이트를 한국어 브리핑과 HTML 리포트로 보존하는 저장소입니다.
+매일 오전 공개 출처를 기준으로 인공지능, 클라우드, 엔지니어링 업데이트를 정리하는 한국어 HTML 브리핑 저장소입니다.
 
-- 최신 공개본: `docs/index.html`
-- 날짜별 보관: `docs/20260601/index.html`
-- 원문 근거: `docs/source/20260601-briefing-source-notes.md`
-- 단일 파일 전달본: `/opt/data/out/ai-cloud-trend-briefing-20260601.html`
+- 최신 문서: `docs/index.html`
+- 날짜별 문서: `docs/20260602/index.html`
+- 원문 및 수집 근거: `docs/source/`
+- 단일 파일 전달본: `/opt/data/out/ai-cloud-trend-briefing-20260602.html`
+
+## 검증 원칙
+공식 블로그, 공식 뉴스룸, 릴리스 노트, 왓츠뉴, 신뢰 가능한 공개 원문만 사용합니다. 확인되지 않은 수치와 기능 상태는 작성하지 않습니다.
