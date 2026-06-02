@@ -1,0 +1,422 @@
+{
+  "window": {
+    "start": "2026-06-02T00:00:00+09:00",
+    "end": "2026-06-03T07:59:59+09:00"
+  },
+  "curated_valid_count": 58,
+  "items": [
+    {
+      "source": "OpenAI News",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "published_kst": "2026-06-02T21:00:00+09:00",
+      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "published_kst": "2026-06-02T18:00:00+09:00",
+      "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "published_kst": "2026-06-02T16:00:00+09:00",
+      "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "published_kst": "2026-06-02T11:00:00+09:00",
+      "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "published_kst": "2026-06-02T02:00:00+09:00",
+      "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
+      "published_kst": "2026-06-03T06:48:00+09:00",
+      "description": "<p>Kubernetes version 1.36 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (EKS) and <a href=\"https://aws.amazon.com/eks/eks-distro/\" target=\"_blank\">Amazon EKS Distro</a> to run Kubernetes version 1.36. Starting today, you can create new EKS clusters using version 1.36 and upgrade existing clusters to version 1.36 using the EKS console, the eksctl comman"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Config now supports internal service linked rules",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules",
+      "published_kst": "2026-06-03T03:00:00+09:00",
+      "description": "<p>AWS Config now supports internal service linked rules, enabling AWS services to evaluate AWS resource configurations using AWS Config managed rules. Internal service linked rules extend the existing service linked recorder capability by allowing AWS services such as AWS Security Hub CSPM to deploy and manage rule evaluations for service specific functionality.<br> <br> With internal service linked rules, AWS services can use AWS Config managed rules to provide integrated security and complian"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
+      "published_kst": "2026-06-03T02:00:00+09:00",
+      "description": "<p>AWS Deadline Cloud now supports persistent storage for Service-Managed Fleets (SMF), allowing you to maintain data across worker lifecycle events. AWS Deadline Cloud is a fully managed service that makes it easy for teams to run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming.<br> <br> Previously, Deadline Cloud SMF workers relied only on ephemeral storage, requiring software and assets to be reinstalled each time a worker was rec"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/",
+      "published_kst": "2026-06-03T01:23:00+09:00",
+      "description": "<p>Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation models, you can go from sign-in to a fully configured Studio environment almost instantly.<br> <br> As part of this streamlined setup, newly created Studio environments now come with serverless model customization permissions automatically configured. A new managed policy, AmazonSag"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon ElastiCache for Valkey now supports durability",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache",
+      "published_kst": "2026-06-03T00:00:00+09:00",
+      "description": "<p>Today, AWS announces durability support for Amazon ElastiCache. Durability enables you to use ElastiCache for workloads that require microsecond read latency but cannot tolerate data loss. With durability support, ElastiCache now stores data durably across multiple Availability Zones (AZs) using a Multi-AZ transactional log to enable fast failover, database recovery, and node restarts to prevent data loss in the unlikely event of a failure.</p> <p>You can choose between two durability options"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Location Service announces public transit and intermodal routing",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-location-service/amazon-location-new-public-transit-intermodal-routing",
+      "published_kst": "2026-06-02T23:51:00+09:00",
+      "description": "<p>Amazon Location Service today announced support for public transit and intermodal routing in the Routes API. Developers can now use the CalculateRoutes operation with two new travel modes, Transit and Intermodal, to plan journeys that combine public transportation with walking, driving, taxi, and rental segments.<br> <br> With public transit routing, applications can calculate point-to-point routes using buses, subways, trains, ferries, and other transit types, including walking directions to"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Cost and Usage Report 2.0 now supports Athena and Redshift integration",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cur2.0-athena-redshift/",
+      "published_kst": "2026-06-02T22:40:00+09:00",
+      "description": "<p>AWS today announced that AWS Cost and Usage Report 2.0 (CUR 2.0) provides new integration options with AWS Athena and AWS Redshift. This capability allows customers to analyze the data from their AWS CUR 2.0 in Amazon Simple Storage Service (Amazon S3) using standard SQL without building custom data warehouse solutions, bringing feature parity with CUR 1.0 integration options. <br> <br> With this launch, when customers select Athena or Redshift integration, CUR 2.0 exports are automatically d"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/",
+      "published_kst": "2026-06-02T16:00:00+09:00",
+      "description": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> launches Bring Your Own Media (BYOM) for Microsoft SQL Server. With BYOM, customers who migrate SQL Server applications from on-premises environments can adopt a managed database service on AWS and reuse their existing Microsoft SQL Server licenses, including Software Assurance, through Microsoft's License Mobility program.<br> <br> Amazo"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/",
+      "published_kst": "2026-06-02T08:00:00+09:00",
+      "description": "<p>AWS HealthOmics now allows customers to specify the Nextflow engine version at run time via the StartRun API, enabling customers to pin runs to a specific Nextflow version for controlled migration. With this launch, customers can select from supported Nextflow versions (22.04, 23.10, 24.10, 25.10, 26.04) through the new engine-settings parameter, giving explicit control at the point of execution. <a href=\"https://aws.amazon.com/healthomics/\">AWS HealthOmics</a> is a HIPAA-eligible service tha"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS HealthOmics now supports Nextflow version 26.04",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/",
+      "published_kst": "2026-06-02T08:00:00+09:00",
+      "description": "<p>AWS HealthOmics now supports Nextflow version 26.04, enabling customers to take advantage of new Nextflow features and enhancements: record types, the strict syntax parser, workflow output summaries, and agent logging mode. <a href=\"https://aws.amazon.com/healthomics/\">AWS HealthOmics</a> is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows.</p> <p>The strict syntax parser, now en"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Quick Research now supports customer managed keys",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
+      "published_kst": "2026-06-02T03:27:00+09:00",
+      "description": "<p>Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> <p>This enhancement allows organizations with strict security and compliance requirements to manage their own encryption keys. With customer-managed keys, you gain enhanced security control and comprehensive audit capabilities through AWS CloudTrail integration. You can encrypt your data with your own KMS keys, trace all data access for security aud"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Quick now supports VPC connectivity for MCP connections",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/",
+      "published_kst": "2026-06-02T02:26:00+09:00",
+      "description": "<p>Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes for you and your entire team. Previously, Quick's MCP support was limited to third-party hosted servers accessible over the public internet. With VPC support, organizations that host MCP servers on private networ"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/",
+      "published_kst": "2026-06-02T02:00:00+09:00",
+      "description": "<p>Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requiring permissions boundaries on all IAM roles can adopt SageMaker Unified Studio without modifying their security posture.<br> <br> When a user creates a project, SageMaker Unified Studio provisions three IAM roles: a project user role, an Amazon Bedrock service role, and a Bedrock Lambda execution role. With this launch, administrators can specify "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS PCS now provides a production-ready Deep Learning AMI",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-pcs-deep-learning-ami/",
+      "published_kst": "2026-06-02T01:07:00+09:00",
+      "description": "<p>Today, AWS Parallel Computing Service (AWS PCS) launches PCS-ready DLAMI, an AWS-maintained Amazon Machine Image built on the Deep Learning Base GPU AMI (Ubuntu 24.04). It provides a production-quality foundation for AI/ML training and high performance computing (HPC), with core infrastructure components pre-installed and tested for compatibility.</p> <p>AWS PCS is a managed service that makes it easier for you to run and scale your HPC workloads and build scientific and engineering models on"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. The M8i and M8i-flex instances offer up to 15% better price-performance, and 2.5x more memory bandwidth compared to previous generation Intel-based instances. They deliver up to 20% "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<p>Starting today, Amazon EC2 M8azn instances are now available in Europe (Ireland) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin) processors and offer the highest maximum CPU frequency, 5GHz in the cloud. M8azn instances offer up to 2x compute performance compared to previous generation M5zn instances, and up to 24% higher performance than M8a instances. <br> <br> M8azn instances deliver up to 4.3x higher "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<p>Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers.<br> <br> Previously, AgentCore Identity used a service-managed secret approach, where secrets were created and managed by the service on the customer's behalf. This approach prevented customers from applying resource tags on create, encrypting secrets with a customer-managed key (CMK), or applying other organization-speci"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<p>Amazon SageMaker HyperPod now provides troubleshooting skills that bring expert-level AI/ML cluster diagnostics directly into AI coding assistants such as Claude Code, Cursor, and Kiro. SageMaker HyperPod is a purpose-built infrastructure for developing, training, and deploying foundation models at scale. It provides a resilient and performant environment with built-in fault tolerance, and automated cluster recovery, reducing the undifferentiated heavy lifting of managing large-scale AI/ML in"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker HyperPod now supports EFA-only network interfaces",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<p>Amazon SageMaker HyperPod now supports EFA-only network interfaces for cluster instance groups, enabling you to configure dedicated Elastic Fabric Adapter (EFA) devices without the traditional Elastic Network Adapter (ENA) for IP networking. SageMaker HyperPod is a purpose-built infrastructure for AI/ML model development that provides a resilient, high-performance environment with built-in fault tolerance and automated cluster recovery. Now with EFA-only, you can scale AI/ML clusters further "
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/",
+      "published_kst": "2026-06-02T00:00:00+09:00",
+      "description": "<p>AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by unexpected traffic spikes on a VIF which can potentially consume all available bandwidth, impacting workloads on other VIFs on the same connection.</p> <p>With VIF Rate Limiters, you can set a maximum bandwidth allocation for up to 10 VIFs on a dedicated connection, choosing from a wide range available capacity increments from 50 Mbps to 1.6 Tbps "
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
+      "published_kst": "2026-06-03T02:39:03+09:00",
+      "description": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the right customization strategy for your data and task, to configuring the training parameters that most influence outcomes, like learning rate, batch size, and checkpointing. We also cover the common mistakes that lead to wasted training runs "
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Object detection with Amazon Nova 2 Lite",
+      "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
+      "published_kst": "2026-06-03T02:31:11+09:00",
+      "description": "In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon Bedrock, AWS Lambda, and Amazon API Gateway. You'll also learn how to craft effective prompts, process structured JSON output, and visualize results. We explore practical applications across manufacturing, agriculture, and logistics."
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+      "published_kst": "2026-06-03T00:45:11+09:00",
+      "description": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
+      "published_kst": "2026-06-02T12:23:35+09:00",
+      "description": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a production-ready setup where each AI assistant request is authenticated with a valid user identity token issued from your organization’s identity provider."
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+      "published_kst": "2026-06-02T07:16:28+09:00",
+      "description": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how it is managed. With this ability, you can extend your organization’s existing secrets governance processes to AgentCore. You can provide an existing, preconfigured AWS Secrets Manager secret to use with your credential provider resources. You retain full control over its encryptio"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+      "published_kst": "2026-06-02T06:54:16+09:00",
+      "description": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available datasets from PubMed and other open biomedical repositories. It covers the end-to-end workflow: defining a research objective, configuring data sources, reviewing the AI-generated research plan, running the investigation, and iterating on results using the revision and versioning"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+      "published_kst": "2026-06-02T06:31:12+09:00",
+      "description": "GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock’s high performance inference engine. "
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
+      "published_kst": "2026-06-02T03:35:03+09:00",
+      "description": "While deploying Model Context Protocol (MCP) servers in production, enterprises need fine-grained access control across servers, observability into which teams use which tools, security guarantees against data exfiltration, and centralized credential management, all at scale. Amazon Bedrock AgentCore Gateway sits between MCP servers and the clients that consume them, centralizing credential management, observability, and secure […]"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
+      "published_kst": "2026-06-02T02:54:22+09:00",
+      "description": "In this post, we use a lakehouse data agent to demonstrate how you can use Policy for deterministic access control and Lambda interceptors for dynamic validation. We then show how to combine Lambda interceptors and Policy to implement a geography-based access control which requires both dynamic validation and deterministic access control."
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
+      "published_kst": "2026-06-02T02:30:12+09:00",
+      "description": "In this post, we address several key risks that surface when designing an agentic payment system, and how to address them with the capabilities of AgentCore payments."
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
+      "published_kst": "2026-06-02T01:12:18+09:00",
+      "description": "When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-deterministic failures seems impossible. Agentic AI applications don't just execute predetermined workflows. They reason, adapt, and make autonomous decisions, and DevOps practices need to be adapted. That's where AgentOps comes in, the operational discipline for deploying, managing, and continuously improving AI agents in production."
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/",
+      "published_kst": "2026-06-02T01:07:19+09:00",
+      "description": "If you’re iterating on deploying large language models (LLMs) on AWS GPU instances, you’ve probably noticed the larger the model to be loaded into GPU High Bandwidth Memory (HBM), the longer the painful wait until the GPUs are ready for inference. As models grow to hundreds of billions of parameters and GPU environments grow ever […]"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/",
+      "published_kst": "2026-06-02T01:01:24+09:00",
+      "description": "In this post, we walk through a practical implementation using KDB-X MCP server integration with Amazon Quick, demonstrating how traders and analysts can ask questions using conversational language and receive actionable insights from datasets. You can apply this same integration pattern across various domains, from financial market analysis to IoT sensor monitoring to DevOps performance dashboards, where you need to simplify access to time series insights."
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
+      "url": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/",
+      "published_kst": "2026-06-03T04:01:54+09:00",
+      "description": "As you scale your use of Amazon Web Services (AWS), managing KMS keys becomes increasingly important. Whether you manage a handful of keys or thousands across multiple AWS accounts and AWS Regions, there’s often a need to audit key usage to help you meet compliance requirements, evaluate your risk posture, and optimize key management costs. […]"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
+      "url": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
+      "published_kst": "2026-06-03T01:00:11+09:00",
+      "description": "Software as a service (SaaS) providers building AI-powered applications on Amazon Bedrock AgentCore often need to serve multiple tenants with distinct security requirements from a shared infrastructure. Some tenants require cross-account access from their own Amazon Web Services (AWS) accounts, while others mandate that traffic stay within a private virtual private cloud (VPC) for regulatory […]"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
+      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/",
+      "published_kst": "2026-06-02T01:07:48+09:00",
+      "description": "Amazon Web Services (AWS) is pleased to announce that the Spring 2026 System and Organization Controls (SOC) 1, 2, and 3 reports are now available. The reports cover 188 services over the 12-month period from April 1, 2025–March 31, 2026, giving customers a full year of assurance. These reports demonstrate our continuous commitment to adhering […]"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Connecting AI agents with unstructured data using Google Cloud Storage MCP Servers",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
+      "published_kst": "2026-06-03T02:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Google Cloud Storage (GCS) is a foundational component of the modern agentic tech stack and the preferred home for unstructured data at scale. As enterprises deploy agents in production, the critical focus has shifted to turning data into context and building secure, standardized integrations to access context. This is the core of smart storage: making unstructured data inherently agent-ready by turning passive obje"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Announcing Spanner Graph algorithms: Google-grade intelligence for connected data",
+      "url": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
+      "published_kst": "2026-06-03T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">At Google Cloud Next, we announced the preview of graph algorithms with </span><a href=\"https://cloud.google.com/products/spanner/graph\"><span style=\"text-decoration: underline; vertical-align: baseline;\">Spanner Graph</span></a><span style=\"vertical-align: baseline;\">, bringing Google Research’s state-of-the-art </span><a href=\"https://research.google/teams/graph-mining/\" rel=\"noopener\" target=\"_blank\"><span style="
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Accelerating data lakes: Optimizing Apache Iceberg and Spark with gcs-analytics-core",
+      "url": "https://cloud.google.com/blog/products/data-analytics/optimize-iceberg-and-spark-workloads-with-gcs-analytics-core/",
+      "published_kst": "2026-06-03T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Many data engineers spend significant time managing compatibility and getting best performance across multiple analytics engines. To help solve this pain point, we are excited to announce </span><a href=\"https://github.com/GoogleCloudPlatform/gcs-analytics-core\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; vertical-align: baseline;\">gcs-analytics-core</span></a><span style=\"vertical-align:"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Experimenting with TPUs, GKE Managed DRANET, and Multi-cluster Inference Gateway",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-tpus-gke-managed-dranet-and-multi-cluster-inference-gateway/",
+      "published_kst": "2026-06-02T16:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">What happens when your workload fails in one region but you need access to service? This is a common case for availability and uptime. With recent enhancement to the Kubernetes ecosystem and capabilities like </span><a href=\"https://kubernetes.io/docs/concepts/scheduling-eviction/dynamic-resource-allocation/\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; vertical-align: baseline;\">Dynamic R"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "How Trustpilot built a real-time architecture for data enrichment using Gemma",
+      "url": "https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Processing millions of user reviews in real-time, under strict latency and cost constraints, is no easy task. </span><a href=\"https://www.trustpilot.com/\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; vertical-align: baseline;\">Trustpilot</span></a><span style=\"vertical-align: baseline;\"> has been doing exactly that with custom machine learning since long before large language models (LLMs)"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "The fully-managed Remote MCP Server for AlloyDB is now Generally Available",
+      "url": "https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">AI agents possess incredible reasoning capabilities and can perform increasingly complex actions. But the reliability of agentic outcomes depends entirely on the quality of the context they can access</span><strong style=\"vertical-align: baseline;\"> </strong><span style=\"vertical-align: baseline;\">— context that is frequently locked away in operational databases.</span></p> <p><span style=\"vertical-align: baseline;\""
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Modeling a digital twin of a food supply chain using BigQuery Graph",
+      "url": "https://cloud.google.com/blog/products/data-analytics/modeling-a-digital-twin-using-bigquery-graph/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><h3><strong style=\"vertical-align: baseline;\">The example of a growing restaurant</strong></h3> <p><span style=\"vertical-align: baseline;\">Imagine you are running a restaurant chain. You just can't physically feel and touch things to know how your business operates. You need tools and a digital replica of your business to</span><span style=\"vertical-align: baseline;\"> sense the health of the business for you.</span></p> <h3><strong style=\"vertical-align: bas"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "What Google Cloud announced in AI this month",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph\"><p data-block-key=\"wws10\"><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more.</i></p><hr/><p data-block-key=\"3o743\"></p></div> <div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">We’ve had a busy month! Between announcing Gemini Spark and Gemini 3.5 at Google I/O – and unveiling Goog"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Introducing the GKE standby buffer: Improve node startup times without blowing your budget",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-standby-buffers-speed-up-autoscaling-for-less-spend/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Application owners and platform engineers have long faced a difficult choice: spend excessively by over-provisioning to guarantee quick startups, or minimize costs but endure slow cold starts.</span></p> <p><span style=\"vertical-align: baseline;\">We are excited to announce a solution to this compromise: </span><strong style=\"vertical-align: baseline;\">Google Kubernetes Engine standby buffers. </strong><span style=\"v"
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "published_kst": "2026-06-02T01:00:00+09:00",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp\">Learn how Googlers used AI to produce Google I/O 2026."
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "published_kst": "2026-06-03T07:00:58+09:00",
+      "description": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "published_kst": "2026-06-03T04:00:08+09:00",
+      "description": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "published_kst": "2026-06-02T15:00:36+09:00",
+      "description": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "published_kst": "2026-06-02T11:00:40+09:00",
+      "description": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Beyond parsing X12: Closing the gap for revenue cycle workflows in healthcare",
+      "url": "https://www.databricks.com/blog/beyond-parsing-x12-closing-gap-revenue-cycle-workflows-healthcare",
+      "published_kst": "2026-06-03T04:28:55+09:00",
+      "description": "It’s Monday at 8 AM. A medical biller opens her queue.Over the weekend, Friday’s..."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing",
+      "url": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
+      "published_kst": "2026-06-02T23:32:33+09:00",
+      "description": "Databricks SQL logs key attributes of every query automatically: who ran it, on which..."
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning",
+      "url": "https://www.databricks.com/blog/debunking-8-data-layout-myths-why-liquid-clustering-outperforms-partitioning",
+      "published_kst": "2026-06-02T00:00:00+09:00",
+      "description": "IntroductionLaying out data is one of the oldest problems in computing. For over..."
+    },
+    {
+      "source": "Anthropic Sitemap",
+      "title": "confidential draft s1 sec",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published_kst": "2026-06-02T00:59:13+09:00",
+      "description": "Anthropic sitemap metadata"
+    }
+  ]
+}
