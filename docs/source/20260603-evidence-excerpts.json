@@ -1,0 +1,68 @@
+[
+  {
+    "name": "오픈에이아이 코덱스 역할별 워크플로",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "fetched_via": "https://r.jina.ai/http://https://openai.com/index/codex-for-every-role-tool-workflow",
+    "short_evidence_excerpt": "Title: Codex for every role, tool, and workflow URL Source: https://openai.com/index/codex-for-every-role-tool-workflow Markdown Content: # Codex for every role, tool, and workflow | OpenAI [Skip to main content](https://openai.com/index/codex-for-every-role-tool-workflow#main) [](https://openai.com/) * [Research](https://openai.com/research/index/) * Products * [Business](https://openai.com/business/) * [Developers](https://openai.com/api/) * [Company](https://openai.com/about/) * [Foundation(opens in a new window)](https://openaifoundation.org/) Log in[Try ChatGPT(opens in a new window)](https://chatgpt.com/?openaicom-did=114293a2-58b8-4fdd-8f3f-6de3ac3de91b&openaicom_referred=true) * Research * Products * Business * Developers * Company * [Foundation(opens in a new window)](https://openaifoundation.org/) Codex for every role, tool, and"
+  },
+  {
+    "name": "오픈에이아이 트래블러스 보험 청구",
+    "url": "https://openai.com/index/travelers",
+    "fetched_via": "https://r.jina.ai/http://https://openai.com/index/travelers",
+    "short_evidence_excerpt": "Title: Travelers deploys AI-powered claims countrywide with OpenAI URL Source: https://openai.com/index/travelers Markdown Content: June 2, 2026 Products: API Company size: Enterprise Region: North America Industry: Finance Results 90% Customer completion of claims through AI Claim Assistant Listen to article When customers call Travelers after a car accident, they need immediate help and confidence that the claims process is going to go smoothly. But delivering that support at scale can be an operational challenge. Catastrophe events are capable of generating more than 100,000 claims in just days—last year, Travelers handled more than 1.5 million claims and paid more than $23 billion in losses. To help manage these surges while improving the customer experience, Travelers built the AI Claim Assistant, a fully autonomous voice solution po"
+  },
+  {
+    "name": "아마존 세이지메이커 스튜디오 빠른 설정",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/",
+    "fetched_via": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/",
+    "short_evidence_excerpt": "Posted on: Jun 2, 2026 Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation models, you can go from sign-in to a fully configured Studio environment almost instantly. As part of this streamlined setup, newly created Studio environments now come with serverless model customization permissions automatically configured. A new managed policy, AmazonSageMakerModelCustomizationCoreAccess, is created and attached for you, providing permissions for serverless model customization jobs including fine-tuning with custom reward functions for reinforcement learning, model evaluation, and deployment to SageMaker or Bedrock endpoints. This eliminates the need to manually create and configure IAM"
+  },
+  {
+    "name": "아마존 베드록 에이전트코어 다중 테넌트 정책",
+    "url": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
+    "fetched_via": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
+    "short_evidence_excerpt": "AWS Security Blog Skip to Main Content Filter: All English Contact us AWS Marketplace Support My account Search Filter: All Sign in to console Create account AWS Blogs Home Blogs Editions AWS Security Blog Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies by Satyen Verma , Satveer Khurpa , Prajit Pabbati , Vijay Kumar Samanthapudi , and Zohreh Norouzi on 02 JUN 2026 in Amazon Bedrock AgentCore , Expert (400) , Security, Identity, & Compliance Permalink Comments Share Software as a service (SaaS) providers building AI-powered applications on Amazon Bedrock AgentCore often need to serve multiple tenants with distinct security requirements from a shared infrastructure. Some tenants require cross-account access from their own Amazon Web Services (AWS) accounts, while others mandate that traffic stay within a "
+  },
+  {
+    "name": "아마존 베드록 에이전트코어 코드 리뷰 정확도",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+    "fetched_via": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+    "short_evidence_excerpt": "AWS Marketplace Support My account Search Filter: All Sign in to console Create account AWS Blogs Home Blogs Editions Artificial Intelligence How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore by Itay Atas , Guy Eisenkot , and Nimrod Kor on 02 JUN 2026 in Amazon Bedrock , Amazon Bedrock AgentCore , Amazon Machine Learning , Artificial Intelligence , Customer Solutions , Experience-Based Acceleration Permalink Comments Share Code review was always manual and ineffective because of the inherent disconnect between code and product. Developers could review whether code compiled and worked, but not whether it fulfilled all functional and design requirements. In the past, QA teams spent hours manually clicking through preview environments to ensure features behaved as expected, and even more time aligning implemen"
+  },
+  {
+    "name": "아마존 에이전트코어 엠시피 인증 코드 플로",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
+    "fetched_via": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
+    "short_evidence_excerpt": "AWS Marketplace Support My account Search Filter: All Sign in to console Create account AWS Blogs Home Blogs Editions Artificial Intelligence Building a secure auth code flow setup using AgentCore Gateway with MCP clients by Swagat Kulkarni , Anagh Agrawal , Daniel Suarez , and Navneet Sabbineni on 01 JUN 2026 in Advanced (300) , Amazon Bedrock AgentCore , Technical How-to Permalink Share In modern development workflows, developers increasingly rely on agentic coding assistants such as Kiro Integrated Development Environment (IDE) to interact with remote tools and services. However, organizations require robust authentication mechanisms to provide secure, identity-verified access between these agentic coding assistants and enterprise Model Context Protocol (MCP) servers. Amazon Bedrock AgentCore is a fully managed service that helps you d"
+  },
+  {
+    "name": "구글 클라우드 저장소 엠시피 서버",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
+    "fetched_via": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
+    "short_evidence_excerpt": "Google Cloud Storage) MCP server | Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog Solutions & technology AI & Machine Learning API Management Application Development Application Modernization Chrome Enterprise Compute Containers & Kubernetes Data Analytics Databases DevOps & SRE Maps & Geospatial Security Security & Identity Threat Intelligence Infrastructure Infrastructure Modernization Networking Productivity & Collaboration SAP on Google Cloud Storage & Data Transfer Sustainability Ecosystem IT Leaders Industries Financial Services Healthcare & Life Sciences Manufacturing Media & Entertainment Public Sector Retail Supply Chain Telecommunications Partners Startups & SMB Training & Certifications Inside Google Cloud Google Cloud Next & Events Google Cloud Consulting Google Maps Platform Google "
+  },
+  {
+    "name": "구글 스패너 그래프 알고리즘",
+    "url": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
+    "fetched_via": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
+    "short_evidence_excerpt": "Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog Solutions & technology AI & Machine Learning API Management Application Development Application Modernization Chrome Enterprise Compute Containers & Kubernetes Data Analytics Databases DevOps & SRE Maps & Geospatial Security Security & Identity Threat Intelligence Infrastructure Infrastructure Modernization Networking Productivity & Collaboration SAP on Google Cloud Storage & Data Transfer Sustainability Ecosystem IT Leaders Industries Financial Services Healthcare & Life Sciences Manufacturing Media & Entertainment Public Sector Retail Supply Chain Telecommunications Partners Startups & SMB Training & Certifications Inside Google Cloud Google Cloud Next & Events Google Cloud Consulting Google Maps Platform Google Workspace Developers & Practitioner"
+  },
+  {
+    "name": "엔비디아 마이크로소프트 통합 스택",
+    "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+    "fetched_via": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+    "short_evidence_excerpt": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local | NVIDIA Blog Skip to content NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local At Microsoft Build, the companies showcased how developers can build, run and scale agentic and physical AI across Windows devices, Azure cloud and local deployments through a unified accelerated computing stack. June 2, 2026 by Dave Salvator 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to devel"
+  },
+  {
+    "name": "엔비디아 니모클로",
+    "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+    "fetched_via": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+    "short_evidence_excerpt": "Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software providers are showcasing how autonomous AI agents automate this entire workflow. These AI engineers are based on NVIDIA NemoClaw , an open blueprint for building specialized, long-running agents with a secure runtime and frontier models. NemoClaw includes a choice of harness — meaning it can be integrated with various orchestration frameworks enterprises use to deploy and coordinate agents, such as OpenClaw and Hermes — as well as a model router and NVIDIA NeMo libraries for customization. Users can easily deploy NemoClaw from NVIDIA DG"
+  },
+  {
+    "name": "데이터브릭스 쿼리 태그",
+    "url": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
+    "fetched_via": "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing",
+    "short_evidence_excerpt": "Today, we're introducing Query Tags in Public Preview . Query Tags let you attach business context as multiple key-value pairs to every SQL execution, and query it all through system tables with standard SQL — or just by asking Genie. Query Tags are also visible in the Query Profile UI (search support in the Query History UI is coming soon ). Query Tags have already seen strong adoption, with hundreds of customers tagging millions of queries weekly. Just tag it: introducing Query Tags With Query Tags, you attach custom key-value pairs (e.g. “project” : “finance_planning”) to each SQL execution. These tags travel with the query and are recorded in the Query History System Table, making them available for grouping, filtering, and analyzing workloads. Tags add value across three scenarios: Partner tools : When using dbt, Power BI, or Tableau"
+  }
+]
