@@ -1,0 +1,682 @@
+[
+  {
+    "source": "OpenAI News",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "published_raw": "Wed, 03 Jun 2026 13:15:00 GMT",
+    "published_kst": "2026-06-03T22:15:00+09:00",
+    "desc": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+  },
+  {
+    "source": "OpenAI News",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "link": "https://openai.com/index/wasmer",
+    "published_raw": "Wed, 03 Jun 2026 12:00:00 GMT",
+    "published_kst": "2026-06-03T21:00:00+09:00",
+    "desc": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+  },
+  {
+    "source": "OpenAI News",
+    "title": "OpenAI public policy agenda",
+    "link": "https://openai.com/index/public-policy-agenda",
+    "published_raw": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "published_kst": "2026-06-03T19:00:00+09:00",
+    "desc": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+  },
+  {
+    "source": "OpenAI News",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint",
+    "published_raw": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "published_kst": "2026-06-03T19:00:00+09:00",
+    "desc": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS IoT Device Management adds MQTT session data to connectivity status API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/",
+    "published_raw": "Wed, 03 Jun 2026 21:15:00 GMT",
+    "published_kst": "2026-06-04T06:15:00+09:00",
+    "desc": "  AWS IoT Device Management  adds MQTT session data to connectivity status API, enabling you to troubleshoot connectivity issues and audit connection patterns across your Internet of things (IoT) device fleet.    This launch brings AWS IoT Device Management's existing  connectivity status  API to full parity with AWS IoT Core's recently launched  GetConnection API , enabling you to retrieve detailed connection and MQTT session information for the IoT device by its thing name. In addition to the "
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon SageMaker Data Agent now supports conversation history",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/",
+    "published_raw": "Wed, 03 Jun 2026 20:26:00 GMT",
+    "published_kst": "2026-06-04T05:26:00+09:00",
+    "desc": " Amazon SageMaker Data Agent, available in SageMaker Unified Studio now supports conversation history, enabling data practitioners to maintain continuity across analytical sessions. Data analysts and data scientists can now seamlessly reference previous agent-generated code, resume multi-step analyses, and review past troubleshooting interactions within their notebooks and Query Editor workflows.  \n With conversation history, you can pick up exactly where you left off by accessing a scrollable l"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon SageMaker Unified Studio now supports notebook scheduling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/",
+    "published_raw": "Wed, 03 Jun 2026 20:13:00 GMT",
+    "published_kst": "2026-06-04T05:13:00+09:00",
+    "desc": " Amazon SageMaker Unified Studio now enables you to schedule, parameterize, and orchestrate notebook runs directly from the notebook interface without managing external orchestration infrastructure. This makes it easier for customers to take notebooks from experimentation to production, automating recurring workloads such as daily reports, data quality checks, and model retraining.  \n You can trigger on-demand background runs on dedicated compute without interrupting interactive sessions and cre"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/",
+    "published_raw": "Wed, 03 Jun 2026 20:00:00 GMT",
+    "published_kst": "2026-06-04T05:00:00+09:00",
+    "desc": " AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (currently in preview) in Amazon Bedrock AgentCore.  AWS Step Functions  is a visual workflow service that orchestrates AWS services with built-in error handling, parallel execution, and human approval steps. The AgentCore  harness  lets you declare an agent through configuration where you specify the model, tools, and behavior. AgentCore provides the man"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/",
+    "published_raw": "Wed, 03 Jun 2026 19:58:00 GMT",
+    "published_kst": "2026-06-04T04:58:00+09:00",
+    "desc": " Amazon Bedrock now supports GPT‑5.4 from OpenAI in AWS GovCloud (US-West) — giving government and regulated industry customers access to OpenAI's most capable frontier model for professional work, backed by the enterprise-grade security and goverment compliance scope of AWS GovCloud (US).   \n GPT‑5.4 supports native computer-use capabilities, and deep reasoning across coding, documents, and multi-step agentic tasks — all running on Bedrock's high-performance inference engine with isolated queue"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/",
+    "published_raw": "Wed, 03 Jun 2026 18:30:00 GMT",
+    "published_kst": "2026-06-04T03:30:00+09:00",
+    "desc": " AWS Compute Optimizer now lets you extend the lookback period of your Amazon EBS volume and Amazon ECS rightsizing recommendations from the default 14 days to 32 days, at no additional cost. A longer lookback period allows Compute Optimizer to account for monthly utilization patterns, such as month-end processing, when generating rightsizing recommendations. This can help you make better optimization decisions for your workload, leading to better cost and performance outcomes.  \n AWS Compute Op"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/",
+    "published_raw": "Wed, 03 Jun 2026 17:44:00 GMT",
+    "published_kst": "2026-06-04T02:44:00+09:00",
+    "desc": " Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bounded recovery time in the event of a Regional impairment. Today, we are announcing three new execution blocks — the Amazon Aurora serverless scaling execution block, the Amazon Aurora provisioned scaling execution block, and the Amazon Neptune global database failover execution block — which automate database scaling and failover for multi-Region"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/",
+    "published_raw": "Wed, 03 Jun 2026 16:00:00 GMT",
+    "published_kst": "2026-06-04T01:00:00+09:00",
+    "desc": " Amazon Keyspaces (for Apache Cassandra) now returns an iterator position in the GetRecords response for change data capture (CDC) streams, indicating whether a consumer has reached the tip of the stream or whether additional records may be available. Amazon Keyspaces is a scalable, serverless, and managed Apache Cassandra-compatible database service that lets customers run Cassandra workloads on AWS without managing infrastructure. CDC streams capture row-level changes to Keyspaces tables so cu"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon SageMaker Unified Studio now supports a localized experience in twelve languages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization",
+    "published_raw": "Wed, 03 Jun 2026 15:26:00 GMT",
+    "published_kst": "2026-06-04T00:26:00+09:00",
+    "desc": " Amazon SageMaker Unified Studio enhanced its global accessibility by introducing support for twelve languages across the user interface. Supported languages include English (American), Chinese (Simplified and Traditional), French, German, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), Spanish, and Turkish. With this launch, data engineers, analysts, and data scientists across global teams can navigate, build, and collaborate in the language they are most comfortable with, reduci"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/",
+    "published_raw": "Wed, 03 Jun 2026 15:00:00 GMT",
+    "published_kst": "2026-06-04T00:00:00+09:00",
+    "desc": " Amazon SageMaker AI now offers multi-turn reinforcement learning (RL), a new serverless model customization technique for fine-tuning models on multi-step, agentic tasks. SageMaker AI model customization lets you adapt foundation models using techniques such as supervised fine-tuning, reinforcement learning from verifiable rewards (RLVR), and reinforcement learning from AI feedback (RLAIF), without the undifferentiated heavy lifting of building and operating your own training infrastructure. Mu"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Config now supports 9 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types",
+    "published_raw": "Wed, 03 Jun 2026 15:00:00 GMT",
+    "published_kst": "2026-06-04T00:00:00+09:00",
+    "desc": " AWS Config now supports 9 additional AWS resource types across key services including Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader range of resources.  \n With this launch, if you have enabled recording for all resource types, then AWS Config will automatically track these new additions. The newly supported resource types a"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron",
+    "published_raw": "Wed, 03 Jun 2026 15:00:00 GMT",
+    "published_kst": "2026-06-04T00:00:00+09:00",
+    "desc": " Amazon Elastic Container Service ( Amazon ECS ) Managed Instances now supports  AWS Trainium  and  AWS Inferentia , purpose-built AI accelerators designed to deliver scalable performance and cost efficiency for training and inference across a broad range of generative AI workloads. Amazon ECS Managed Instances is a fully managed compute option designed to eliminate infrastructure management overhead while giving you access to the full capabilities of Amazon EC2. By offloading infrastructure ope"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon RDS for Db2 launches support for IBM Db2 v12.1 and Db2 Community Edition",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-db2-v12-community-edition",
+    "published_raw": "Wed, 03 Jun 2026 07:11:00 GMT",
+    "published_kst": "2026-06-03T16:11:00+09:00",
+    "desc": "  Amazon RDS for Db2  now supports IBM Db2 v12.1. With Db2 v12.1, RDS now supports Db2 Standard, Db2 Advanced, and Db2 Community Edition. Db2 Community Edition provides all the features available in Standard and Advanced Editions, with no commercial software licensing charges for development and test applications. This allows you to easily start developing and testing Db2 applications with a managed database service without worrying about software licensing.    To use Db2 Community Edition, get "
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS IoT Core adds new logs to troubleshoot connectivity and authentication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-core-ping-auth-logs/",
+    "published_raw": "Wed, 03 Jun 2026 07:00:00 GMT",
+    "published_kst": "2026-06-03T16:00:00+09:00",
+    "desc": "  AWS IoT Core  now provides two new  Amazon CloudWatch Log event types  that help you troubleshoot device connectivity issues and authentication errors across your Internet of Things (IoT) fleet.  \n The new  Ping log  event type is emitted when devices send MQTT Keep-alive messages, and it enables you to identify connections or devices that were unable to keep the connection alive. The new  Connection.AuthNError log  event type records rejected connection attempts due to authentication failure,"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
+    "published_raw": "Tue, 02 Jun 2026 21:48:00 GMT",
+    "published_kst": "2026-06-03T06:48:00+09:00",
+    "desc": " Kubernetes version 1.36 introduced several new features and bug fixes, and AWS is excited to announce that you can now use  Amazon Elastic Kubernetes Service  (EKS) and  Amazon EKS Distro  to run Kubernetes version 1.36. Starting today, you can create new EKS clusters using version 1.36 and upgrade existing clusters to version 1.36 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool.    Kubernetes version 1.36 introduces several key improvements, "
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Config now supports internal service linked rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules",
+    "published_raw": "Tue, 02 Jun 2026 18:00:00 GMT",
+    "published_kst": "2026-06-03T03:00:00+09:00",
+    "desc": " AWS Config now supports internal service linked rules, enabling AWS services to evaluate AWS resource configurations using AWS Config managed rules. Internal service linked rules extend the existing service linked recorder capability by allowing AWS services such as AWS Security Hub CSPM to deploy and manage rule evaluations for service specific functionality.    With internal service linked rules, AWS services can use AWS Config managed rules to provide integrated security and compliance capab"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
+    "published_raw": "Tue, 02 Jun 2026 17:00:00 GMT",
+    "published_kst": "2026-06-03T02:00:00+09:00",
+    "desc": " AWS Deadline Cloud now supports persistent storage for Service-Managed Fleets (SMF), allowing you to maintain data across worker lifecycle events. AWS Deadline Cloud is a fully managed service that makes it easy for teams to run compute-intensive workloads in the cloud for visual effects, animation, product design, simulation, and gaming.    Previously, Deadline Cloud SMF workers relied only on ephemeral storage, requiring software and assets to be reinstalled each time a worker was recycled or"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/",
+    "published_raw": "Tue, 02 Jun 2026 16:23:00 GMT",
+    "published_kst": "2026-06-03T01:23:00+09:00",
+    "desc": " Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation models, you can go from sign-in to a fully configured Studio environment almost instantly.    As part of this streamlined setup, newly created Studio environments now come with serverless model customization permissions automatically configured. A new managed policy, AmazonSageMakerMo"
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "Amazon ElastiCache for Valkey now supports durability",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache",
+    "published_raw": "Tue, 02 Jun 2026 15:00:00 GMT",
+    "published_kst": "2026-06-03T00:00:00+09:00",
+    "desc": " Today, AWS announces durability support for Amazon ElastiCache. Durability enables you to use ElastiCache for workloads that require microsecond read latency but cannot tolerate data loss. With durability support, ElastiCache now stores data durably across multiple Availability Zones (AZs) using a Multi-AZ transactional log to enable fast failover, database recovery, and node restarts to prevent data loss in the unlikely event of a failure.  \n You can choose between two durability options: sync"
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
+    "published_raw": "Wed, 03 Jun 2026 20:14:16 +0000",
+    "published_kst": "2026-06-04T05:14:16+09:00",
+    "desc": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your own"
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
+    "published_raw": "Wed, 03 Jun 2026 17:55:37 +0000",
+    "published_kst": "2026-06-04T02:55:37+09:00",
+    "desc": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets."
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
+    "link": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+    "published_raw": "Wed, 03 Jun 2026 16:26:35 +0000",
+    "published_kst": "2026-06-04T01:26:35+09:00",
+    "desc": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this tool in your workloads today."
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+    "published_raw": "Wed, 03 Jun 2026 15:56:50 +0000",
+    "published_kst": "2026-06-04T00:56:50+09:00",
+    "desc": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality."
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+    "link": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
+    "published_raw": "Tue, 02 Jun 2026 17:39:03 +0000",
+    "published_kst": "2026-06-03T02:39:03+09:00",
+    "desc": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the right customization strategy for your data and task, to configuring the training parameters that most influence outcomes, like learning rate, batch size, and checkpointing. We also cover the common mistakes that lead to wasted training runs "
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Object detection with Amazon Nova 2 Lite",
+    "link": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
+    "published_raw": "Tue, 02 Jun 2026 17:31:11 +0000",
+    "published_kst": "2026-06-03T02:31:11+09:00",
+    "desc": "In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon Bedrock, AWS Lambda, and Amazon API Gateway. You'll also learn how to craft effective prompts, process structured JSON output, and visualize results. We explore practical applications across manufacturing, agriculture, and logistics."
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+    "published_raw": "Tue, 02 Jun 2026 15:45:11 +0000",
+    "published_kst": "2026-06-03T00:45:11+09:00",
+    "desc": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process"
+  },
+  {
+    "source": "Google Cloud Blog",
+    "title": "What’s new in serverless Managed Service for Apache Spark",
+    "link": "https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features/",
+    "published_raw": "Wed, 03 Jun 2026 16:00:00 +0000",
+    "published_kst": "2026-06-04T01:00:00+09:00",
+    "desc": "   Whether you use it for data preparation, real-time interactive queries, AI model training, or something entirely different, running Apache Spark at scale is demanding — you shouldn’t have to manage the underlying infrastructure too.  \n  Late last year, we    announced    the general availability (GA) of our serverless    Managed Service for Apache Spark    runtime version 3.0, prioritizing speed, simplicity, and reliability. Since then, customer use of Managed Service for Apache Spark for dat"
+  },
+  {
+    "source": "Google Cloud Blog",
+    "title": "Connecting AI agents with unstructured data using Google Cloud Storage MCP Servers",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
+    "published_raw": "Tue, 02 Jun 2026 17:00:00 +0000",
+    "published_kst": "2026-06-03T02:00:00+09:00",
+    "desc": "   Google Cloud Storage (GCS) is a foundational component of the modern agentic tech stack and the preferred home for unstructured data at scale. As enterprises deploy agents in production, the critical focus has shifted to turning data into context and building secure, standardized integrations to access context. This is the core of smart storage: making unstructured data inherently agent-ready by turning passive objects into rich context for reasoning. Whether it’s automating complex financial"
+  },
+  {
+    "source": "Google Cloud Blog",
+    "title": "Announcing Spanner Graph algorithms: Google-grade intelligence for connected data",
+    "link": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
+    "published_raw": "Tue, 02 Jun 2026 16:00:00 +0000",
+    "published_kst": "2026-06-03T01:00:00+09:00",
+    "desc": "   At Google Cloud Next, we announced the preview of graph algorithms with    Spanner Graph   , bringing Google Research’s state-of-the-art    graph mining    capabilities natively to your database. These graph intelligence capabilities can help you derive valuable insights from graph data faster, cheaper, and at scale.  \n  Enterprises are increasingly leveraging graph technologies to uncover complex relationships in data for use cases such as fraud detection, social network analysis, entity res"
+  },
+  {
+    "source": "Google Cloud Blog",
+    "title": "Accelerating data lakes: Optimizing Apache Iceberg and Spark with gcs-analytics-core",
+    "link": "https://cloud.google.com/blog/products/data-analytics/optimize-iceberg-and-spark-workloads-with-gcs-analytics-core/",
+    "published_raw": "Tue, 02 Jun 2026 16:00:00 +0000",
+    "published_kst": "2026-06-03T01:00:00+09:00",
+    "desc": "   Many data engineers spend significant time managing compatibility and getting best performance across multiple analytics engines. To help solve this pain point, we are excited to announce    gcs-analytics-core   , a new open-source Java library designed to centralize and accelerate analytics optimizations for    Google Cloud Storage (GCS)   .  \n  With this, you get the flexibility to select your preferred analytics engine while achieving high performance on GCS. The gcs-analytics-core library"
+  },
+  {
+    "source": "Google AI Blog",
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "published_raw": "Wed, 03 Jun 2026 13:00:00 +0000",
+    "published_kst": "2026-06-03T22:00:00+09:00",
+    "desc": " Uncover second-hand scores with AI tools in Google Search and Shopping."
+  },
+  {
+    "source": "Azure Blog",
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "published_raw": "Tue, 02 Jun 2026 19:15:57 +0000",
+    "published_kst": "2026-06-03T04:15:57+09:00",
+    "desc": " We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. \n The post  AI alone won’t change your business. The system running it will.  appeared first on  Microsoft Azure Blog . "
+  },
+  {
+    "source": "Azure Blog",
+    "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+    "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
+    "published_raw": "Tue, 02 Jun 2026 18:15:00 +0000",
+    "published_kst": "2026-06-03T03:15:00+09:00",
+    "desc": " At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. \n The post  Announcing Microsoft Discovery general availability and Microsoft Discovery app preview  appeared first on  Microsoft Azure Blog . "
+  },
+  {
+    "source": "Azure Blog",
+    "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
+    "published_raw": "Tue, 02 Jun 2026 16:59:00 +0000",
+    "published_kst": "2026-06-03T01:59:00+09:00",
+    "desc": " Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. \n The post  Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases  appeared first on  Microsoft Azure Blog . "
+  },
+  {
+    "source": "Azure Blog",
+    "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/",
+    "published_raw": "Tue, 02 Jun 2026 16:30:09 +0000",
+    "published_kst": "2026-06-03T01:30:09+09:00",
+    "desc": " We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. \n The post  New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads  appeared first on  Microsoft Azure Blog . "
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+    "published_raw": "Wed, 03 Jun 2026 15:00:57 +0000",
+    "published_kst": "2026-06-04T00:00:57+09:00",
+    "desc": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before.  What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]"
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+    "published_raw": "Wed, 03 Jun 2026 15:00:35 +0000",
+    "published_kst": "2026-06-04T00:00:35+09:00",
+    "desc": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]"
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "link": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+    "published_raw": "Tue, 02 Jun 2026 22:00:58 +0000",
+    "published_kst": "2026-06-03T07:00:58+09:00",
+    "desc": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours.  Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes.  At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]"
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+    "published_raw": "Tue, 02 Jun 2026 19:00:08 +0000",
+    "published_kst": "2026-06-03T04:00:08+09:00",
+    "desc": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]"
+  },
+  {
+    "source": "Databricks Blog",
+    "title": "Apache Spark Real-Time Mode for Gaming: A Better Way to Do Real-Time Sessionization",
+    "link": "https://www.databricks.com/blog/apache-spark-real-time-mode-gaming-better-way-do-real-time-sessionization",
+    "published_raw": "Wed, 03 Jun 2026 20:25:00 GMT",
+    "published_kst": "2026-06-04T05:25:00+09:00",
+    "desc": "In the gaming industry, every millisecond counts. To drive in-game personalization,..."
+  },
+  {
+    "source": "Databricks Blog",
+    "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
+    "link": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions",
+    "published_raw": "Wed, 03 Jun 2026 11:45:00 GMT",
+    "published_kst": "2026-06-03T20:45:00+09:00",
+    "desc": "As we explored in our first blog, Databricks Genie is redefining industry-specific..."
+  },
+  {
+    "source": "Databricks Blog",
+    "title": "Beyond parsing X12: Closing the gap for revenue cycle workflows in healthcare",
+    "link": "https://www.databricks.com/blog/beyond-parsing-x12-closing-gap-revenue-cycle-workflows-healthcare",
+    "published_raw": "Tue, 02 Jun 2026 19:28:55 GMT",
+    "published_kst": "2026-06-03T04:28:55+09:00",
+    "desc": "It’s Monday at 8 AM. A medical biller opens her queue.Over the weekend, Friday’s..."
+  },
+  {
+    "source": "Harness Blog",
+    "title": "Harness May 2026 Product Updates: 60+ New Features",
+    "link": "https://www.harness.io/blog/shipped-in-may-2026",
+    "published_raw": "Wed, 03 Jun 2026 00:00:00 GMT",
+    "published_kst": "2026-06-03T09:00:00+09:00",
+    "desc": "See 60+ Harness updates from May 2026 across AI-native development, software delivery, security, artifact management, cost visibility, and engineering insights. | Blog"
+  },
+  {
+    "source": "Google News RSS",
+    "title": "The Real Winner in the Anthropic IPO Isn’t Anthropic, OpenAI, or Even Google. - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUNuMDhObWQzMGlnLWh6YTRIOUxEaTVrRS1fVlFOVFdpaWZfc2ZHcUx1SXVJcG9ZWEt0dk9XaTNzcUFtSjJDN2pINXFkbzEwNXhDNXotcm5OUGpOZERWcmJDTER6dHdBQTc0UnBDY1FpOVNEN0NNaWZLWFRyMElvRDZoZ21sRk1iU3E3YzZKem9vQ0ZPbmhTbGxn?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 12:20:10 GMT",
+    "published_kst": "2026-06-03T21:20:10+09:00",
+    "desc": " The Real Winner in the Anthropic IPO Isn’t Anthropic, OpenAI, or Even Google.    Yahoo Finance "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Is It AI … or Canadian? - ClassicCars.com Journal",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtZGpPVGRUZjFNZXRlSlBydExaMlJmMWIzWGFmSC1YQldZeEU3UDN5MnZyUTBaWGdFSmFlOXd1b0FTcGhHUHNMQUJ6OFN1TERuWHQ4RUt2a0pGYkhscmJxZWs3QWt5eDIzVTdqQUxjdnlyUQ?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 15:43:00 GMT",
+    "published_kst": "2026-06-04T00:43:00+09:00",
+    "desc": " Is It AI … or Canadian?    ClassicCars.com Journal "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Roberts: Artificial intelligence (AI) or artificial stupidity (AS) - Shaw Local",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmpmcWR1Y2NkLUFrZmllR1JqQy1kSFRZcXdLS2lfYllTd3pKdWFWVWN5akp5NFc5aE9sZDNKMWlfdXlQNjZDQkUzNkVNOVh0WnBZbzlEMWwxTjVQLVpKZ1MtajE4ZnptSHoyV1M0dG5VSEw5V0ltcUYwVUxGQ0dhS3lUVkFaZTZyTUkzX2RLMFlxdnBCZzEwUV9hWVVoQ2pjUWF3ZkZ5dlNmYzZNY2VlajJvR1c4dGc?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 17:54:03 GMT",
+    "published_kst": "2026-06-04T02:54:03+09:00",
+    "desc": " Roberts: Artificial intelligence (AI) or artificial stupidity (AS)    Shaw Local "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "FDA rules, regulations and resources for artificial intelligence in medical devices - Medical Design & Outsourcing",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzA3blNwQXF5X3hFOGd3WlZuUXBKWnN0MWItcS1GUk1GVU1waG9qaTgwLV9vRi1jZUh1RVJXVWRhcUt3UkhNbGxfMEJNLUVvWWpGS282bzFXaDZkRXQ4T1lwSHBwV3VESHhQMjNKNEtUUWNPS0NPN3VMVF9uUW9hZ2p1cW1KWjJadEhBQUk3dGdSb1lyMmxFZmVnMzlWZmJtZzZwWW1BQWMxLXc?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 16:40:52 GMT",
+    "published_kst": "2026-06-04T01:40:52+09:00",
+    "desc": " FDA rules, regulations and resources for artificial intelligence in medical devices    Medical Design & Outsourcing "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Bristol Myers turns focus to AI costs after broad rollout to workers - Endpoints News",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckZ4dWg4am0zQnVvSzNXMXVvajJaTjVDYXdjRlYxTlVRY09uT2t1QnVVdzJiZTN6eGNhR1VmZEhkY0ZiWTJTcS00aWtFSk11SlNmWTg2dC1RTm5WSWZVRlJEVGlCR3dVcTZmWjFQQXNLekZHNW9EaF9fRGRnN3VvSWpqeUUydlB2NC0yS0VsZW13el9mWVpF?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 17:58:00 GMT",
+    "published_kst": "2026-06-04T02:58:00+09:00",
+    "desc": " Bristol Myers turns focus to AI costs after broad rollout to workers    Endpoints News "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnU3T0NVWVg5MUFYMXlhcHJSc0NhdEF5QlpndHM2RHlBUzlfbEEyaFNVSXdlOHFiaWtrOEFZZndjYllFYkNSX1J4WTF5RlNyUkFhRUpURkF3eVc1UmFEU3FnZ3p1cGJ6c1B3cUNqNHNNN1dIUEdRTW4yQkl0b1p1VVRZX01fcVpCb1VrX2N1WEtITzNOU2J4YWdhUHFkdnM?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 16:03:00 GMT",
+    "published_kst": "2026-06-04T01:03:00+09:00",
+    "desc": " No, Artificial Intelligence Is Not Conscious    The Atlantic "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "AI infrastructure has entered its operational era - Cisco Blogs",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3l4M3UtaG40UDltdGY1eEhYNG5wclZ3S2kyQmJ5SjUwcno3SDVlemk3UkFqWE0tdWJnc1pJX0c4TFhVc3IxVmt6Z1NCX2lSR1hWWVYyRWs3SnJXTEZldk15V3FUbzR3a1dsNjN6VFJuSEh6OGJseTRpYjhBWExDWm9MQ3ZpVnMwVzA4Vw?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 15:03:19 GMT",
+    "published_kst": "2026-06-04T00:03:19+09:00",
+    "desc": " AI infrastructure has entered its operational era    Cisco Blogs "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "What Martin Scorsese’s AI Embrace Means for Filmmaking’s Future: 5 Takeaways - Variety",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0h6eGV0WjU5ZkJFenVNVWxreFBBbG1iZlUzWE1tMHBFNmhVZURfQ0o5ZUtQdG1kT0lFUm9wLWRMRV9fY3h3NWxXbmo0ZklFNlNSaXVPSmtVVUVsYTh0RF9Vc3N0eVdLeXBSNmtrX2VjdlV1X0FpS3hMazFyV3Y1cmItTEZFcXFDaWQzZnNkUjQ?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 20:10:00 GMT",
+    "published_kst": "2026-06-04T05:10:00+09:00",
+    "desc": " What Martin Scorsese’s AI Embrace Means for Filmmaking’s Future: 5 Takeaways    Variety "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "What’s Driving Trump’s Big A.I. Pivot - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtZnh3c3RUeDlPc2F0ekxLbjdNS3JTS3dFYWYtZXZUdVI5SUwxRXNZS3RWLTczb1ZFb2JkMHg3VlNncm52dTdOazlkQWo0TVBiWV9raWxkajVmdWRDTkZ6eWxmZVpETUtkUEc3ZHlfWFRxY3lmSEdNVE81TmY?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 12:15:10 GMT",
+    "published_kst": "2026-06-03T21:15:10+09:00",
+    "desc": " What’s Driving Trump’s Big A.I. Pivot    The New York Times "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Opting Out of the AI Boom - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjliUWZVS29FWHdkR0d3XzRzSXNkaDFneXotV1VMRlJoaGJxVWRzRGNkbGtERXNWTXpDTklMZmZyYnZHS0x5c1Z3RnJfQ2pWMVVWQjZKU0lmcmY3TGt6RVQxcy1zTUY2THZPbkZnWXR4WXlkT091bTAwWUcycEZsUDJTUDByLW9yX1E?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 18:27:53 GMT",
+    "published_kst": "2026-06-04T03:27:53+09:00",
+    "desc": " Opting Out of the AI Boom    Bloomberg.com "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Is OpenAI on its way to becoming Lyft? - Sherwood News",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZQk9OT3pNTC03Z0RoSFRWaEpZUUxHa2VtQldWek9ERjNKd2xMTHc4Y2RVYk14RGFTbm9FQ29td1R5VjZVMkxGeFZwRHJ6M3FlTzVKcUZyVHEtOEpCMEdTWDRkXzB3azNQN3JyUktDQmtTcjQ?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 17:13:44 GMT",
+    "published_kst": "2026-06-04T02:13:44+09:00",
+    "desc": " Is OpenAI on its way to becoming Lyft?    Sherwood News "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "What Meta, Google and TikTok’s ads MCP servers mean for media buyers - Ad Age",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTdITGtnMlRMNjBkZ3dZd2ZQOGIyRUFWSzl6bV93Tmo0NnpMalJoQjZrclEwTmdpTFEyb1lERVRlOTF3bW00bWVMbFlLS0x3WnA4NGtzdGxmZ1VqZ1BaN0JyeFBEOERKV2ZiS1ZnVWlHZzJfZlFkQWVkSUtnYUlNdUE1Q0xKNTBSVkFKNVdJQzREblJvN1JLVDF1RTNvOTZ5TnZLMGJBSkxjUQ?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 09:00:00 GMT",
+    "published_kst": "2026-06-03T18:00:00+09:00",
+    "desc": " What Meta, Google and TikTok’s ads MCP servers mean for media buyers    Ad Age "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "How Taktile is building the operating system for AI-driven decisions in financial services - Tearsheet",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JGVm1OTHNfYzBBREJKWlIzTEk4dzRocXVKV3Jad2FnNVRnYXAyV3FtVHpaU1Z5TDJYYklyaVpxQ18wVFJPOVo0ODJLYWRRUHNsRFl1Z2VGQXQ0bzdHVzBLRVNqZ0MzaFBsVW8tY2Z3Sll2VFZ2amNVMnFMMGRnbVFjd2U3eThTOW9Ra2xFdlVpVGFZRGpLaEFfczV0VWJxX19nWnlrWi1IUVZNb3kxOHpIQzBTOG9I?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 11:49:09 GMT",
+    "published_kst": "2026-06-03T20:49:09+09:00",
+    "desc": " How Taktile is building the operating system for AI-driven decisions in financial services    Tearsheet "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Cognizant Accelerates Enterprise AI Adoption with Snowflake's Cortex-Powered Intelligent Agents - Cognizant Technology Solutions",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUtheHZsT0hFYkZZUVNnVWkwdF9CZnQyM1ZiMDVNdEw2bTZoZHVYX2NFM2dmMUpRQWtIZk5iZnFwUXRKVE5VaVV3c2Q1RFN3QlpnQWVobENYeWVBLXNWZWNnY3JHeVo5RWZEM3dMVFJZN1JwRkNfRW1zTTdtc2ZGTi1QNXNqdngyU19aeVN1RnJHUmx3OWg3S29scDhMcTdjTkJ2MGZ5ZW9fSFBUd05SLS1JYjV4b0t3RFVKQVRNVEV6RHRJNU1TU0FuLVo?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 14:01:54 GMT",
+    "published_kst": "2026-06-03T23:01:54+09:00",
+    "desc": " Cognizant Accelerates Enterprise AI Adoption with Snowflake's Cortex-Powered Intelligent Agents    Cognizant Technology Solutions "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "MultiSensor AI Deepens Vibration Coverage in Condition Intelligence Solution through Collaboration with Broadsens - TMX Newsfile",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSmtmSnRoRTFzQmIxMlJoN0Z2dnJUU0VsamFnN3d5NU1CdVZUZlRfRjJONHlUa083RXJsckU4TVhKOXlxR21qemc5YkNISmp4Q2l2bkZqZHVfMHVQR3dRNWtZYnZ0aVNHa2ZGaGJ3Smhjam1DUUlpVC1HZWVmb0JsMzlIdkhBSDk2YmNwc3N3dHlRVTVMYUNLZVlSVkNxNDIxdEtvTjlXVWZ0aVhuM1lTZVJXNGlId1ViUVhRNVZURUI4MkNHTWVhMGVlbXlfaThVU2JCQk1zUHZGU1I1VkRHYndwazJhWmtCZDR3QTl3?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 12:00:00 GMT",
+    "published_kst": "2026-06-03T21:00:00+09:00",
+    "desc": " MultiSensor AI Deepens Vibration Coverage in Condition Intelligence Solution through Collaboration with Broadsens    TMX Newsfile "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Sport Clips Haircuts Replaces Manual Local Marketing with Over 3,400 SOCi AI Agents Across 1,800 Locations - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFFDblhTTGV5c3VyMi1ES2twODVubzhkOWhPTjJPWlpCTEQ1Y19RZnBTbHNpeHpJZWJDUS1HUWdKeWlqSEg2TC0zZXdYYVgwYi1WTlRkZGxrNnVzRlk4X2tEcGNGbHEzVUFlSzRXVFNnRXVNVTZGeGI3aWZaVVZnOTVYY1pJT2xFa2VxRU5pLWpqWHd3d0ZTSG9pcnhPbng1UzFOMi0wRU8?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 17:11:00 GMT",
+    "published_kst": "2026-06-04T02:11:00+09:00",
+    "desc": " Sport Clips Haircuts Replaces Manual Local Marketing with Over 3,400 SOCi AI Agents Across 1,800 Locations    Yahoo Finance "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Survey Surfaces Pervasive Adoption of AI Across SDLC - DevOps.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzOEhZYllpT1h2Z2Rra19nN0gxLXBZTzN1MDRvZngzdm4weUdzMEVjTW9JUEpJQXdCVUxUamZFa2ZqbmhIN2QwQzRvM2xXWUxfQmlaSHk5YkdOYkQ5azdFSzlGZmNnRERQX25pRncyNU52VElsWmRyamxfVEY?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 12:00:08 GMT",
+    "published_kst": "2026-06-03T21:00:08+09:00",
+    "desc": " Survey Surfaces Pervasive Adoption of AI Across SDLC    DevOps.com "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Bernie Sanders' AI Wealth Fund Bill Shows That He Doesn't Understand AI or Wealth - Reason Magazine",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlJ2b1VvbHplUFZnZVlYZjFadXRnOTloSE12UmxKbUZPTDFpc0hfRkx5ak9NRkwtQXVoeGxIalZjREpQd2pLaUFSVFRKekR1TzVYTzFNSUMxQUh0T0lBTmNBOGREQnF6UzB3VXlSTWhOYnZDTkNZN01aQWhFTGpJWDViaVJyaWJLUW9tTFRmbF9xVkpUYUVuLWczMXFYSzFYNTV5REdrMWRUR0JjUmlN?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 21:49:24 GMT",
+    "published_kst": "2026-06-03T06:49:24+09:00",
+    "desc": " Bernie Sanders' AI Wealth Fund Bill Shows That He Doesn't Understand AI or Wealth    Reason Magazine "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Govstack and municiPal AI Partner To Improve How Residents Access Municipal Services Online - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelk3eGE4eXBxaGlQQjVTekFJZHpPV1NuTl9sbndXZ1JqNnl5cV82eE5KY3MtY1ktWllmOWxpZnU4VHlSMEUwM3ctWV9UQXZPZW4zeE0yVm1OVVlDdnlzVVNseHVXWVVvdDl2bEdiQ3FDYW9tN1MyY0R1a0NhTkNidi1wQXJkWGsyZDdkTGctQlBMUGJBMElkR0ZmcmI4X2pndVd4eUZYeW5Udw?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 13:00:00 GMT",
+    "published_kst": "2026-06-03T22:00:00+09:00",
+    "desc": " Govstack and municiPal AI Partner To Improve How Residents Access Municipal Services Online    Yahoo Finance "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "What Martin Scorsese’s AI Embrace Means for Filmmaking’s Future: 5 Takeaways - IMDb",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11bWN6bE1CSi0tWEtVOElSMG54U2JjQTV5QzlJdjRZeGE2U0ZzSUxGUzdtN2pWbHljdHBfMERVWWZVeVlRN3hkUHBfaVowOW1YLTd6bzUwM2lGcTRYclV6bGpBaGdwdW5TNEE?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 21:18:34 GMT",
+    "published_kst": "2026-06-04T06:18:34+09:00",
+    "desc": " What Martin Scorsese’s AI Embrace Means for Filmmaking’s Future: 5 Takeaways    IMDb "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Canadians Are Turning to AI for Financial Advice Before Seeking Professional Help, New Survey Reveals - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeWl6WExhRElWMHVBcC1iRDctamlvNl9KZzJjZVRfMXR6VG9nb2QzcHpFaWNNNEdKbW5YUk5tcTgzREM5TnRIc2NUR1JTdEdvcjRtNmJ3TGpPMXlXWHg1TDZ0UlVheFg3b3dZR3BWMkoyemFpVElrNHk5X1VQWTE1SVppdGM5cVlfSGVONU1tZGlUZVNxRV84ZGJqRm5fVV9tb1pzeTRMNnE3RDZkV2pDM1o2cFlOaDJOMUVXYlNzYVBYZVBERDVncmZhR2tVeVR5VTJXYTdjcGFnOFlzUlRWclFrUmRGMkgxWjF1eVJB?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 08:00:00 GMT",
+    "published_kst": "2026-06-03T17:00:00+09:00",
+    "desc": " Canadians Are Turning to AI for Financial Advice Before Seeking Professional Help, New Survey Reveals    Business Wire "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Microsoft Build 2026: Be yourself at work - The Official Microsoft Blog",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2hGRUxONTljWXQwenhCVExKaVhBcjBhaWRMX1lZOXBzdFNZMGE4eVZuU0NNNVBWejRTV1VvNFJZLUNnNU5zU0RGNGFVX2VPYndxQ1BwQ25pWUx0OVhsSFQ2YUp1WEN4aUZ3Um1fNDNDQTh2dEJkSGJ2WUtpUndCOUQ4U2ZXTmFjV1RnemZB?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 19:59:05 GMT",
+    "published_kst": "2026-06-03T04:59:05+09:00",
+    "desc": " Microsoft Build 2026: Be yourself at work    The Official Microsoft Blog "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Companies Push Employees to Use AI — Just Not Too Much - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzU5U2sxMDdpTFRfUjN0N2FKdDJoa0RiQjhjQ2VORXd3bERqWDFNa2FqZXVSTGl5OExFeTdxbEdmYndsTlRYM044SGd5Y0RTckdJMTVlMG1WMGNPRVFsVkVMUUdhYVIxZXdxOHRYemJDWmU2aVR0ZWpocnlkUnRwU0hJVzNROUlXc3pDenVhQm1jdWl2SkplaVI1UU00NExQM254OE9kSFJPZmZ6cmExQzV3?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 18:15:53 GMT",
+    "published_kst": "2026-06-03T03:15:53+09:00",
+    "desc": " Companies Push Employees to Use AI — Just Not Too Much    Bloomberg.com "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Companies Dial Back AI Use After Earlier Push to Experiment - Transport Topics",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WQkZrRlQ2c2J2aEJaS3oydDVHS1J1eE1CcUxVVU40eHhXeEI4NDFWODdCX2dRZkw0ZEVIajlFYTE5ZWJyVzNGVHI5cjNGbXctVXlpWGVaOWhwM3hBWmozSWwxb29yZS1xbkE?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 20:30:00 GMT",
+    "published_kst": "2026-06-03T05:30:00+09:00",
+    "desc": " Companies Dial Back AI Use After Earlier Push to Experiment    Transport Topics "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Trump signs order designed to give government early look at powerful AI models - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTG9CYTZqS2RrN3pUQW1wMXB0N2lLX1pVam9mQl9BTW0zb3hIekVWbnlLU01WbmZTa21hUWlNYXc3S2YydTJiOVRHcTFndmFBV0NyM2JqYnpjdnJTVEwxRHlteC1BckpsNWdkSVV1c2lhcWd4Mk41aXdkVlBkT3A4eTZLY2FiRlZHSGF5eGVfMW5mWGU0cEYxYW5FMG9zVzRyUGd2TjVYT05LLVJtV0c1dEZudTBMcHY0TUVDcXEtSDF5SUdU?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 03:31:20 GMT",
+    "published_kst": "2026-06-03T12:31:20+09:00",
+    "desc": " Trump signs order designed to give government early look at powerful AI models    The Washington Post "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Trump signs AI executive order to give government early look at new models - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMbWxJZ1NCaXMxbVl2cy1VUndYS2pidXNHbWhVbU1mM0t6TEItZnBsN1l3dkxXS3hIampRMlZOMDh0UkNzeE8xbkl4OUlqMUJoQk5NVHBodEpYQzFsZ1h4LWFGb0k?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 16:52:02 GMT",
+    "published_kst": "2026-06-03T01:52:02+09:00",
+    "desc": " Trump signs AI executive order to give government early look at new models    CBS News "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "AI agents lag far behind human workers. Why are tech companies laying off the humans? - CBC",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TWlFMQ2ZteDBHM183a0JYd3QzdGt6d0lVUVh4N0xqZjh6YVNlWUc0eU5iNUV5MU0xZXk5NHplQTZVbk1oZ1prMkpXbVh3WXpfRTZKQWhRN1NFTHpVdHhyWGh4ZC1lUTNTTHp2WHR4Ni1OaE42bEZrYnNB?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 08:00:00 GMT",
+    "published_kst": "2026-06-03T17:00:00+09:00",
+    "desc": " AI agents lag far behind human workers. Why are tech companies laying off the humans?    CBC "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Will AI rescue advertising creativity? - shots.net",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1URFVBY1VJTnhudXFyNWZiZVh3LUdld29rYjB0TjRCdEMwbjhkX3l4VTNUM2xZUjNFVTJodldiOTVNUWJQZFJEZWlEak1TRWcxeTlMZXBLQTV4WFlwV1lWSjRsN0ZhUTJGMVM3YU1OMVFLYzA?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 08:59:28 GMT",
+    "published_kst": "2026-06-03T17:59:28+09:00",
+    "desc": " Will AI rescue advertising creativity?    shots.net "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Adapt to AI or Get Left Behind — The Horse and Buggy Analogy - Medical Economics",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFM1eVFoNE12OVk2dUJLRFBHanhWS003d204T2FnX0NhdjJJZXhfdFM3NklVSFV5aDdnU1RTVlY3eVVfeGNpRTlkd09aVEtReV9aSEE0ZEFxV0h1a2NXVk43akJmMWZFVHd5SUMwaVRIdWlyYVpxRktaZzJTMEtMR1BqeW5OMUw3X1pPQkVnbXZoMGFfRFhoczRvOWY5djg?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 15:08:47 GMT",
+    "published_kst": "2026-06-03T00:08:47+09:00",
+    "desc": " Adapt to AI or Get Left Behind — The Horse and Buggy Analogy    Medical Economics "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Alibaba opens Qwen to external apps as China's AI agent race intensifies - Nikkei Asia",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2ZMM3dheGM4cGo1VXN1N21xSDl6N1Bid2pmRW01QjVhLWhXTnE0U2x3dE0yQk1PcmNra09TVFd6RWl0VDFrUGdncEx5RlJURmxMSmN4d1RhbUZaRG00bGJIVGc4d2pvS2RFV1VWY3czZUxIS3RQMlcwZ0N2b2V5RUxNSmFqb1p6NGZEYkIzX2hQT3NwNzJhUF9MdVBiUkRlckFaT05NWTFKSWtTQzRXcUlPdnVYQWllT0lpSlQ2LUZYNTdUbnI2NWt4bFN0SnEzUDB3YTNxUQ?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 08:48:00 GMT",
+    "published_kst": "2026-06-03T17:48:00+09:00",
+    "desc": " Alibaba opens Qwen to external apps as China's AI agent race intensifies    Nikkei Asia "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Publicity For Good Founder Heather Holmes Releases 'Seen by AI' to Help Brands Increase Visibility in AI-Powered Search - The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdzRRSVQ1UUpWUHh6dU9sYzdqSHUycFJwZVY0REpETFlTNVFtWDZTSF8zVmxlalRwSV9yRnc3bUhuUEhVSlhmX05EMkNEQzBLQktpSDY3T3IxNlZwQ2l2a0NzdGtBTEZKWWZPVmVfaXpyU2gtenljZHJQTzBpRGdNU3NiSjI0TllZVGdaSWtMa3Fhbmw0WW1jaDZpbGdiVkdZbWoyVlJfc1BVaFlScnllNDJYSFlyQUp5MTk1M2hLNzZpQ3hVY3NmTVF4ME4yMU5GZmNlaG9HNU54cDNnZjVudDc3OXRVRlhQb3JTMzJ2a0pMUVJxd3JGYnhTQ3dtZWpob2k5TFQyR1dSWmY2Z1AwUE5HTm10blNRbU9R0gGgAkFVX3lxTFBfdFRyVWViUGF5RnFDMHMtMDlNLXQ3SWRjRW56Y2FOUlRoR0FXM2FjZWhoUnE0ZlNPMHVOazZEajdCZGpwc2w5MkhDZkZTVHMtakViV1h6RXZod2FNemlCOTF6M1dWUkpMTGx0Tnd1Z053UWJ1cDBXREpIczNCbkhaNXRnazNXeFBFN2trX1JLQVFyeWFRV21VZF9WczlpZGRHOTBuRmw3REt3azVneXcxUW5hRWo4UTJ1YVZTekpXTmZKc19SSW9ZTWZWU094MjVWeWhJdEtRVk5HTGdnTnkwSXpIUEtpQWVmUXRpMlA0WVlSd0N4dG1wTlo3ZkxLd2NnclQ1TzBMNDJiekpLbkpqOFU4NHNySVY2cDNUR1A0Sg?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 21:22:59 GMT",
+    "published_kst": "2026-06-04T06:22:59+09:00",
+    "desc": " Publicity For Good Founder Heather Holmes Releases 'Seen by AI' to Help Brands Increase Visibility in AI-Powered Search    The Manila Times "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Albertans most likely in Canada to get financial advice from AI, social media, poll shows - CBC",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTE9PSXNCSzZNRTdsLTFKdHNIM3R6aDlPRTJkS3o3WmZEZG1yZFk2WkVJTzVGM293NVpsS2dId2pWa0dxbloxLUJ1MXMybTlDZzJlNmZOZkZuUjhvVXRtZkpvbGdWMHJYVGloM3VKUktMbVdJWFhKdVVYLXdNeVo5ODNhTHBwV3h6SFhrOURNc1VBRTN5a0pENjdRN0tnMzNkaEE?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 22:32:28 GMT",
+    "published_kst": "2026-06-04T07:32:28+09:00",
+    "desc": " Albertans most likely in Canada to get financial advice from AI, social media, poll shows    CBC "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Tech Bytes: Megaport’s $827 million AI bet signals a new phase in the infrastructure race - Yahoo Finance Australia",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUWg3bkpndzVPYUZYSXV2dVNibndNSkJvb0t1QzVXWVdQQlJhUlhUcU14UHA2R2d2OE50SHYzR0F0YjZ5emFXYVpzN3pfR1haWXQyS2c4S0ZIT3V2RXNwWWxMWnAtTFpFSHVQamhVRzgzTzNINElUOHNhUERRczlUVGNKTFFqMzg?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 04:47:00 GMT",
+    "published_kst": "2026-06-03T13:47:00+09:00",
+    "desc": " Tech Bytes: Megaport’s $827 million AI bet signals a new phase in the infrastructure race    Yahoo Finance Australia "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Opinion | People Are Booing AI. Health Leaders Should Take Note. - MedPage Today",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fel9Qa3A2YVE1eW1DOE1CWHVjTUJPbzd1b0RZZzU0d3pWYzd6V2pWOUl5RjJvNmE1THV2YzVaN0NRbElqb0IxYkw1UjFJRklnbVdEZmVNTXJrQ1UxNG5MOGZmS1YwWW9hVnpEbW55Sndia0pTdWZ1NDBhc0lRUQ?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 16:37:24 GMT",
+    "published_kst": "2026-06-03T01:37:24+09:00",
+    "desc": " Opinion | People Are Booing AI. Health Leaders Should Take Note.    MedPage Today "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "How brokerage firms are integrating AI - Investment Executive",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFVyUnM1c2xoMzFjMFFGN0UycUVFREZRby1uaTBfeDk5cWI2VGhYLVhWRGNKSEZVam9DRFg5Qld0Q1VUWHpBZHV4ZDBjYl9vNzhLdGpLNXRmclhPbEE0RWNpMFZ3VmtVSDhmTkRwbWVJeTQzTjNSaEhHdWdkbVJYaWVudG5JSTVUYk5NN0JGT0NtTk5ZM1lRWVNYLUxRZlBSTWRRald3a2ZyQS1HZ3BjVFNRbkMwdw?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 17:26:11 GMT",
+    "published_kst": "2026-06-04T02:26:11+09:00",
+    "desc": " How brokerage firms are integrating AI    Investment Executive "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Cross-party group calls on Canada to block development of superintelligent AI technology - CBC",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUI0bEFGb0dCekY3TVozMFNCX3g5WE9QcHFYcnpIX0VjaDhWbzY1OXRIVzFWcUlDSlhZZ1UxVDFqd0RiR2hRUWhqZmlrWTJrbERlcExOU29fMHYyRlFEd1NwR2lFTHJ6UklKWGh0MkYydmduUDAzZmRCUldwUURsa2pWRXhkRnd0LXYtV0RhZm5lSHp0OTVwQkExV05yNjBJVGZ4Yk8yLUFlS1JySFJPMGM2QUdiaE4tWllpVi1jN3RQZw?oc=5",
+    "published_raw": "Wed, 03 Jun 2026 21:00:13 GMT",
+    "published_kst": "2026-06-04T06:00:13+09:00",
+    "desc": " Cross-party group calls on Canada to block development of superintelligent AI technology    CBC "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "Ram Tried Selling a 'Patriotic T-Shirt' With an AI-Generated Tacoma and Botched American Flag - The Drive",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzlVenl1NnRzSW83WEQwYWJYSmJJWEJCMjBSNEdDUmlJWG9nTmUwV3piaG5NSGt1eVUwY1k0VWVHVnJ4X0tMdFNXeXBLa0hranpTTE5ncU9JdkhUbUJGQ1l6Q2NyNVdWczBWb3BDTmpCdGUzWkF2VnJPcE9OeHQtc210SkVxVHdWOUhtOGhqazBRY0llV3ZFaXJyLUhTSGpMTkg5Qm5yVTgxUG9yRGRudHI4bC1GMTRYcGc?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 15:13:59 GMT",
+    "published_kst": "2026-06-03T00:13:59+09:00",
+    "desc": " Ram Tried Selling a 'Patriotic T-Shirt' With an AI-Generated Tacoma and Botched American Flag    The Drive "
+  },
+  {
+    "source": "Google News RSS",
+    "title": "U of T researchers demonstrate AI worm could target any online device - University of Toronto",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlNMb3hMcExzSU10NjU5S2RkTW9EMlVRUkxTRWpkWk9ZcERHR2NLSHFETUtZZ0o0aEd2QjRSRHp3eURtVmpIbGI2S3kxQ1FCei1vajVBTS1OX2R5UXFVbDN0bUlFMlZOVUEzVlF3VnpxNVFJQjRlZU5SR3VrSXpLWk4tY08yMkRXSld4aGFBaDVrSW9jc1F2cENacw?oc=5",
+    "published_raw": "Tue, 02 Jun 2026 23:01:17 GMT",
+    "published_kst": "2026-06-03T08:01:17+09:00",
+    "desc": " U of T researchers demonstrate AI worm could target any online device    University of Toronto "
+  }
+]
