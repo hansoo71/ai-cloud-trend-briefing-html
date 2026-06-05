@@ -1,12 +1,11 @@
-# 인공지능·클라우드 동향 브리핑
+# 인공지능·클라우드 기술 동향 브리핑
 
-2026년 6월 5일 공개 출처 기반 일일 기술 브리핑입니다.
+매일 한국시각 오전 8시 기준 공개 출처에서 확인한 인공지능, 클라우드, 엔지니어링 기술 업데이트를 한국어 전문 블로그형 문서로 정리하는 저장소입니다.
 
-- 최신 공개본: `docs/index.html`
-- 날짜별 보관: `docs/20260605/index.html`
-- 단일 파일 전달본: `/opt/data/out/ai-cloud-trend-briefing-20260605.html`
-- 수집 근거: `docs/source/20260605-source-notes.md`
+## 최신 산출물
+- 최신 배포본: `docs/index.html`
+- 날짜별 보관본: `docs/20260606/index.html`
+- 원문 근거: `docs/source/20260606-source-notes.md`
 
-## 실행
-
-로컬 확인은 저장소 루트에서 `python3 -m http.server 8765` 실행 후 브라우저에서 확인합니다.
+## 실행 방법
+로컬에서 `python3 -m http.server -d docs 8765`를 실행한 뒤 브라우저에서 확인합니다.
