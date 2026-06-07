@@ -1,6 +1,5 @@
 # 반복 작업 규칙
 
-- 공식 피드와 원문을 우선 확인합니다.
-- 구글 뉴스는 후보 탐색용으로만 사용합니다.
-- 확인되지 않은 수치와 기능 상태는 쓰지 않습니다.
-- 자체 작성 블로그 제목은 당일 검증 데이터에서 새로 도출합니다.
+- daily-ai-cloud-briefing: 수집 창, 원출처 우선, 날짜 검증, 중복 제거를 적용합니다.
+- html-report-repo-workflow: `src`, `docs`, standalone, README 계열 문서를 함께 갱신합니다.
+- github-repo-management: 비대화형 환경에서 push가 실패하면 Contents API 또는 Git Data API 동기화를 사용합니다.
