@@ -1,5 +1,5 @@
-# 반복 작업 규칙
+# 자연어 편집 예시
 
-- daily-ai-cloud-briefing: 수집 창, 원출처 우선, 날짜 검증, 중복 제거를 적용합니다.
-- html-report-repo-workflow: `src`, `docs`, standalone, README 계열 문서를 함께 갱신합니다.
-- github-repo-management: 비대화형 환경에서 push가 실패하면 Contents API 또는 Git Data API 동기화를 사용합니다.
+- “오늘 브리핑에서 보안 항목만 더 자세히 확장해 주세요.”
+- “날짜별 보관본과 최신본을 같은 내용으로 다시 동기화해 주세요.”
+- “표시 텍스트와 접근성 라벨의 영어 잔여 토큰을 검사해 주세요.”
