@@ -1,0 +1,24 @@
+{
+  "problems": [],
+  "allowlist": [
+    "AWS",
+    "AgentCore",
+    "Amazon",
+    "Antigravity",
+    "Bedrock",
+    "CLI",
+    "ChatGPT",
+    "Cloud",
+    "Codex",
+    "Databricks",
+    "Google",
+    "IDE",
+    "Infrastructure",
+    "Neuron",
+    "OpenAI",
+    "Oracle",
+    "SDK",
+    "Trainium"
+  ],
+  "result": "pass_with_proper_noun_exceptions"
+}
