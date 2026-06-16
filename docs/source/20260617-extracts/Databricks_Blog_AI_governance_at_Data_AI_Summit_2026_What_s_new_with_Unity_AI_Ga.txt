@@ -1,0 +1,87 @@
+FETCHED: https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway
+SOURCE: Databricks Blog
+TITLE: AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway
+URL: https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway
+
+AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway | Databricks Blog Skip to main content Login
+Partner Overview Explore the Databricks partner ecosystem
+Partner Spotlight Featured partner announcements
+Partner Program Explore benefits, tiers and how to become a partner
+Cloud Providers Databricks on AWS, Azure and GCP
+Find a Partner Discover Databricks partners for your needs
+Partner Solutions Find custom industry and migration solutions
+Platform Overview A unified platform for data, analytics and AI
+Data Engineering ETL and orchestration for batch and streaming data
+Application Development Quickly build secure data and AI apps
+Data Warehousing Serverless data warehouse for SQL analytics
+Artificial Intelligence Build and deploy ML and GenAI applications
+Database Postgres for data apps and AI agents
+Business Intelligence Intelligent analytics for real-world data
+Governance Unified governance for all data, analytics and AI assets
+Business Productivity Unified search, chat, dashboards and apps
+Security Open agentic SIEM built for the AI era
+Customer Data Platform Agentic CDP embedded in Databricks
+Sharing Open data sharing for data, analytics and AI
+Marketplace Open marketplace for data, analytics and AI
+IDE Integrations Build on the Lakehouse in your favorite IDE
+Partner Connect Discover and integrate with the Databricks ecosystem
+Databricks Pricing Explore product pricing, DBUs and more
+Cost Calculator Estimate your compute costs on any cloud
+Open Source Technologies Learn more about the innovations behind the platform
+Explore Accelerators Move faster toward outcomes that matter
+Training Discover curriculum tailored to your needs
+Databricks Academy Sign in to the Databricks learning platform
+Certification Gain recognition and differentiation
+Free Edition Learn professional Data and AI tools for free
+University Alliance Want to teach Databricks? See how.
+Databricks Blog Explore news, product announcements, and more
+AI Blog Explore our AI research and engineering work
+Champions of Data + AI Podcast Insights from data leaders powering innovation
+Join us at the world’s largest data, apps and AI event.
+Join us at the world’s largest data, apps and AI event.
+Optimize AI usage with cost controls and smart routing
+Govern AI assets and interactions in one place
+Extend AI governance through an open ecosystem
+Introducing Managed Omnigent on Databricks
+Get started with Unity AI Gateway, your foundation for AI governance
+Optimize AI usage with cost controls and smart routing
+Govern AI assets and interactions in one place
+Extend AI governance through an open ecosystem
+Introducing Managed Omnigent on Databricks
+Get started with Unity AI Gateway, your foundation for AI governance
+AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway
+Use any model, agent, or tool while centrally governing what they access, how they act, what they cost, and how they’re monitored
+by David Nasi , Stefania Leone , Ahmed Bilal , Kevin Stumpf , Martin Grund , Vladimir Kolovski and Kelly Albano
+• Optimize AI usage with unified cost management, including spend visibility across providers, granular attribution, hard spend caps, and intelligent routing to balance quality and cost. • Govern AI assets and interactions in one place by extending Unity Catalog to models, agents, MCP services, and skills, while enforcing runtime controls and guardrails through Unity AI Gateway. • Monitor and secure AI activity at scale with unified tracing, coding agent observability, Lakewatch investigations, and an open ecosystem of security, identity, and governance partners.
+AI is becoming increasingly multi-model, multi-agent, and multi-vendor. Developers are adopting coding agents, while business users are interacting with enterprise data through AI experiences like Genie . Many enterprises are also launching custom agents to automate critical internal workflows. As organizations scale from individual AI applications to fleets of agents connected to models, MCP services, APIs, and enterprise tools, governance challenges expand beyond model access alone. Organizations need visibility, runtime controls, security guardrails, and cost management across their entire AI estate.
+Unity AI Gateway is Databricks' governance solution for enterprise AI. Built on the foundation of Unity Catalog , it extends governance beyond data and AI assets to the runtime interactions between models, agents, MCP services, skills, and enterprise tools. Available across AI providers, coding agents, agent frameworks, enterprise applications, and custom AI systems, Unity AI Gateway delivers centralized governance, security controls, cost management, and agent monitoring for enterprise AI.
+At Data + AI Summit 2026, we're announcing major new innovations across four areas:
+Optimize AI usage with cost controls and smart routing: Gain visibility into AI spend across disparate tools and models, enforce hard spend caps, and intelligently route workloads to balance quality and cost.
+Govern AI assets and interactions in one place: Govern models, MCP services, agents, and skills through Unity Catalog while enforcing contextual policies at runtime through Unity AI Gateway.
+Monitor and investigate AI activity: Capture end-to-end traces, analyze coding agent activity with Genie, and investigate incidents with Lakewatch.
+Extend governance through an open ecosystem: Integrate leading AI security, identity, data protection, and threat detection providers to bring trusted controls into runtime AI workflows.
+Optimize AI usage with cost controls and smart routing
+AI costs are increasingly fragmented, making it difficult to understand where token costs are occurring and how to optimize them. Today, we're introducing new capabilities in Unity AI Gateway that help organizations gain visibility into AI usage, control costs, and optimize spend across their AI estate.
+Unified AI spend visibility: Track spend across Databricks-hosted models, frontier model families, coding agents, enterprise AI applications, and custom agents from a single view.
+Granular cost attribution: Analyze AI spend and set budgets by user, team, tool, and use case to understand where costs are occurring and where AI is delivering value.
+Hard spend caps: Automatically stop requests when budgets are exceeded to prevent runaway costs and enforce spending guardrails.
+Smart routing: Receive recommendations and intelligently route requests to the most appropriate model based on task complexity, quality requirements, and cost.
+"On Udemy's data platform, we route all foundation model traffic through Databricks AI Gateway, giving us a single governance layer for the entire lifecycle. From production agents running on Claude to PII detection pipelines that intelligently balance smaller and larger GPT models for cost efficiency, everything is governed consistently with unified access control and clear cost attribution." — Nathan Sullins, Principal Software Engineer, Udemy
+Govern AI assets and interactions in one place
+As organizations scale AI, the number of models, agents, MCP servers, tools, and skills quickly multiplies. Yet most enterprises still govern each of these assets separately, if at all, leading to fragmented systems, inconsistent access policies, and limited visibility into what agents do and how AI systems are being used.
+Today, we're extending Unity Catalog to govern AI assets beyond models. Databricks-hosted models, external model providers, MCP services, agents, and skills can now be registered, discovered, secured, and audited using the same governance framework organizations already use for data. Administrators gain centralized visibility through permissions, lineage, observability, and cost management, while Unity AI Gateway enforces runtime controls across model calls, tool invocations, and agent workflows. Together, Unity Catalog and Unity AI Gateway provide a unified governance layer for both AI assets and AI interactions.
+“AI has the potential to enhance efficiency across the enterprise, but scaling AI responsibly requires strong governance, transparency, and trust. Databricks has helped our team build the unified foundation we need to help govern AI systems, protect sensitive data, and support enterprise-wide AI adoption in a regulated industry.” — George Torres, Senior Director of AI Engineering, First American
+Organizations increasingly rely on models from multiple providers. Admins can now govern foundation model access through Unity Catalog using the same fine-grained access policies they use for data. Policies can be dynamically applied based on attributes such as model provider, country of origin, approval status, or any governed tag, making it easier to consistently enforce controls as model inventories grow.
+As MCP adoption grows, organizations need a consistent way to govern access to enterprise tools. Databricks now provides managed MCP services for applications including Google Drive, Jira, Confluence, Slack, GitHub, and SharePoint , giving teams governed, ready-to-use integrations without managing their own infrastructure.
+Now you can also register custom MCP services, creating a centralized inventory of approved tools and integrations. Admins can manage access, enable or disable individual tools, and audit usage, while developers can discover approved MCP services and use them from Databricks, coding agents, Genie, or external agent frameworks.
+"Genie was one of the first MCP connections we added to Asana AI Teammates. This integration allows anyone to self-serve answers to complex data questions. Genie has let our human-agent teams get answers faster, in a single shared conversation, by bringing data context from Unity Catalog alongside business context in the Asana Work Graph. With AI Teammates' multiplayer design and enterprise-grade governance, Genie conversations over MCP respect the permissions of the user asking. Customers can take this further by using Unity AI Gateway to enforce additional governance policies and guardrails." — James Davidheiser, Data Architect, Data Infrastructure, Asana
+Enforce runtime controls with contextual policies
+Traditional governance controls determine who can access a model or tool. As AI agents become more capable, organizations also need controls over what those systems can do during a specific interaction.
+Today, we're launching Contextual Service Policies in Beta. Now you can allow, deny, or require approval for actions such as modifying files, pushing code, accessing enterprise systems, or interacting with sensitive information.
+Policies can be applied based on the user, agent, model, MCP service, tool being invoked, or the contents of the request and response. You can also enforce AI guardrails to mitigate risks, including PII exposure, prompt injection, jailbreaks, unsafe content, and other policy violations.
+For example, administrators can require approval before a coding agent pushes code to GitHub, restrict writes to sensitive Google Drive folders, or block requests and responses that contain regulated data.
+Unity Catalog now also provides a governed inventory of reusable skills. Teams can register agent endpoints, publish approved skills, and make these capabilities discoverable across your organization through a common catalog experience.
+As AI workflows span multiple models, agents, and MCPs, it becomes increasingly difficult to understand what happened during a specific interaction. Teams often need to piece together logs from multiple systems to troubleshoot failures, investigate incidents, or audit AI activity.
+Today, we're introducing new capabilities for unified agent monitoring:
+Capture end-to-end agent traces: Unified tracing in Unity AI Gateway captures model interactions and MCP tool activity in a single governed telemetry layer, providing visibility into how AI workflows execute across services.
+Analyze AI coding activity with Genie: Use Genie to explore coding agent logs in natural la
