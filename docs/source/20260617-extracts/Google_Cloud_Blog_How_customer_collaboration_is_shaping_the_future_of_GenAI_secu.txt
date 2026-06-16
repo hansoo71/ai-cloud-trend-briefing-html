@@ -1,0 +1,34 @@
+FETCHED: https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/
+SOURCE: Google Cloud Blog
+TITLE: How customer collaboration is shaping the future of GenAI security with Model Armor
+URL: https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/
+
+How customer collaboration is shaping the future of GenAI security with Model Armor | Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog
+Contact sales Get started for free Developers & Practitioners
+How customer collaboration is shaping the future of GenAI security with Model Armor
+At Google Cloud, we believe that the best products are built in partnership with our customers. Their feedback and real-world experiences are invaluable in helping refine our services and deliver solutions that truly meet our customers’ needs. In January 2026, our Google Cloud Developer Advocacy team participated in a high-velocity technical sprint with a major Google Cloud customer and a leader in the telecommunications industry.
+This collaborative engagement provided us with deep insights, leading to significant enhancements in Model Armor information experience, our service for Runtime security for generative and agentic AI.
+Accelerating GenAI adoption through "radical empathy"
+The objective of this engagement was to support the productionization of a next-generation GenAI customer support platform built using Google Cloud's Agent Development Kit (ADK) and Agent Platform . By sitting directly with the customer's developers and security specialists, we gained a unique opportunity to observe how developers interact with Gemini Enterprise Agent Platform in a live, complex environment.
+This experience provided something traditional documentation cycles cannot replicate: radical empathy . By logging friction point s, as developers worked, we translated functional blockers into technical insights in real-time, identifying exactly where developers were hindered by ambiguous configuration guidance or a lack of granular detail.
+Key discoveries from the front lines
+By observing the development workflow firsthand, we identified four critical friction points:
+Search-first workflows: Developers rarely navigate through documentation hierarchies; instead, they rely on search to jump straight to specific code examples. A lack of comprehensive, copy-pasteable snippets for common use cases—like PII redaction—was a primary point of friction.
+Balancing confidence levels: Finding the right balance between comprehensive threat detection and minimizing disruptive false positives proved challenging. For instance, using aggressive settings like "low and above" often caused a high volume of false positives that interrupted legitimate customer support flows.
+The need for granular guidance: While the core concepts of Model Armor were understood, developers needed more detail on how different enforcement methods function in practice to balance security with usability.
+Integration roadblocks (the 403 error): When integrating Model Armor with other services like Apigee , developers frequently encountered 403 PERMISSION_DENIED errors. This indicated a gap in our documentation regarding necessary cross-service IAM roles and permissions.
+The insights gained from this partnership were immediately channeled into a comprehensive overhaul of Model Armor’s documentation and guidance:
+Tested, copy-pasteable code samples: We have added numerous tested, ready-to-use code samples throughout the documentation to support search-first workflows.
+The confidence level matrix: We introduced a new technical reference to help users understand the trade-offs between different filter levels. We now explicitly recommend "High" or "Medium" thresholds for general content to minimize false positives, reserving "Low and above" for high-security threats like prompt injection and jailbreak detection.
+Explicit integration guides: We updated our integration guides, with a focus on Apigee, Gemini Enterprise Agent Platform, and GKE . These now clearly outline the specific IAM roles required ( such as roles/modelarmor.user ) to ensure smooth, error-free deployments.
+Deeper technical documentation: We have enhanced the documentation to provide in-depth explanations of enforcement methods and their real-world applications.
+Getting "in the room" with our customers allowed us to bridge the gap between technical accuracy and operational utility. This journey of co-innovation ensures that Model Armor serves as a genuine catalyst for your success. We encourage you to explore the updated documentation and share your feedback as we continue to build the most secure platform for your GenAI workloads.
+Explore the updated Model Armor documentation
+Related articles Developers & Practitioners
+How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same
+By Alex "Sandu" Astrum • 10-minute read
+10 Indispensable Prompts Our Team Refuses to Build Without
+Choosing your surface: Antigravity 2.0, Antigravity CLI, Antigravity IDE, or Antigravity SDK
+By Alex "Sandu" Astrum • 3-minute read
+Scaling AI Agents: A Step-by-Step Guide to Deploying ADK on GKE Autopilot
+Language ‪English‬ ‪Deutsch‬ ‪Français‬ ‪한국어‬ ‪日本語‬
