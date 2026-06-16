@@ -1,0 +1,142 @@
+[
+  {
+    "source": "OpenAI",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "fetched_via": "https://r.jina.ai/http://https://openai.com/index/deployment-simulation",
+    "file": "/tmp/source_extracts_20260617/OpenAI_Predicting_model_behavior_before_release_by_simulating_deployment.txt",
+    "page_title": "",
+    "snippets": [
+      "URL Source: https://openai.com/index/deployment-simulation",
+      "Deployment Simulation is a method for simulating a future deployment before it happens. We do so by replaying previous conversations in a privacy-preserving manner with a new candidate model. This enables us to study how the new model responds in realistic contexts before release, including whether new undesired behaviors emerge and how often they may appear.",
+      "Across multiple GPT‑5‑series Thinking deployments, Deployment Simulation improved our estimates of undesired model behavior rates, helped surface novel forms of misalignment before release, and helped reduce the risk that models would be able to tell they were being tested. We also applied the method to challenging agentic rollouts, showing that it can extend beyond standard chat to more complex agent settings involving tool use, and can also be used for risk assessment before internal model dep",
+      "We have already used insights from Deployment Simulation during model development to identify blind spots in traditional evaluations and inform mitigations and deployment decisions. As we make the pipeline easier to run, we expect it to play a larger role in the future model development process.",
+      "## How Deployment Simulation works",
+      "While traditional evaluations remain crucial for the first goal, Deployment Simulation represents a significant step forward with regards to the second goal for non-tail risks (in our experiments, our approach can’t be expected to measure behaviors that occur with frequency less than 1 in 200,000 messages). Deployment Simulation’s strength comes from side-stepping some core challenges with traditional evaluations:",
+      "The main technique behind Deployment Simulation is simple: we take recent conversations from deployment, remove the original assistant response from the older model, and regenerate it with a candidate model to be released. We evaluate the completions by searching for new failure modes, and estimate deployment-time undesired behavior frequency based on frequency in this deployment-like distribution. We can perform the same measurements after release on real deployment traffic, enabling us to vali",
+      "Deployment Simulation significantly mitigates the three limitations listed above: sampling bias is addressed by using a distribution of evaluation prompts representative of recent usage. Deployment Simulation with representative prompts can also mitigate concerns about coverage: we get greater coverage of undesirable model behaviors by simply simulating more traffic. This tradeoff between compute and coverage is important, because it makes the quality of this axis of risk assessment scale with c"
+    ]
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+    "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+    "fetched_via": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+    "file": "/tmp/source_extracts_20260617/AWS_ML_Blog_Safeguard_your_agentic_AI_applications_with_the_Amazon_Bedrock_Guard.txt",
+    "page_title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API | Artificial Intelligence",
+    "snippets": [
+      "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API | Artificial Intelligence Skip to Main Content",
+      "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+      "in Amazon Bedrock Guardrails , Announcements , Intermediate (200) Permalink Share",
+      "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating guardrail resources. The new InvokeGuardrailChecks API gives you the flexibility to invoke supported safeguards at any turn in the agentic loop and take the required action in your application logic. The API operates in detect-only mode and returns numeric scores for each safeguard. Y",
+      "Amazon Bedrock Guardrails provides configurable safeguards to help you build safe generative AI applications. With comprehensive safety controls across foundation models, Amazon Bedrock Guardrails helps you detect and filter undesirable content and protect sensitive information in both user inputs and model responses.",
+      "The new InvokeGuardrailChecks API extends these capabilities for agentic AI applications with multi-turn workflows. AI agents plan tasks, invoke tools, process outputs, and iterate through loops, often without direct user interaction. Each step in this loop carries a different risk profile and requires different safeguards. With the InvokeGuardrailChecks API, you can apply the checks you need, where you need them, without the operational overhead of provisioning separate guardrail resources for ",
+      "Why agentic AI needs targeted safety controls",
+      "Generative AI applications typically follow a familiar pattern: a user sends a prompt, the model responds, and a guardrail evaluates both. You create one guardrail resource, configure your policies, and apply it uniformly."
+    ]
+  },
+  {
+    "source": "Google Cloud Blog",
+    "title": "How customer collaboration is shaping the future of GenAI security with Model Armor",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
+    "fetched_via": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
+    "file": "/tmp/source_extracts_20260617/Google_Cloud_Blog_How_customer_collaboration_is_shaping_the_future_of_GenAI_secu.txt",
+    "page_title": "How customer collaboration is shaping the future of GenAI security with Model Armor | Google Cloud Blog",
+    "snippets": [
+      "How customer collaboration is shaping the future of GenAI security with Model Armor | Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog",
+      "How customer collaboration is shaping the future of GenAI security with Model Armor",
+      "This collaborative engagement provided us with deep insights, leading to significant enhancements in Model Armor information experience, our service for Runtime security for generative and agentic AI.",
+      "The objective of this engagement was to support the productionization of a next-generation GenAI customer support platform built using Google Cloud's Agent Development Kit (ADK) and Agent Platform . By sitting directly with the customer's developers and security specialists, we gained a unique opportunity to observe how developers interact with Gemini Enterprise Agent Platform in a live, complex environment.",
+      "The need for granular guidance: While the core concepts of Model Armor were understood, developers needed more detail on how different enforcement methods function in practice to balance security with usability.",
+      "Integration roadblocks (the 403 error): When integrating Model Armor with other services like Apigee , developers frequently encountered 403 PERMISSION_DENIED errors. This indicated a gap in our documentation regarding necessary cross-service IAM roles and permissions.",
+      "The insights gained from this partnership were immediately channeled into a comprehensive overhaul of Model Armor’s documentation and guidance:",
+      "Explicit integration guides: We updated our integration guides, with a focus on Apigee, Gemini Enterprise Agent Platform, and GKE . These now clearly outline the specific IAM roles required ( such as roles/modelarmor.user ) to ensure smooth, error-free deployments."
+    ]
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Agentic coding and persistent returns to expertise",
+    "url": "https://www.anthropic.com/research/claude-code-expertise",
+    "fetched_via": "https://www.anthropic.com/research/claude-code-expertise",
+    "file": "/tmp/source_extracts_20260617/Anthropic_Research_Agentic_coding_and_persistent_returns_to_expertise.txt",
+    "page_title": "Agentic coding and persistent returns to expertise  \\ Anthropic",
+    "snippets": [
+      "Agentic coding and persistent returns to expertise \\ Anthropic Skip to main content Skip to footer",
+      "Agentic coding and persistent returns to expertise",
+      "Building on prior work , we introduce a framework for studying interactive agentic coding based on a privacy-preserving analysis of ~400,000 Claude Code sessions from between October 2025 and April 2026. We evaluate the composition of tasks, human-AI collaboration, and success rates.",
+      "The more domain expertise a person has, the more often the session ends in success—though the gap between intermediate and expert users is modest. Over the seven months we observe, the share of sessions spent debugging fell by nearly half, and usage shifted toward more end-to-end agentic use: deploying and running code, analyzing data, and writing non-code documents.",
+      "Agentic coding has taken off. The share of GitHub projects with coding agent activity has more than doubled since late 2025, 1 and Claude Code users now spend an average of 20 hours per week using the tool. 2 Can people without formal coding experience successfully direct an agent through complex technical work? And what will rapid adoption and improvement of these tools mean for knowledge work broadly? While we don’t have full answers to these questions yet, we look to Claude Code usage data fo",
+      "This report provides evidence on how Claude Code is used in practice, based on a privacy-preserving analysis of ~400,000 interactive sessions from ~235,000 people between October 2025 and April 2026. It builds on prior work focused on measures of autonomy in Claude Code sessions, and how Claude Code is changing work at Anthropic . 3 Here, we introduce a framework for describing interactive AI coding-assistant usage: what kind of work is being done, who is doing it, and whether it succeeds. We fo",
+      "What happens on Claude Code may be a preview of where knowledge work is headed, as agents become embedded in non-coding work. We find that Claude is handling more complex and more valuable tasks. At the same time, there remains a clear division of labor in agentic coding: People decide what to build, and the agent decides how to build it.",
+      "These findings give us an early read on possible transitions in the labor market. In our data, success is determined by how well a person understands the problem they are trying to solve, not whether they’re trained in coding. If these patterns hold across the economy, it suggests that while agentic coding tools may be absorbing some implementation-heavy work, they are also rewarding those with firm understanding of the problems they solve on the job. Coding agents are not substituting for domai"
+    ]
+  },
+  {
+    "source": "Databricks Blog",
+    "title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway",
+    "url": "https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway",
+    "fetched_via": "https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway",
+    "file": "/tmp/source_extracts_20260617/Databricks_Blog_AI_governance_at_Data_AI_Summit_2026_What_s_new_with_Unity_AI_Ga.txt",
+    "page_title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway | Databricks Blog",
+    "snippets": [
+      "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway | Databricks Blog Skip to main content Login",
+      "Database Postgres for data apps and AI agents",
+      "Governance Unified governance for all data, analytics and AI assets",
+      "Security Open agentic SIEM built for the AI era",
+      "Customer Data Platform Agentic CDP embedded in Databricks",
+      "Extend AI governance through an open ecosystem",
+      "Get started with Unity AI Gateway, your foundation for AI governance",
+      "Extend AI governance through an open ecosystem"
+    ]
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "fetched_via": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "file": "/tmp/source_extracts_20260617/NVIDIA_Blog_HPE_AI_Factory_With_NVIDIA_Expands_for_the_Era_of_Agents.txt",
+    "page_title": "HPE AI Factory With NVIDIA Expands for the Era of Agents | NVIDIA Blog",
+    "snippets": [
+      "HPE AI Factory With NVIDIA Expands for the Era of Agents | NVIDIA Blog Skip to content",
+      "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "HPE AI Factory with NVIDIA expands with NVIDIA Vera CPU and NVIDIA Agent Toolkit for HPE Private Cloud AI — plus NVIDIA Confidential Computing and enhanced full-stack NVIDIA integration across HPE AI Factory solutions. June 16, 2026 by Chris Marriott 0 Comments Share",
+      "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
+      "At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA , including NVIDIA Vera CPU and NVIDIA Agent Toolkit for HPE Private Cloud AI.",
+      "Plus, NVIDIA Confidential Computing extends across HPE AI Factory and enhanced full-stack NVIDIA integration — with NVIDIA accelerated computing, NVIDIA AI software and NVIDIA networking — is available throughout the entire portfolio.",
+      "The HPE ProLiant Compute DL394 Gen12 with the NVIDIA Vera CPU will be available in 2027 with HPE Private Cloud AI, a turnkey AI factory co-engineered with NVIDIA. Vera is the first CPU built for agents — designed for the tool calls, orchestration and real-time data processing required across the agent loop — bringing deterministic, low-latency performance into HPE Private Cloud AI.",
+      "HPE is also bringing the HPE Compute XD700 — built on NVIDIA HGX Rubin NVL8 — to the HPE AI Factory, supporting up to 128 Rubin GPUs per rack."
+    ]
+  },
+  {
+    "source": "AWS What’s New",
+    "title": "AWS Management Console Private Access now works without internet connectivity",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
+    "fetched_via": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
+    "file": "/tmp/source_extracts_20260617/AWS_What_s_New_AWS_Management_Console_Private_Access_now_works_without_internet_.txt",
+    "page_title": "AWS Management Console Private Access now works without internet connectivity - AWS",
+    "snippets": [
+      "AWS Management Console Private Access now works without internet connectivity - AWS Skip to main content",
+      "AWS Management Console Private Access now works without internet connectivity",
+      "AWS Management Console Private Access now enables customers to access the AWS Console from VPCs without internet connectivity, allowing enterprises to manage their AWS infrastructure through the console while maintaining strict network security controls in air-gapped environments. Previously, AWS Management Console Private Access allowed customers to restrict console access to authorized AWS accounts and corporate networks but still required internet connectivity. With this launch, AWS Console t",
+      "This capability is available in all AWS commercial regions. You pay only for the underlying AWS PrivateLink VPC endpoint usage and data processing. To get started and learn about the supported services, visit the Management Console Private Access documentation ."
+    ]
+  },
+  {
+    "source": "Databricks Blog",
+    "title": "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era",
+    "url": "https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era",
+    "fetched_via": "https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era",
+    "file": "/tmp/source_extracts_20260617/Databricks_Blog_Introducing_OpenSharing_the_Next_Evolution_of_Delta_Sharing_for_.txt",
+    "page_title": "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era | Databricks Blog",
+    "snippets": [
+      "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era | Databricks Blog Skip to main content Login",
+      "Database Postgres for data apps and AI agents",
+      "Governance Unified governance for all data, analytics and AI assets",
+      "Security Open agentic SIEM built for the AI era",
+      "Customer Data Platform Agentic CDP embedded in Databricks",
+      "Ready to get started with OpenSharing?",
+      "Ready to get started with OpenSharing?",
+      "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era"
+    ]
+  }
+]
