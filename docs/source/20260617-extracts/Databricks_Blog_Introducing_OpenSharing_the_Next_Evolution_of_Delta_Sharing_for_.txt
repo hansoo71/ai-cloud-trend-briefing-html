@@ -1,0 +1,88 @@
+FETCHED: https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era
+SOURCE: Databricks Blog
+TITLE: Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era
+URL: https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era
+
+Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era | Databricks Blog Skip to main content Login
+Partner Overview Explore the Databricks partner ecosystem
+Partner Spotlight Featured partner announcements
+Partner Program Explore benefits, tiers and how to become a partner
+Cloud Providers Databricks on AWS, Azure and GCP
+Find a Partner Discover Databricks partners for your needs
+Partner Solutions Find custom industry and migration solutions
+Platform Overview A unified platform for data, analytics and AI
+Data Engineering ETL and orchestration for batch and streaming data
+Application Development Quickly build secure data and AI apps
+Data Warehousing Serverless data warehouse for SQL analytics
+Artificial Intelligence Build and deploy ML and GenAI applications
+Database Postgres for data apps and AI agents
+Business Intelligence Intelligent analytics for real-world data
+Governance Unified governance for all data, analytics and AI assets
+Business Productivity Unified search, chat, dashboards and apps
+Security Open agentic SIEM built for the AI era
+Customer Data Platform Agentic CDP embedded in Databricks
+Sharing Open data sharing for data, analytics and AI
+Marketplace Open marketplace for data, analytics and AI
+IDE Integrations Build on the Lakehouse in your favorite IDE
+Partner Connect Discover and integrate with the Databricks ecosystem
+Databricks Pricing Explore product pricing, DBUs and more
+Cost Calculator Estimate your compute costs on any cloud
+Open Source Technologies Learn more about the innovations behind the platform
+Explore Accelerators Move faster toward outcomes that matter
+Training Discover curriculum tailored to your needs
+Databricks Academy Sign in to the Databricks learning platform
+Certification Gain recognition and differentiation
+Free Edition Learn professional Data and AI tools for free
+University Alliance Want to teach Databricks? See how.
+Databricks Blog Explore news, product announcements, and more
+AI Blog Explore our AI research and engineering work
+Champions of Data + AI Podcast Insights from data leaders powering innovation
+Join us at the world’s largest data, apps and AI event.
+Join us at the world’s largest data, apps and AI event.
+Why sharing protocols need to evolve for AI
+Ready to get started with OpenSharing?
+Why sharing protocols need to evolve for AI
+Ready to get started with OpenSharing?
+Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era
+Industry's first open protocol for sharing data, models, agents, and skills across any cloud, any vendor, and any format
+by Huey Han , Harish Gaur , Akram Chetibi and Mengxi Chen
+When Databricks pioneered Delta Sharing in 2021 , we set out to solve a problem that every data team knew too well: sharing live data across organizational boundaries was slow, fragile, and full of compromise. You either copied data — creating stale replicas and compliance headaches — or you constrained yourself to only sharing with partners on the same platform as you, thereby significantly restricting innovation.
+Delta Sharing changed that. A single open protocol. No data copying. No platform silos. And in the five years since, it has become the most widely adopted open zero-copy data-sharing protocol — with 28,000+ data recipients and 33% of shares flowing across platforms via open connectors. Leading companies such as SAP, Atlassian, Mercedes-Benz, The Trade Desk, LSEG, S&P Global, and many more have adopted Delta Sharing to share and collaborate on data.
+But the world has moved on. The rise of agentic AI has fundamentally changed what enterprises need to share. Today, we're taking the next step.
+We're excited to announce OpenSharing — the next evolution of Delta Sharing, and the industry's first open protocol built for the agentic era. OpenSharing advances Delta Sharing into an independent open-source project, expanding its scope from data sharing to the full AI stack: models, agents — across any cloud, any vendor, and any format.
+Why sharing protocols need to evolve for AI
+Delta Sharing was built for a world of tables and files. But organizations must now exchange semantic context, AI skills, unstructured data, and autonomous agents across cloud, vendor, and company boundaries. Today's sharing protocols remain locked into vendor-specific formats, can't handle AI logic, and depend on brittle networking that takes weeks to configure for each new partner.
+The result: collaboration slows, data silos persist, and the value locked inside enterprise data goes unrealized.
+OpenSharing solves this. It's a single open protocol that shares data and AI across any format, any cloud, and any organizational boundary — natively supporting Delta Lake, Apache Iceberg, and Parquet so data stays where it lives and flows to whoever needs it.
+"Delta Sharing proved the industry would choose open over locked-in. OpenSharing extends that principle to the full AI stack, while expanding the cross-platform ecosystem to Iceberg recipients and on-premises providers. The agentic era deserves an open foundation, and OpenSharing delivers it." — Matei Zaharia, Co-founder and CTO of Databricks.
+OpenSharing exists at two layers. The open-source protocol — now hosted by the Linux Foundation — is the published spec that any vendor or community member can implement. Databricks OpenSharing is the enterprise implementation of the open protocol, built on top of other Databricks features such as Unity Catalog for governance and audit logging, Marketplace for discoverability, and more.
+We are excited to launch a suite of features for OpenSharing on Databricks.
+Genie Agent Sharing: share a governed AI experience, not just data
+For the first time, organizations can share governed AI experiences — not just datasets — across organizational boundaries.
+Genie Agents are Databricks' AI-powered conversational analytics environments. With OpenSharing, a provider can now share Genie Agents — including their underlying semantic context, business metrics, and reusable AI logic — with any partner or customer, with governance end-to-end via Unity Catalog. Optionally, providers can control how recipients access data — including hiding proprietary Genie instructions, restricting data access to the Genie Agent only, setting daily prompt quotas, and capping row export limits. These controls unlock new monetization opportunities for data providers, such as usage-based pricing instead of a full data license.
+SecureConnect and Global Distribution: simpler multi-cloud networking, lower egress costs
+Cross-cloud data sharing has always had two distinct problems. OpenSharing on Databricks now solves both.
+The first is networking. When provider storage sits behind a private network — which is almost always the case for sensitive data exchanges or regulated industries — onboarding a new recipient can take weeks of manual IP allowlisting, firewall coordination, and back-and-forth with cloud admins. For providers with dozens or hundreds of recipients, this doesn't scale. SecureConnect solves this problem: a Databricks-managed proxy that routes storage access on behalf of all recipients. Configure it once — no per-recipient firewall changes needed, ever. Read the announcement blog .
+The second is egress cost. Cross-cloud queries generate egress fees that compound at scale, becoming a significant and unpredictable cost that makes broad multi-cloud sharing economically impractical. Global Distribution solves this with automatic cross-region and cross-cloud replication. Recipients query a local replica — fast, with no egress fees. Providers get a predictable cost structure. Global teams get low-latency access regardless of where the source data lives.
+Open Client Interoperability & On-prem Storage Ecosystem: Meet your partners where they are
+OpenSharing is built on the conviction that data ecosystems thrive when they are truly open — not just in name, but in practice. That means supporting the formats, storage systems, and clients your partners already use.
+Storage Ecosystem: Govern everything, wherever it lives
+Not all enterprise data can — or should — move to the cloud. Regulatory mandates, data gravity, edge latency, and sheer economics mean that some of the world's most valuable data will stay on-premises. OpenSharing reaches it. The Databricks Storage Ecosystem brings the Databricks Data Intelligence Platform directly to on-premises, private cloud, and edge environments — powered by OpenSharing. Storage partners implement the OpenSharing server, connecting their data estates to Unity Catalog without moving a single byte. No migration. No duplication. Read the announcement . Launch partners include MinIO (GA), Everpure (Private Preview), Qumulo (Private Preview Soon), and VAST Data (Private Preview Soon) — with Cohesity, Commvault, NetApp, and Nutanix coming by the end of the year. Collectively, these partners manage hundreds of exabytes of enterprise data.
+Iceberg interoperability Delta Sharing is already supported in a wide range of platforms and connectors, including Databricks, Tableau, Power BI, Apache Spark, and Snowflake. OpenSharing has now added support for Apache Iceberg REST Catalog API — making it possible to share data with any Iceberg-compatible client. Providers can also share tables from external catalogs including AWS Glue, Hive Metastore, and Snowflake Horizon — bringing external data into the governed OpenSharing ecosystem without replication.
+Building on the same simplicity that made Delta Sharing successful, OpenSharing extends the protocol to support the full AI asset stack:
+The data provider creates a share in Unity Catalog — defining which datasets, models, agents, or Genie Agents to share and setting fine-grained access permissions.
+The recipient receives secure credentials and queries the share directly from their existing tools, cloud, or Iceberg client — without needing to be on Databricks.
+Unity Catalog enforces governance end-to-end — auditing every access, enforcing row- and column-level controls, and ensuring compliance policies travel with every shared asset.
+Data never moves — recipients query live data directly from the provider's cloud storage, ensuring a single source of truth.
+For enterprise deployments on Databricks, SecureConnect and Global Distribution layer on top of this flow — handling cross-cloud networking and replication automatically, with no changes to how providers or recipients interact with their shares.
+Ready to get started with OpenSharing?
+Visit the OpenSharing product page at https://www.databricks.com/product/opensharing
+Visit the OSS project site at opensharing.io to learn more and get started.
+Read the full Databricks press release for more details on the OSS announcement.
+Subscribe to our blog and get the latest posts delivered to your inbox.
+View all blogs Why Databricks Discover
+Data Migration Forward Deployed Engineering Solution Accelerators Solutions Databricks For Industries
+Data Migration Forward Deployed Engineering Solution Accelerators Resources Documentation Customer Support Community Learning
+Resources Documentation Customer Support Community Learning
+Databricks Inc. 160 Spear Street, 15th Floor San Francisco, CA 94105 1-866-330-0121
+© Databricks 2026 . All rights reserved. Apache, Apache Spark, Spark, the Spark Logo, Apache Iceberg, Iceberg, and the Apache Iceberg logo are trademarks of the Apache Software Foundation .
