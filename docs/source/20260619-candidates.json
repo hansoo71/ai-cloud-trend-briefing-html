@@ -1,0 +1,426 @@
+{
+  "window_start_kst": "2026-06-18T00:00:00+09:00",
+  "window_end_kst": "2026-06-19T07:59:59+09:00",
+  "candidate_count": 51,
+  "dedup_count": 51,
+  "candidates": [
+    {
+      "source": "OpenAI News",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published_kst": "2026-06-19T02:00:00+09:00",
+      "summary_hint": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "feed": "rss"
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "published_kst": "2026-06-18T20:00:00+09:00",
+      "summary_hint": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "feed": "rss"
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published_kst": "2026-06-18T17:00:00+09:00",
+      "summary_hint": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon ECS announces faster service auto scaling",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/",
+      "published_kst": "2026-06-19T06:00:00+09:00",
+      "summary_hint": "Amazon ECS service auto scaling now detects and responds to load changes faster with support for high resolution (20-second) metrics and metric publishing optimizations. In AWS benchmarking tests, time to trigger scale-out improved from 363 seconds to 86 seconds (76% faster, 4.2x), and total time to scale and provision new tasks improved from 386 seconds to 109 seconds (72% faster, 3.5x). Faster service auto scaling also enables you to reduce baseline capacity and lower compute costs while maintaining service reliability and performance as workload demand fluctuates. Amazon ECS service auto scaling automatically adjusts task counts to meet workload demand with comprehensive scaling policies, including predictive scaling for recurring traffic patterns, scheduled scaling for planned events, and target tracking to scale dynamically on real-time metrics. With today's launch, target tracking policies for CPU and memory utilization now support 20-second metric resolution, in addition to the default 60-second resolution, for faster scaling signal detection. To get started, use the AWS Console, CLI, CloudFormation, or AWS SDKs to configure 20-second resolution for CPU or memory utilization metrics when creating or updating your ECS service, then configure a target tracking policy selecting the corresponding high-resolution predefined metric. This feature is available in all AWS commercial and AWS GovCloud (US) Regions, across all ECS compute options: AWS Fargate, Amazon ECS Managed Instances, and Amazon EC2. High-resolution metrics are subject to standard CloudWatch charges; for a pricing example, see Amazon CloudWatch pricing . To learn more, see our documentation and the launch blog post .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EC2 G7 instances are now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
+      "published_kst": "2026-06-19T05:59:00+09:00",
+      "summary_hint": "Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference performance and up to 2.1x graphics performance compared to G6. You can use G7 instances for AI inference workloads such as language translation, video and image analysis, speech recognition, and recommender systems. Additionally, G7 instances also accelerate graphics workloads such as creating and rendering real-time, cinematic-quality graphics, and game streaming, as well as data analytics workloads such as large-scale data processing pipelines. G7 instances feature up to 8 NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs with 32 GB of memory per GPU, custom Intel Xeon 6 processors, and up to 700 Gbps of Elastic Fabric Adapter (EFA) networking bandwidth. You can start using Amazon EC2 G7 instances today in two AWS Regions: US East (Ohio) and US West (Oregon). You can purchase G7 instances as On-Demand Instances, as part of Savings Plans, or Spot Instances. To get started, visit the AWS Management Console , AWS Command Line Interface (CLI), and AWS SDKs. To learn more, visit this blog post and the G7 instance page .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/",
+      "published_kst": "2026-06-19T05:20:00+09:00",
+      "summary_hint": "Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resources publicly.. This helps you meet your security and compliance requirements when your brokers need to reach private identity providers (such as LDAP and OAuth 2.0), other Amazon MQ for RabbitMQ brokers, or self-hosted RabbitMQ brokers. Previously, this connectivity for RabbitMQ Federation, Shovel, or authentication required Network Load Balancer and NAT Gateway workarounds. Amazon MQ establishes this connectivity using Amazon VPC Lattice, AWS Resource Access Manager (AWS RAM), and AWS PrivateLink, and manages the underlying infrastructure on your behalf. To get started, create a VPC Lattice resource gateway, package your resource configurations into an AWS RAM resource share, and associate it with your broker. Private networking is available only for Amazon MQ for RabbitMQ brokers, in all AWS Regions where Amazon VPC Lattice is available. To learn more, see Private networking in the Amazon MQ Developer Guide and the Amazon MQ pricing page .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/",
+      "published_kst": "2026-06-19T03:47:00+09:00",
+      "summary_hint": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C7id,R7id, M7id, C7i-flex,R7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCloud (US-West), in addition to existing support in all commercial regions. With nested virtualization capabilities, customers can create nested environments by running KVM or Hyper-V on virtual EC2 instances. Customers can leverage this capability for use cases such as running emulators for mobile applications, simulating in-vehicle hardware for automobiles, and running Windows Subsystem for Linux on Windows workstations. To learn more see documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/",
+      "published_kst": "2026-06-19T03:35:00+09:00",
+      "summary_hint": "Amazon Connect Customer now supports the ability to interrupt an agent with a contact, overriding their usual routing configuration in case of urgent or time-sensitive work. For example, an agent may be waiting for a time-sensitive callback on their personal extension, while taking customer service calls in the meantime. When that urgent call comes in, it can now ring the agent even if the agent is currently already on another call, so the agent can decide whether to put the first caller on hold to pick up the callback as well. You can also use this feature to directly assign certain contacts to a specific agent even though that agent has set themselves to a custom status where they normally could not be offered queued contacts. For example, you may want to ensure that a specific agent cannot take customer service calls while in “Back Office Work” but still allow calls to their personal extension to ring through, improving efficiency for urgent contacts. This feature is available in all AWS regions where Amazon Connect Customer is offered. To learn more about this feature, see the Amazon Connect Customer Administrator Guide . To learn more about Amazon Connect Customer, the AWS cloud-based contact center, please visit the Amazon Connect Customer website .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/",
+      "published_kst": "2026-06-19T03:30:00+09:00",
+      "summary_hint": "Today, AWS announced the availability of all-MiniLM-L12-v2 in Amazon SageMaker JumpStart, expanding the portfolio of models available to AWS customers. This model from Sentence Transformers maps sentences and paragraphs to a 384-dimensional dense vector space, enabling customers to build high-quality semantic search, text clustering, and sentence similarity applications on AWS infrastructure. all-MiniLM-L12-v2 excels at encoding sentences and short paragraphs into dense vector representations that capture semantic meaning, making it ideal for information retrieval, semantic search systems, document clustering, duplicate detection, and paraphrase identification. Its compact architecture delivers fast inference while maintaining strong embedding quality, well suited for production workloads that require efficient text representations at scale. With SageMaker JumpStart, customers can deploy this model with just a few clicks to address their specific AI use cases. To get started with this model, navigate to the Models section of SageMaker Studio or use the SageMaker Python SDK to deploy the model to your AWS account. For more information about deploying and using foundation models in SageMaker JumpStart, see the Amazon SageMaker JumpStart documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/",
+      "published_kst": "2026-06-19T03:30:00+09:00",
+      "summary_hint": "Today, AWS announced the availability of Ministral-3-14B-Instruct-2512 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI delivers frontier-class multimodal capabilities in a compact 14B-parameter architecture optimized for edge deployment, enabling customers to build advanced AI assistants, agentic systems, and vision-enabled applications on AWS infrastructure. Ministral-3-14B-Instruct excels at analyzing images and providing insights based on visual content in addition to text, agentic capabilities with native function calling and JSON output, and multilingual understanding across dozens of languages including English, French, Spanish, German, Chinese, Japanese, Korean, and Arabic. With SageMaker JumpStart, customers can deploy this model with just a few clicks to address their specific AI use cases. To get started with this model, navigate to the Models section of SageMaker Studio or use the SageMaker Python SDK to deploy the model to your AWS account. For more information about deploying and using foundation models in SageMaker JumpStart, see the Amazon SageMaker JumpStart documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EKS now supports customer-routed control plane egress",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
+      "published_kst": "2026-06-19T02:00:00+09:00",
+      "summary_hint": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you route outbound Kubernetes API server traffic through your own Amazon VPC. This includes admission webhook callbacks, OpenID Connect (OIDC) provider lookups, and aggregate API server requests. With customer-routed control plane egress, this traffic flows through your VPC, where you control the routing, security groups, and egress path. Organizations with data perimeter requirements, compliance mandates, or private network infrastructure can use customer-routed control plane egress to reach private OIDC providers and webhook servers that are accessible only within their VPC, and control how that traffic routes through their network. To get started, set controlPlaneEgressMode to CUSTOMER_ROUTED when creating a new cluster or updating an existing cluster. To enforce this configuration organization-wide, use the eks:controlPlaneEgressMode IAM condition key with AWS Organizations Service Control Policies. Customer-routed control plane egress is available at no additional cost in all AWS Regions where Amazon EKS is available. To learn more, see Configure control plane egress routing in the Amazon EKS User Guide .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/",
+      "published_kst": "2026-06-19T00:13:00+09:00",
+      "summary_hint": "Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providing comprehensive visibility into token performance, GPU health, inference component placement, and autoscaling behavior. It takes away the manual work of searching CloudWatch for per-endpoint metrics, correlating latency spikes with GPU saturation or KV cache exhaustion and diagnosing why scaling operations are slow. This capability tracks inference performance metrics in real-time, including Time to First Token, inter-token latency, queue depth, and tokens per second, and surfaces them alongside infrastructure health so customers can identify and resolve issues in minutes rather than hours. SageMaker AI detailed observability transforms how customers monitor and optimize their inference fleet. The new pre-built SageMaker AI Insights dashboard in Amazon CloudWatch gives customers token latency, GPU utilization, inference component copy counts, scaling events, and cold start breakdowns in a single view with OpenTelemetry native metrics published automatically, no instrumentation required. This allows teams to quickly diagnose TTFT degradation, verify availability zone compliance, and tune autoscaling policies. Customers who have standardized on observability tools like Grafana can connect directly using the regional PromQL endpoint and import a pre-configured dashboard template. This capability helps customers self-serve operational issues and maximize the performance of their AI investments. SageMaker AI Inference observability is available in the following AWS Regions: US East (N. Virginia), US East (Ohio), US West (Oregon), US West (N. California), Canada (Central), South America (São Paulo), Europe (Ireland), Europe (Frankfurt), Europe (London), Europe (Stockholm), Europe (Zurich), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Asia Pacific (Seoul), and Asia Pacific (Jakarta). To learn more, visit the Documentation and Amazon SageMaker AI webpage.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sns-supports-sending-sms-seoul-region/",
+      "published_kst": "2026-06-19T00:00:00+09:00",
+      "summary_hint": "Customers that use Amazon Simple Notification Service (Amazon SNS) in the Asia Pacific (Seoul) Region can now send text messages (SMS) to subscribers in more than 200 countries and territories. Amazon SNS is a fully managed pub/sub messaging service that enables message delivery to multiple endpoints including AWS Lambda, Amazon SQS, Amazon Data Firehose, mobile devices, and email. With this launch, customers using SNS in the Asia Pacific (Seoul) Region can subscribe phone numbers to SNS topics and broadcast SMS messages via AWS End User Messaging . To learn more about sending SMS messages with SNS, visit Mobile text messaging with Amazon SNS . For the list of supported countries and regions, visit Supported countries and regions .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/",
+      "published_kst": "2026-06-18T16:00:00+09:00",
+      "summary_hint": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports higher volume-level limits for General Purpose (gp3) storage. With this update, each gp3 volume can scale up to 64 TiB in size (4X the previous 16 TiB limit), up to 80,000 IOPS (5X the previous 16,000 IOPS limit), and up to 2,000 MiB/s throughput (2X the previous 1,000 MiB/s limit). With these improvements, customers can now run larger Microsoft SQL Server databases on Amazon RDS. Workloads with demanding I/O requirements such as high-throughput OLTP systems and large-scale analytical workloads can take advantage of higher IOPS and throughput on a single volume with simplified storage management, and get better performance for mission-critical SQL Server workloads. Additionally, you can configure additional storage volumes to add up to three gp3 or io2 volumes per DB instance, increasing total capacity up to 256 TiB per instance. There is no change to pricing - customers pay for storage and any additional IOPS and throughput they provision beyond the baseline default. For more information, refer to the Amazon RDS for SQL Server User Guide . See Amazon RDS for SQL Server Pricing for pricing details and regional availability.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Glue Interactive Sessions now support Spark Connect for interactive workloads",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks",
+      "published_kst": "2026-06-18T04:15:00+09:00",
+      "summary_hint": "AWS Glue Interactive Sessions now support Apache Spark Connect, using which you can now develop and run Apache Spark applications from your preferred environment, including managed notebooks in Amazon SageMaker Unified Studio, or your preferred notebook environments and IDEs like Jupyter, Visual Studio Code, while running them on AWS Glue's serverless infrastructure without managing clusters. With Spark Connect, you submit Spark jobs to AWS Glue Interactive Sessions using a thin client architecture that decouples your client application from the Spark execution environment. This unlocks workflows like ad hoc data exploration, iterative step-by-step debugging, and incremental PySpark job development before deploying to production, all from the tools you already use. Spark Connect also simplifies upgrades and improves stability by isolating client dependencies from the server-side Spark runtime. For observability, you get real-time session monitoring via the Spark UI, history tracking through the Spark History Server, and session management using the AWS Glue API, CLI, or SDK. AWS Glue Interactive Sessions with Spark Connect is available in Asia Pacific (Mumbai, Seoul, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt, Ireland, London, Paris, Stockholm), South America (São Paulo), US East (Ohio, N. Virginia), and US West (Oregon). To get started, connect to Glue Interactive Sessions using Spark Connect from notebooks in Amazon SageMaker Unified Studio , your favorite IDE with a Python interpreter, or the AWS API, SDK, and CLI. To learn more, visit the AWS Glue Interactive Sessions documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/",
+      "published_kst": "2026-06-18T01:00:00+09:00",
+      "summary_hint": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time, enabling customers to monitor workflow execution progress as it happens. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows. Real-time engine log streaming accelerates iterative workflow development and debugging by giving researchers, bioinformaticians, and workflow developers immediate access to execution details during a run. The streamed engine logs provide visibility into workflow orchestration events, task scheduling details, import/export activity, and full stack traces on errors — all routed into the engine log stream in real time. Customers can set up CloudWatch alarms on log patterns to detect anomalies early, build dashboards for ongoing monitoring, and integrate with existing observability tooling. Real-time engine log streaming is now available for Nextflow, WDL, and CWL workflow runs in all AWS HealthOmics regions: US East (N. Virginia), US West (Oregon), Europe (Frankfurt, Ireland, London), Israel (Tel Aviv), and Asia Pacific (Singapore, Seoul). To learn more, visit the Monitoring HealthOmics with CloudWatch Logs documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS DevOps Agent adds release management capability (preview)",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/",
+      "published_kst": "2026-06-18T00:00:00+09:00",
+      "summary_hint": "AWS DevOps Agent now offers a release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidence. With this addition, AWS DevOps Agent now works across both delivery and operations. It accelerates and validates the deployment of code changes, then keeps your applications running optimally across AWS, multicloud, and on-prem environments, so your team ships faster, reduces MTTR, and achieves operational excellence. With release readiness review, AWS DevOps Agent evaluates code changes for production safety during code generation by checking for drift from your internal standards, dependency impacts, and access controls. It maps cross-repository dependencies to surface breaking changes before commit and uses deterministic proofs to review that infrastructure changes do not drift from AWS Well-Architected best practices. With release testing, AWS DevOps Agent generates and runs test plans for web and API-based applications in customer-provisioned environments, catching regressions, UX issues, and integration failures a human reviewer may miss. To get started with the preview, connect your code repositories and pipelines in your AWS DevOps Agent space. AWS DevOps Agent release management is available in the US East (N. Virginia) Region and at no additional cost during the preview period. For the list of AWS Regions where AWS DevOps Agent production operations is available, see the supported Regions table . For pricing of production operations features, which are generally available, see AWS DevOps Agent pricing .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/",
+      "published_kst": "2026-06-18T00:00:00+09:00",
+      "summary_hint": "AWS Graviton5-based M9g database (DB) instances are now generally available for Amazon Relational Database Service (RDS) for PostgreSQL, MySQL, and MariaDB. Graviton5-based instances provide up to a 30% performance improvement and up to a 23% price/performance improvement for on-demand pricing over Graviton4-based instances of equivalent sizes on Amazon RDS open source databases, depending on database engine, version, and workload. AWS Graviton5 processors are the latest generation of custom-designed AWS Graviton processors built on the AWS Nitro System. M9g DB instances are available with new 24xlarge and 48xlarge sizes. With these new sizes, M9g DB instances offer up to 192 vCPU, up to 100Gbps enhanced networking bandwidth, and up to 72Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS). These instances are now available in the US East (N. Virginia, Ohio), US West (Oregon), and Europe (Frankfurt) Regions. For complete information on pricing and regional availability, please refer to the Amazon RDS pricing page . For information on specific engine versions that support these DB instance types, please see the Amazon RDS documentation .",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/",
+      "published_kst": "2026-06-18T00:00:00+09:00",
+      "summary_hint": "Amazon Aurora MySQL-Compatible Edition and Amazon Relational Database Service (RDS) for MySQL now offer Amazon RDS Extended Support for MySQL 5.7 through June 30, 2029, from the previous end date of February 28, 2027. This applies to Aurora MySQL version 2 (with MySQL 5.7 compatibility) and RDS for MySQL version 5.7, giving customers additional time to plan and complete their upgrades to a supported major version while continuing to receive critical security patches and bug fixes. RDS Extended Support delivers security patches for critical and high CVEs, bug fixes for critical operational issues, and access to AWS Support within the standard Aurora and RDS SLAs. There is no price increase with this extension, and customers using RDS Extended Support for MySQL 5.7 will continue to pay Year 3 pricing through June 30, 2029. For pricing details, see Aurora pricing and RDS for MySQL pricing . We recommend upgrading to MySQL 8.0 or MySQL 8.4 compatible versions to benefit from the latest database features, performance improvements, and security enhancements. You can upgrade using Amazon RDS Blue/Green Deployments , in-place upgrade, or snapshot restore. To learn more, see the Aurora MySQL and RDS for MySQL user guides. This extension is available in all AWS Regions where Aurora MySQL and RDS for MySQL are available. Amazon Aurora is designed for high performance and availability at global scale with full MySQL and PostgreSQL compatibility. Amazon RDS for MySQL, PostgreSQL, and MariaDB make it simple to set up, operate, and scale open source deployments in the cloud. Visit the getting started pages for Aurora and RDS to begin.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+      "published_kst": "2026-06-19T02:32:22+09:00",
+      "summary_hint": "Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you have an agent running in seconds. The agent runs in its own isolated environment with a filesystem and shell, so it can read files, run commands, and write code safely. It remembers users and conversations across sessions, picks up skills you point it at (including the AWS-curated catalog), browses the web, calls your tools through gateway or MCP, and switches model providers mid-session without losing context. Every step streams back to you in real time and is automatically traced to Amazon CloudWatch. You don’t need to write orchestration code or build a container, unless you want to.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+      "published_kst": "2026-06-18T05:56:36+09:00",
+      "summary_hint": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Get back hours every day with autonomous agents in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+      "published_kst": "2026-06-18T05:35:39+09:00",
+      "summary_hint": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Context intelligence for your data and AI agents at scale",
+      "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
+      "published_kst": "2026-06-18T02:17:37+09:00",
+      "summary_hint": "Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but that can't happen until agents have context. Imagine what becomes possible when we give agents a safe way to access the context they need to deliver trusted decisions. This is why at the AWS Summit New York City, we’re announcing a series of innovations that deliver intelligence for your data and AI agents at scale.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
+      "published_kst": "2026-06-18T00:29:36+09:00",
+      "summary_hint": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Accelerate security investigations with Kiro CLI",
+      "url": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/",
+      "published_kst": "2026-06-19T04:24:30+09:00",
+      "summary_hint": "When a security event occurs in your Amazon Web Services (AWS) environment, rapid response is critical. However security teams often struggle with time-consuming, manual processes that slow down investigations. Analysts must recall complex AWS Command Line Interface (AWS CLI) syntax for multiple services, manually correlate findings across Amazon GuardDuty, AWS CloudTrail, and other security tools, […]",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format/",
+      "published_kst": "2026-06-19T01:50:34+09:00",
+      "summary_hint": "Amazon Web Services (AWS) is excited to release the Spring 2026 System and Organization Controls (SOC) 1 and 2 reports in machine-readable OSCAL format alongside the PDF version of the reports. The reports cover 188 services over the 12-month period from April 1, 2025 to March 31, 2026, giving customers a full year of assurance. […]",
+      "feed": "rss"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Introducing AWS Continuum: Security at machine speed",
+      "url": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/",
+      "published_kst": "2026-06-18T00:34:05+09:00",
+      "summary_hint": "What we believe We’ve been thinking deeply about enterprise security. The operating model that served us for the past decade (collect telemetry, store it, query it, build dashboards to watch it) is no longer keeping pace. We need to shift to the new world: telemetry, context, reasoning, and actions. An approach that produces outcomes. The […]",
+      "feed": "rss"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
+      "published_kst": "2026-06-19T01:00:00+09:00",
+      "summary_hint": "Developers looking for LLM inference and model serving often turn to Ray Serve , a scalable model serving library with developer-friendly, Python-native APIs built by Anyscale. Combined with Google Kubernetes Engine (GKE), developers have a powerful, unified platform optimized for demanding LLM serving use cases, spanning from initial model development to online production serving. However, that flexibility and feature set used to come at a cost to performance. But today, in partnership with Anyscale, we are delivering up to 5x higher throughput and 8x lower latency in Ray Serve , meeting the growing demands and rigorous performance requirements of state-of-the-art distributed inference, without having to sacrifice ease of use. Scaling inference without the bottlenecks Through our joint engineering partnership, we are introducing three major architectural optimizations that dramatically improve Ray Serve LLM's performance characteristics: Ray Serve HAProxy integration : Ray Serve now builds in HAProxy to manage internal request routing and load balancing. This setup drastically reduces proxy overhead and prevents the Python runtime from saturating under high traffic. Direct token streaming architecture : This architecture decouples the initial request path from the return stream. Tokens stream directly from individual model replicas back to the proxy, bypassing the ingress router completely for the streaming data path to cut latency. v2 Ray executor backend for vLLM : The revamped Ray backend for vLLM moves Ray out of the data plane to enable asynchronous scheduling. This unifies the code path with native vLLM executors, closing the performance gap and helping to ensure Ray users benefit from the latest engine-level optimizations. Benchmarking performance on GKE We’ve also collaborated with Anyscale to benchmark the updated Ray Serve LLM on GKE clusters utilizing next-generation AI hardware, including Google Cloud A4 VMs powered by NVIDIA HGX B200 systems. We chose to run Gemma 4 E2B as a small, efficient model to isolate bottlenecks introduced from orchestration and routing. Our benchmarks compared the new Ray Serve LLM to its prior performance, as well as a plain vLLM setup using the Ray executor. These technical enhancements deliver a transformative impact on performance, offering up to 5x higher throughput and 8x better latency compared to previous Ray Serve configurations. The improved Ray Serve LLM demonstrated a remarkable improvement on a serving cluster with eight replicas, showing a scaling pattern that far exceeds previous performance, and showing comparable performance to running vLLM natively, but without the flexibility that Ray brings to the table. We observe that with an increasing number of concurrent users, Ray is now able to scale up throughput while maintaining a low 99th percentile time-to-first-token, where previously it struggled. Now LLM practitioners don’t have to sacrifice Ray’s rich features and ecosystem to get production-grade performance on Kubernetes. Why choose GKE for Ray Serve GKE provides the foundational infrastructure that makes these software optimizations shine. When using the Ray Operator add-on for GKE, you get turnkey deployment across Google Cloud's AI accelerators , including automated horizontal scaling, monitoring , multi-cluster scaling , and built-in fault tolerance. GKE abstracts the complex parts of orchestrating distributed physical hardware, so your team can focus on refining your models and application logic with Ray. Try Ray Serve LLM on GKE We encourage developers to try out these enhancements in the latest Ray release (2.56 and later) and experience the future of high-performance LLM serving on GKE. For more details, check out the following resources: New from Anyscale: High Performance Distributed Inference with Ray Serve LLM Enable High Throughput on Ray Serve with KubeRay Serve an LLM with multi-cluster Ray Serve and GKE Inference Gateway Serve Gemma open models on GKE with Ray",
+      "feed": "rss"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/",
+      "published_kst": "2026-06-18T21:51:00+09:00",
+      "summary_hint": "In the high-stakes world of tech entrepreneurship, the leap from a brilliant prototype to a scalable, market-defining business can be brutal. Founders need much more than capital; they need deep architectural guidance, sovereign-level policy alignment, and technical systems engineered to enable rapid growth. Joy’s Law states: \"[N]o matter who you are, most of the smartest people work for someone else.\" We recognize that true innovation inherently happens “elsewhere.” This philosophy drives our active support of global accelerators across a diverse, geographic footprint of innovation markets to tap into this decentralized brilliance. For over a decade, our Google accelerator program has acted as a catalyst for this exact transition. By bridging the gap between raw entrepreneurial ambition and Google’s world-class engineering ecosystem, the program has quietly built one of the most resilient, high-performing startup portfolios on Earth. The Power of the Network: A Decade by the Numbers While many startup accelerators struggle with significant failure rates, our accelerator program has set a high bar for long-term success. By pairing top-tier founders and CTOs with customized, deeply technical engagement from Google, along with learned industry best practices, the program has consistently helped build both highly valuable companies and products. The scope of this global network is impressive: Metric Impact to Date Global Footprint 2,011 startups supported across 88 countries Program Experience 144 cohorts graduated over 10 years Survival Rate 93% portfolio survival rate Financial Momentum $46.3B in funding raised; $135.1B collective portfolio valuation Startup Job Creation 305,900 employees across the entire startup portfolio The Developer Value-Add: By design, this isn't a high-level business bootcamp. The founders of Accelerator startups identify a deeply technical problem that they then work on with bespoke support from Google to solve. These startups get access to Google engineers and product managers, along with access to our platforms and tools. From advising on architectures to optimizing AI model pipelines, Google experts work directly with the founding teams to help tackle some of their most complex technical hurdles. Strategic Momentum: Geopolitics, Green Infrastructure, and Robotics The startup ecosystem is shifting rapidly, and our accelerator program is evolving along with it. This year, Google launched new initiatives to support global economic development and explore and evolve critical environmental infrastructure. Just a few examples: Sovereign-Level Policy & Strategic Wins Australia: Accelerator alumni have successfully anchored the Google AI stack directly into the country's national R&D strategy, engaging directly with Members of Parliament in Canberra. Canada: The Canadian Office of Innovation, Science, and Economic Development officially recognized and cited the impact of the Canada accelerator program in its formal report for the G7 Summit. Cutting-Edge Frontier Programs This year marks a major expansion into specialized, frontier tech verticals: The Google DeepMind Accelerator (Europe): Dedicated strictly to hardening technical builds for AI-native robotics companies, effectively bridging the gap between lab prototyping and commercial market success. T he GDM Accelerator (AI for Planet) in APAC : A joint initiative between Google DeepMind and Google's Sustainability teams. The program focuses heavily on biodiversity foundation models to position Google at the forefront of the critical ESG (Environmental, Social, and Governance) infrastructure market. Japan Relaunch: Marking a major strategic re-entry into one of Asia's most vital technology hubs. The hive mind opportunity To maximize the power of this unique network, earlier this year we successfully transitioned our disparate regional alumni networks into a Unified Alumni Community . We now bring together more than 1,750 startups and 3,000 founders across 90+ countries through shared online channels and the opportunity to attend in-person events, where founders get access to Google senior leadership and our newest models and tech, opportunities to directly influence the development of new Google products to better support their businesses’ growth, and learn from and support each other. Don't Miss It: Upcoming Demo Days The culmination of each of our intense accelerator journeys is Demo Day , where top-tier cohorts showcase their technical builds and new market-defining concepts. You can watch these milestones live streamed directly via the Google for Startups events on YouTube . Mark your calendar for the remaining 2026 showcases: Summer & Fall 2026 Africa Accelerator: June 19 Middle East, North Africa, and Turkey Accelerator: June 26 Korea Accelerator: July 15 Brazil Accelerator: July 16 Europe and Israel DeepMind Accelerator (Robotics): September 11 India: September 30 Winter 2026 India Accelerator: November 4 Southeast Asia Accelerator: November 13 North America Accelerator (Energy): November 19 South Africa Accelerator: December 11 Europe and Israel (Energy): December 11 Global Google.org Accelerator(Government Innovation): December 11 Open & Upcoming Applications If you are a founder or CTO looking to radically scale your technical infrastructure, optimize your product market-fit, and gain equity-free support from Google's global talent pool, applications are officially moving. Applications Open Right Now: GFSA Southeast Asia (Leverage the newly launched AI Startup Innovation Corridor connecting SEA to Silicon Valley) GFSA China Google.org Accelerator: AI for Science",
+      "feed": "rss"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
+      "published_kst": "2026-06-18T16:00:00+09:00",
+      "summary_hint": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google’s top agentic engineers. We dive into the massive shift from traditional IDEs to agent-first platforms, the reality of code reviews in an AI-driven world, and how to use \"skills\" to perform at a 100X level. This post guides you through the key ideas from our conversation. Use it to quickly recap topics or dive deeper into specific segments with links and timestamps. Google Antigravity 2.0 - What is it? Antigravity 2.0 has evolved from a simple agentic IDE into a full-scale agent-first platform. It now consists of four core pillars: a standalone desktop Agent Manager for orchestration, a robust CLI for server-side work, an SDK for custom Python-based workflows, and a specialized IDE . This unbundled approach allows developers to compose their own environment, managing multiple folders and complex project structures without being forced into a single-workspace layout. Rody Davis on 100X Engineering We explored the strategies elite engineers use to scale their impact and reduce the \"cognitive toil\" of daily development. Scaling Impact and Reducing Toil Timestamp: 01:55 Rody explains that AI isn't just about writing code; it's about accelerating the entire lifecycle. He uses agents to write richer test suites and prototype multiple versions of an app before committing to a framework. By offloading \"toil\", like building marketing sites, he can focus on high-level architecture and problem-solving. Skills as \"Context Cheat Sheets\" Timestamp: 03:05 A core philosophy in Rody’s workflow is the use of \"Skills.\" He views skills as a way to compress context for the model. \"It’s literally a cheat sheet for the agent,\" Rody notes. By providing the agent with specific design systems or API documentation, the model becomes significantly faster and more accurate, avoiding the latency of searching through massive, unorganized docs. Customizations, Skills, and MCP Servers Timestamp: 04:17 Rody walks us through the customizations tab in Antigravity 2.0, showing how to extend an agent's capabilities: Android CLI: Building and deploying mobile apps directly from the command line. Modern Web Guidance: Grounding the agent in the latest CSS and accessibility standards. MCP Servers: Using the Model Context Protocol to enable features like hot reloading for Flutter and Dart. The Bonsai Approach to Code Review Timestamp: 05:27 Rody compares maintaining a codebase to being a Bonsai artist: constantly pruning to keep things simple. He advocates for flat architectures where state, UI, and data are strictly separated. This makes it easier for a human to \"steer\" the agent; if the agent starts putting files in the wrong place, the architectural violation is immediately obvious. Do you review 100% of agent-generated code? Timestamp: 07:11 Rody’s answer depends on the task. For a marketing site, he focuses on the visual output rather than the code. However, for backend logic, he cares deeply about API contracts and schemas. He recommends writing the first example yourself so the agent can simply \"copy the pattern\" for the rest of the codebase. Building Extensions to Solve Daily Friction Timestamp: 09:05 To solve the problem of managing files across multiple Git projects, Rody used Antigravity to build a custom macOS Finder extension in Swift. This tool allows him to filter files by time boxes (today, last week, etc.), demonstrating how agents can build specialized utilities that reduce daily friction. Do AI engineers still write code by hand? Timestamp: 10:22 \"Oh yeah,\" Rody says. He still loves the syntax of languages like Go and the challenge of controlling computers. He believes it's vital to understand the building blocks deeply so that when you face a problem two years down the road, you know exactly which \"old project\" to reach back for. Powering Personal Websites with Gemma 4 Timestamp: 11:42 Rody showcases his personal website, which uses Gemma 4 and Embedding Gemma to provide dynamic content recommendations offline. By vectorizing post summaries at compile time, the site can suggest related content via a local vector database without needing a live backend server. The Factory Floor The Factory Floor is our segment for getting hands-on. Here, we moved from high-level concepts to practical code with live demos. Multi-Agent Parallelism in Action Timestamp: 14:02 I n this demo, Rody uses a single stream-of-thought voice prompt to build a full-stack application. We watched as Antigravity: Spun up parallel sub-agents, including a dedicated DevOps and QA engineer. (see 19:48 ) Built a multilingual note-taking app using Vite, Go, and SQLite. Orchestrated the entire stack via Docker Compose. Localized the app into five different languages simultaneously. Unbundling the IDE Ecosystem Timestamp: 15:35 We discussed why Google separated the IDE from the Agent Manager. Rody highlights that this unlocks different workflows: the CLI is perfect for SSH sessions on a Raspberry Pi, while the Agent Manager handles general knowledge work and orchestration across multiple folders. Turning Documentation into Reusable Skills Timestamp: 25:41 Rody shares his process for turning documentation into skills. He wrote a Go CLI that parses websites into markdown, allowing him to install hundreds of skills for the sites he visits frequently. This ensures the agent always has access to the specific version of the docs he is using. Rapid Fire: Future Tech Predictions Timestamp: 27:35 We put Rody on the spot with some controversial takes: Vibe Coding: Rody believes a non-technical founder will launch a company using only vibe coding by 2026, but the real test will be maintaining it in years 2 through 5. Production Failures: Rody agrees that vibe coding will cause significant production failures, leading to a new hot job for software engineers: consulting to solve those failures. Codebase Health: Rody argues that poor codebase health, not context windows, is the biggest bottleneck in AI speed. Grounding Yourself in a Changing Landscape Timestamp: 31:10 Rody advises engineers to focus on why they were hired: to solve problems and engineer things that didn't exist before. He suggests using AI to provide better communication handoffs between colleagues, making artifacts so easy to approve that they are \"ready to sign off\" the moment they are handed over. Conclusion The era of agentic engineering is here, but as Rody Davis demonstrated, it requires more architectural discipline, not less. By treating your codebase like a Bonsai tree and your agents like an orchestra, you can move past the \"toil\" and focus on building the frameworks of the future. Your turn to build Are you ready to build anything? We’ve officially launched the #NapkinChallenge . Take a handwritten sketch of an app idea, use Antigravity 2.0 to build it, and share your creation on social media. Try Antigravity 2.0: antigravity.google Join the Challenge: Napkin Challenge Details Rody’s personal website , github repo and skills Connect with us Rody Davis → X , LinkedIn Shir Meir Lador → X , LinkedIn",
+      "feed": "rss"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
+      "url": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+      "published_kst": "2026-06-18T16:00:00+09:00",
+      "summary_hint": "The European Commission’s Tech Sovereignty Package comes at a defining moment for the continent's digital future. European competitiveness and security are top of the agenda for European business, institutions, and citizens, and a significant investment in European digital capacity is needed to deliver those goals. In that context, it is understandable that Europe is considering how to boost the European Union digital footprint from chips, to cloud adoption, to AI data infrastructure. The European Commission’s strategy is to be grounded in \"openness, partnership, and fair competition.\" Indeed, the package contains bold measures consistent with these principles on interoperability to address vendor lock-in and an open source strategy for the public sector, as well as on more rapid data center deployment. We will work cooperatively with the EU institutions providing our best knowledge about how to achieve these stated objectives in practical terms. To that end, we believe certain elements of the Cloud and AI Development Act (CADA) should be changed to avoid unintended market isolation, ensuring that trusted global partners can continue to support Europe’s security and scaling goals under a framework of true openness. Our approach to sovereignty, developed over many years, is grounded in delivering tangible, technical, and verifiable control and open choice, while investing in the growth and security of Europe’s digital infrastructure — consistent with what we understand to be the goals of this strategy. We have engineered a comprehensive menu of Sovereign Cloud solutions, designed to meet Europe's tiered compliance requirements at every level. From standard public cloud configurations with strict European data boundaries to independently operated regional cloud services to fully air-gapped solutions for the most sensitive public-sector operations, we ensure that compliance never requires sacrificing technological excellence. Through our deep “Made with Europe” collaborations with regional champions — including S3NS in France; Thales, the Schwarz Group, and T-Systems in Germany; PSN in Italy; Clarence in Luxembourg; and Telefónica in Spain — we are actively delivering the operational resilience and jurisdictional controls designed to meet the highest regulatory standards of existing sovereignty frameworks at national level. Across our partner-led sovereign solutions, the S3NS offering in France has been qualified to meet SecNumCloud 3.2, Europe’s highest sovereignty regulatory bar . Our partners Clarence and S3NS, together with Mistral, offer services that have been approved by the EU Directorate-General for Digital Services (DIGIT) for use by EU Institutions who have sovereign cloud needs. We believe this is what constitutes a true trusted partnership and encourage the Commission to follow this existing path, which is already meeting sovereign expectations across Europe today. 1. Refining sovereign certification A primary concern within the CADA proposal is the design of the Union Assurance Levels (UALs). While harmonizing sovereignty criteria across member states is a constructive step, criteria at each of the four UALs would limit or exclude global providers, regardless of the security mitigations they offer. Regulations should create space for innovative and effective technology approaches to sovereign control, instead of rigid geographic criteria that sacrifice the potential to have control without undue disruption to global supply chains. We understand and support the data sovereignty and extra-territorial risk-mitigation priorities of European policymakers. Through capabilities like Cloud External Key Manager (EKM), one of the tools within our suite of sovereign solutions, Google Cloud allows customers to maintain their encryption keys outside of Google's infrastructure. This control creates a technical barrier to unauthorized access to unencrypted data by third parties without the explicit consent and awareness of the customer. The EU has already designed an alternative, more balanced model in the proposed Industrial Accelerator Act . This framework has the potential to successfully maintain collaboration with trusted non-EU partners under a default presumption that trusted partners can operate as EU origin, underpinned by robust global trade rules and strong back-stop powers. We urge co-legislators to apply a similar philosophy to CADA. 2. Promoting interoperability, combating vendor lock-in, and reforming procurement Sovereignty must empower end-users with more choice, not less. A healthy European digital ecosystem requires open foundations that prevent vendor lock-in, restrict choice, and drive up costs. We strongly support CADA's goal to foster an open, interoperable cloud ecosystem. To make this meaningful, we believe that the policy must align with a commitment to openness across every level of the digital stack — infrastructure, models, and applications. Our own approach is built on this foundation: We offer open, portable infrastructure with no data transfer exit fees , we champion open AI models like Gemma, and we support open-standards applications. Our stack-wide open approach is designed to help European enterprises build, migrate, and scale without friction. Yet organizations can’t maximize the benefits of an open approach because restrictive licensing practices lock customers into a single ecosystem. To restore true choice, we advocate for three straightforward reforms: allowing users to move their software licenses freely, ensuring fair pricing for legacy software, and guaranteeing that software runs equally well on any cloud platform. 3. Building sustainable, open infrastructure for Europe's AI future Physical compute infrastructure is the bedrock of digital sovereignty. While we support the ambitions of the Chips Act 2.0 to invest €30 billion in European semiconductor research and development, we believe that this investment is just as important as establishing regulatory rules that attract large scale investments in compute infrastructure. To help achieve that goal, we recommend the measures outlined below. As a long-standing investor in European data infrastructure, operating 13 European cloud regions and deepening that commitment with recent investments in Germany, Belgium and Sweden, we hope to see a policy that leverages the pace and scale of committed global investors like us. We welcome the introduction of \"special project\" status to streamline permitting, grid access, and power purchase agreements (PPAs) in designated zones. To ensure these measures succeed, we support: Prioritizing fast-track permitting benefits for highly sustainable infrastructure projects. Aligning national sustainability criteria with the upcoming EU-wide rating scheme, ensuring it does not penalize energy-efficient technologies like water cooling. Ensuring that these acceleration zones do not artificially constrain the geographic location of new sites, and extending supportive grid connection measures to viable data centers operating outside of designated zones. The path forward: Made with Europe As ministers prepare to gather for the upcoming Council Summit, Europe has a historic opportunity to build a resilient, competitive, and truly open digital future. By championing open-source software — from our contributions to Kubernetes, Chromium, Android, TensorFlow, and open AI models like Gemma — and by co-engineering solutions with Europe's industrial leaders, we are proving that global innovation and European values can be furthered together. We look forward to collaborating with Member States, European policymakers and our regional partners to ensure that the final Tech Sovereignty Package fosters local economic growth, safeguards national security, and keeps Europe at the cutting edge of global AI innovation.",
+      "feed": "rss"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
+      "url": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+      "published_kst": "2026-06-18T04:30:00+09:00",
+      "summary_hint": "In today’s digital landscape, the network is no longer confined to a single data center or even a single cloud provider. Enterprises are increasingly adopting cross-cloud strategies, connecting Google Cloud workloads to on-premises environments, other clouds like AWS and Azure, and a vast array of internet-facing applications. While this flexibility drives innovation, it can also introduce significant operational complexity. When a user experiences degradation in application performance, the critical question remains: Is it the network, the application, or something else? We are excited to announce the general availability of Cloud Network Insights , an out-of-the-box, Google Cloud-native solution that provides comprehensive visibility into network and digital experience performance across complex multi-cloud, and hybrid environments. Closing the visibility gap with active monitoring Cloud Network Insights, offered in partnership with Broadcom AppNeta , expands your observability beyond Google Cloud to your entire global deployment. By utilizing active synthetic probing, the solution monitors network routes even when no user traffic is present, allowing teams to be proactive rather than reactive. Whether the source of degradation is in the cloud, on-premises data centers, internet applications, ISPs, or last-mile connectivity, Cloud Network Insights helps you pinpoint the exact location of the bottleneck. Cloud Network Insights integrates directly into the Google Cloud Observability suite , bringing sophisticated network intelligence into the tools you already use. With Cloud Network Insights, you get: End-to-end network path visibility: Gain a hop-by-hop visualization of the network path between your sources and destinations. Monitor critical metrics like round-trip time (RTT), packet loss, and jitter across networks you don’t directly manage. Digital experience insights: Go beyond the network layer to monitor digital experience for web applications . Measure DNS resolution times, HTTP response codes, and full browser page-load times to identify whether an application's degradation is due to the network or the application itself. Proactive detection and alerting: Use synthetic testing to identify performance dips before they impact your customers. Alarms are integrated with Cloud Monitoring and Cloud Logging, enabling alerting via email, Slack, or PagerDuty. SLA validation: Arm your team with the data needed to verify if ISPs and service providers are meeting their performance commitments. Rapid root-cause analysis: Quickly differentiate between network problems, application-level issues, or browser performance impacts. Integrated monitoring: Access metrics and logs directly within Google Cloud, leveraging Cloud Monitoring and Cloud Logging for dashboards and alerting. Utilize the open partner ecosystem of Google Cloud as well as support for the OpenTelemetry protocol for metrics and logs, allowing direct ingestion by OTel SDKs and collectors. Agentic workload monitoring: Use synthetic testing to monitor connectivity and network performance to help ensure optimal connectivity to your agents and tools. Network performance and multi-path routes to/from Google Cloud, AWS, and Azure in one view How it works: active synthetic probing Cloud Network Insights uses active synthetic probing technology that consists of three main components: Monitoring Points: You deploy lightweight software agents, called Monitoring Points, into critical network segments, such as a central VPC, a remote branch, or an on-premises data center. These can be deployed as containers or virtual machines. Synthetic probes: These Monitoring Points send small, frequent bursts of synthetic traffic (simulating a user or application) to a target destination. This allows you to monitor performance 24/7, even when no real users are on the network. Data synchronization: The Monitoring Points send real-time performance telemetry to a central backend service. This data is then synchronized back to Google Cloud, with metrics exported to Cloud Monitoring, and alarms and events sent to Cloud Logging. Core capabilities Cloud Network Insights supports two primary types of monitoring to give you a full picture of your infrastructure: 1. Network performance monitoring (Layers 3 and 4) This provides a hop-by-hop visualization of the network between a source and a destination, including. Metrics captured: Round-trip time (RTT), packet loss, jitter, and path changes. Single-ended mode: The agent probes an external target (like a URL, IP address or an API endpoint) that doesn't have a Monitoring Point installed. Dual-ended mode: The Monitoring Point probes another Monitoring Point. This provides richer data, including precise one-way latency and the ability to detect asymmetric routing (when data takes a different path going out than it does coming back). Network path metrics in Google Cloud console 2. Digital experience monitoring (Layer 7) With digital experience monitoring, you can track the end-to-end experience of a web application. Here, you can choose from: Browser mode: Uses a real browser engine (Selenium) to load full web pages, execute JavaScript, and render content. It measures complete page-load times to validate the actual user experience. HTTP mode: Sends synthetic HTTP/S requests to a URL or API endpoint. This is a lightweight check for server availability, response time, and DNS/TLS performance. Intelligence and automation Cloud Network Insights also offers a variety of monitoring and troubleshooting capabilities. Proactive alarms: Cloud Network Insights leverages auto-baselining to establish dynamic performance thresholds based on your historical metric data. If a metric deviates from your defined parameters, the system instantly triggers an event in Google Cloud, routing alerts directly to your team via email, Slack, or PagerDuty. Monitoring policies: You can automate monitoring setups across large-scale environments by defining policies that dynamically create or remove paths based on custom tags. For instance, you can automatically track a core web application's performance from specific geographic regions. Root-cause analysis: Because Cloud Network Insights extends visibility into traditionally \"unwatched\" areas like ISPs and transit networks, it instantly pinpoints whether a slowdown is occurring within Google Cloud, at the ISP level, or inside another cloud environment like AWS or Azure. AI-driven insights: With integration to Gemini Cloud Assist, you can use natural language to interrogate Cloud Network Insights telemetry alongside your broader infrastructure data. Rather than manually pivoting between dashboards, ask Gemini to cross-reference specific Cloud Network Insights metrics against other Google Cloud metrics, reducing mean time to resolution (MTTR). What customers are saying We are already seeing strong interest from customers looking to simplify their cross-cloud operations. Organizations like Sabre and Pexip are already using Cloud Network Insights to gain clarity in their hybrid environments. \"In an environment as complex and high-scale as Sabre’s, total visibility isn't just a luxury — it's a requirement for operational resilience. Cloud Network Insights will enable us to further shift our posture towards proactive optimization. By providing granular, real-time telemetry across our global cloud footprint, it helps eliminate the traditional 'black box' of the network, allowing our teams to resolve bottlenecks before they impact the traveler experience.\" - Alfredo Rodriguez, VP of Cloud and Infrastructure, Sabre “Cloud Network Insights closes the 'visibility gap' between the private corporate network and the public cloud, empowering our joint customers to pinpoint performance bottlenecks in seconds rather than hours.” - Alan Davidson, CIO, Broadcom Pexip improves network health with Cloud Network Insights Get started today Navigating complex digital ecosystems shouldn't mean sacrificing visibility. Cloud Network Insights bridges the gap across multi-cloud and hybrid environments by combining deep network performance metrics with digital experience monitoring. Coupled with direct integrations into Google Cloud Observability and Gemini Cloud Assist, your teams are empowered with intelligent alerting, robust SLA validation, and rapid root-cause analysis. We look forward to helping you gain a clearer, unified view of your Cross-Cloud Network. You can get started in the Google Cloud console today. To learn more: Explore our product documentation for deep dives into deploying Monitoring Points and configuring policies. Check out the latest release notes to stay updated on new features. Watch the overview video Hear more about the partnership between Google Cloud and Broadcom: Alan Davidson, CIO, Broadcom talks with Rob Enns, VP/GM, Google Cloud Networking Michel Melillo, Head of Network Observability, Broadcom chats with Raj Gulani, Director of Product Management, Google Cloud",
+      "feed": "rss"
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "published_kst": "2026-06-18T00:00:00+09:00",
+      "summary_hint": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "feed": "rss"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "published_kst": "2026-06-19T05:00:27+09:00",
+      "summary_hint": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid. In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]",
+      "feed": "rss"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "published_kst": "2026-06-18T22:00:43+09:00",
+      "summary_hint": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
+      "feed": "rss"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+      "published_kst": "2026-06-18T22:00:32+09:00",
+      "summary_hint": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
+      "feed": "rss"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "published_kst": "2026-06-18T15:00:59+09:00",
+      "summary_hint": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
+      "feed": "rss"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "How Stagwell built privacy-safe ID matching on Databricks",
+      "url": "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks",
+      "published_kst": "2026-06-19T00:00:00+09:00",
+      "summary_hint": "The identity matching problem brands face todayBrands invest heavily in building first-party data assets...",
+      "feed": "rss"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "What is artificial intelligence (AI)?",
+      "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
+      "published_kst": "2026-06-18T17:51:03+09:00",
+      "summary_hint": "Artificial intelligence (AI) is a branch of computer science that lets machines perform...",
+      "feed": "rss"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "What is row-level security?",
+      "url": "https://www.databricks.com/blog/row-level-security",
+      "published_kst": "2026-06-18T16:27:06+09:00",
+      "summary_hint": "Row-level security (RLS) is a database access control that limits which rows of a...",
+      "feed": "rss"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "What is an AI agent harness?",
+      "url": "https://www.databricks.com/blog/ai-harness",
+      "published_kst": "2026-06-18T06:45:04+09:00",
+      "summary_hint": "An AI agent harness is the software infrastructure that wraps around a large language...",
+      "feed": "rss"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "Databricks and NVIDIA: Building for the Agentic Era",
+      "url": "https://www.databricks.com/blog/databricks-and-nvidia-building-agentic-era",
+      "published_kst": "2026-06-18T04:50:00+09:00",
+      "summary_hint": "The Full Stack of AI, AcceleratedNVIDIA accelerated computing powers some of the...",
+      "feed": "rss"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "AI Prompt Security: How to Protect Against Misuse, Leakage, and Unpredictable Model Behavior - OX Security",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RzUWxlOFVmUUVSZVhPQkl1cTFycF9iUHl6RmtxdFlNNWtSRnhoaXpfLVMxZG5pZ1EwRW1fMGhUc3BkRldTTnpPZ0RVYjdTLXhMbmF2dDg5amFPUmNHZmZQejQ5eTkxM1NvYlZiLXpDOXhiSDA0T2JlSEpSNnpKNEVZZ1kxTGpwNE1HOTdhb3lnNElvMVpjU2FmeGhTU3o0TWlldXJ3QWNNVy1EMTY5OEZDZ2lrVGFYcTA0?oc=5",
+      "published_kst": "2026-06-19T02:17:12+09:00",
+      "summary_hint": "AI Prompt Security: How to Protect Against Misuse, Leakage, and Unpredictable Model Behavior OX Security",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "6 Ways to Contain Enterprise Risk in Model Context Protocol - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU9PUlZmZzlVSVUtcERVY1REUUJpbzdkS3VBcjBMd2tFbXk1a0cwelQtaENYUzBreENxVkFUWVdvVkRsaTI5c0tPUV9rMV9fUUlQTURYaGIzN3l5Z3pTVjRIOEVFUEthM2VNcDNFMWw0YVhZdXdTNERLOS11ZGJyLVhyNUswblBPYmZoakp2TndfNXlCMUhEMVpEcklrbXJkREVEOHV6bEI?oc=5",
+      "published_kst": "2026-06-19T03:35:36+09:00",
+      "summary_hint": "6 Ways to Contain Enterprise Risk in Model Context Protocol BankInfoSecurity",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "The OpenClaw security risks every CISO needs to know - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUdKeEtsVmlJSEhISWt1aGs1Wll6ZGVyTFpjR2RmYUF6eXRwaDVPWVlmNTNMeEw1cWlTR2hlWEpmazR6c0RxeHBWLXJxb0dEUi1HYzFnOGdyeUtaYmZJNVFVNG91QmhGUk9WbTRvSGhmTzFQaGptRUFDZHlOeTFGTENvQ0NEcTI1SzYyV2VBc29UcjRBc2NQOEhqV1VoM1k?oc=5",
+      "published_kst": "2026-06-18T00:21:17+09:00",
+      "summary_hint": "The OpenClaw security risks every CISO needs to know TechTarget",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Reco launches Claude security integration for enterprises - SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN05rNlZrdWZGLTE3Ry1tSExaMkpFSVNSVUQ4OW8zalZsLURaYjJvTDVISXFEX0FSZ1U5T3NLbzlkZHNFcjlLdFdCdjIzbDhXT1hGUHJuVXU1RGVaZ0JTdERfOVBoMVh3VElJa1BuRzlWczJsR2RsOXNHTjBfVW5xZ2pmdS1hSGRxR2h4eTRORlB6SjN3?oc=5",
+      "published_kst": "2026-06-19T00:30:00+09:00",
+      "summary_hint": "Reco launches Claude security integration for enterprises SecurityBrief Asia",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "CrowdStrike Advances AI and Cloud Security Operations on AWS - 01net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2czTi00Ql9FdmRCdDd5YTIwUDBxTXhsWllfOGlSWWdDdHpEV3FLS2lCa1ZWcXlfOGxEZEEzT1U1TU90NDdjQko2Z0k3aC03NFN3OVk5UDFRTHQ2bkNLcFV6QjBvcDcyYUstSnYxaGQ3aGdpMTlJUzJoaDBSZnd3UDB4UnpZckZmT3c?oc=5",
+      "published_kst": "2026-06-18T04:20:00+09:00",
+      "summary_hint": "CrowdStrike Advances AI and Cloud Security Operations on AWS 01net",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "CrowdStrike and AWS Deepen Integration to Supercharge Cloud Security Operations - CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejJMQm1XZHpTaUtWbUwtLVJLRGFndkhNbjFTU2U1ODhiVXZMUVdlaTF0SFdPUnZlczlNUy1kOXFpQ0ZEeXh2d0dMQk1QRWNaeG0wOWxsOVo3TjVVaGZ3QVBpWkhjWVR2dWwzUmpEQjJZajVFcDlHZVFlamxqeFdkdmdsdGgxcTVlWW54Y1BjUHg4U0Vqcl9TMkpvN0h4emJ2R3dHU1Atc1N6TFF3aHBGQlN3?oc=5",
+      "published_kst": "2026-06-18T14:59:37+09:00",
+      "summary_hint": "CrowdStrike and AWS Deepen Integration to Supercharge Cloud Security Operations CXOToday.com",
+      "feed": "rss",
+      "query": "enterprise AI governance prompt injection data leakage MCP agent security after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "CC Switch Hits 104K Stars: One Desktop App for Seven AI Coding Tools - Augment Code",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGJYRm9iUXV5Q1daNDBjczB4QzlnRlVRVE1zaEQzc2MzMFRCQ09EUTBmdFFGSGhrMnRJdUhjSGljVmg1eXM5T3U4WHdHX29idEZUNWVRdl9qSzBjR3ZDVC1WNVJJN19OUm9NUzZpUnE1ZTNJOGlvNndHYmxuQ0RHQVZ3?oc=5",
+      "published_kst": "2026-06-18T22:32:25+09:00",
+      "summary_hint": "CC Switch Hits 104K Stars: One Desktop App for Seven AI Coding Tools Augment Code",
+      "feed": "rss",
+      "query": "Claude Code Codex Gemini Enterprise agent tooling MCP after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "ECC Ships v2.0.0: A Cross-Harness Agent System for Claude Code, Cursor, and Codex - Augment Code",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NcTFOTE9UcHY2MldKeXZLdmZoMFBmYlFXaGRTOWhEaE5ZcnFFSFQ3NUZfalVxbGl5T2h0eVN6cUVNOGpGdXh0N2szaU5kQ19sTndJanE4aExDdnp5RThIbVJSckIyLUMtUXk4Y1EzN3g3S0hkLXc?oc=5",
+      "published_kst": "2026-06-18T22:32:25+09:00",
+      "summary_hint": "ECC Ships v2.0.0: A Cross-Harness Agent System for Claude Code, Cursor, and Codex Augment Code",
+      "feed": "rss",
+      "query": "Claude Code Codex Gemini Enterprise agent tooling MCP after:2026-06-17 before:2026-06-20"
+    },
+    {
+      "source": "Google News RSS",
+      "title": "Graphify Ships v0.8.41: A Knowledge Graph Skill for 20+ AI Coding Assistants - Augment Code",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMml5VHREN3pIYUE1V1oyMHlTX1ZaWlUtRjVDVmZiNURvanl1UEtfMU82T1h3NUU5a08zU181T2lTOTFYMFpjQkpuTXV4Z0phc1dWeDJwLWRFbkZPVnhvZVFVQ25kWXlrT0ZER01jUEpRU25QalA2S29ZT1JJXzA0U3F5T3hfdGlRZmlVb1VB?oc=5",
+      "published_kst": "2026-06-18T22:32:25+09:00",
+      "summary_hint": "Graphify Ships v0.8.41: A Knowledge Graph Skill for 20+ AI Coding Assistants Augment Code",
+      "feed": "rss",
+      "query": "Claude Code Codex Gemini Enterprise agent tooling MCP after:2026-06-17 before:2026-06-20"
+    }
+  ],
+  "errors": []
+}
