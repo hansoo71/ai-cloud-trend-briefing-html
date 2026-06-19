@@ -1,0 +1,426 @@
+{
+  "window_start": "2026-06-19T00:00:00+09:00",
+  "window_end": "2026-06-20T07:59:59+09:00",
+  "count": 50,
+  "items": [
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sns-supports-sending-sms-seoul-region/",
+      "published_kst": "2026-06-19T00:00:00+09:00",
+      "summary": "Customers that use Amazon Simple Notification Service (Amazon SNS) in the Asia Pacific (Seoul) Region can now send text messages (SMS) to subscribers in more than 200 countries and territories. Amazon SNS is a fully managed pub/sub messaging service that enables message delivery to multiple endpoints including AWS Lambda, Amazon SQS, Amazon Data Firehose, mobile devices, and email. With this launch, customers using SNS in the Asia Pacific (Seoul) Region can subscribe phone numbers to SNS topics and broadcast SMS messages via AWS End User Messaging . To learn more about sending SMS messages wit",
+      "via": "official_feed"
+    },
+    {
+      "source": "Databricks Blog",
+      "title": "How Stagwell built privacy-safe ID matching on Databricks",
+      "url": "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks",
+      "published_kst": "2026-06-19T00:00:00+09:00",
+      "summary": "The identity matching problem brands face todayBrands invest heavily in building first-party data assets...",
+      "via": "official_feed"
+    },
+    {
+      "source": "Marketing Dive",
+      "title": "Warner Bros. Discovery revamps ad-tech stack around agentic AI, AWS - Marketing Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUJzSkQxS2Z2YkFaRU01dkxmNER1ajFJZUcyOG9XMmpYMGF2RXhqcXdJUm4tUmRhbGlQNjh3d3ZkbWZoNUtsaWJmdlFRLUNpUWw5RVBRbW10UUFnM25CVGtPQTFCS25Ial9tS2NJTVN6M09BRGpBNkdna1UweVVSejl6ZkFwcUNPWlA2bFBmQkJoOU1oZU1HUDN1X0R6S2Ytci02WHFBWE5BVlc2?oc=5",
+      "published_kst": "2026-06-19T00:01:22+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Amazon Bedrock AgentCore SageMaker AI governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/",
+      "published_kst": "2026-06-19T00:13:00+09:00",
+      "summary": "Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providing comprehensive visibility into token performance, GPU health, inference component placement, and autoscaling behavior. It takes away the manual work of searching CloudWatch for per-endpoint metrics, correlating latency spikes with GPU saturation or KV cache exhaustion and diagnosing why scaling operations are slow. This capability tracks inference performance metrics in real-time, including Time to First Token, inter-token latency, queue depth,",
+      "via": "official_feed"
+    },
+    {
+      "source": "HPCwire",
+      "title": "Starburst Announces AI Data Assistant That Reasons Across All Enterprise Data for Fast, Accurate Decisions - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWm5CRE1FdGhFbTVzdl84Q0NLNTRPcTV6Y1czdzBxN1dTYnV6Q3NpVEt2UUlfTXM1Q24xMERhU3BkVHVzM1VRT3cyYmk0Uy1jaHBVcU1ZNWhmMjVMTW5fbmtjNEdmWDBFU1RVNkhpeFpmUWpOMS1hd2UzdEtuSDBhM2xDaURpVVBXVWowOU5JRjFJU2FrVGsyc09NeHpjV2kwZlRMcXhjeS15VmV1VmhuUzhrbjE4TGVPZVplUTZYZ3d3UnBSWk1RV2dLdnNCbmtiSFh0YUVUVkgzaWREMGdjUE1YdVFOamo1ck9n?oc=5",
+      "published_kst": "2026-06-19T00:56:24+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "AI enterprise agent MCP cloud security governance AWS Google Cloud Azure OpenAI Anthropic after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
+      "published_kst": "2026-06-19T01:00:00+09:00",
+      "summary": "Developers looking for LLM inference and model serving often turn to Ray Serve , a scalable model serving library with developer-friendly, Python-native APIs built by Anyscale. Combined with Google Kubernetes Engine (GKE), developers have a powerful, unified platform optimized for demanding LLM serving use cases, spanning from initial model development to online production serving. However, that flexibility and feature set used to come at a cost to performance. But today, in partnership with Anyscale, we are delivering up to 5x higher throughput and 8x lower latency in Ray Serve , meeting the ",
+      "via": "official_feed"
+    },
+    {
+      "source": "BornCity",
+      "title": "Gemini 3.1 Pro: Google springt bei Reasoning um 46 Prozentpunkte vor - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFVfR05vekhKVlVORkxXR3dXRGdhV0FHTlpOZzAzbjRoTllLQ05yTlVreU4tWXBMOE02SERQVVdpd0lpQUhDWkYxNEF5MkJrRVZxWHN1OVFWOFBTalgzYjRUZlB6Z3dVZFRlMXA5elRmYkV3WE15blFZSUFLZTdVS21uTUZQLTlYTkdFQ0VGUHJ5UzZHQVp0ZzFn?oc=5",
+      "published_kst": "2026-06-19T01:49:09+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format/",
+      "published_kst": "2026-06-19T01:50:34+09:00",
+      "summary": "Amazon Web Services (AWS) is excited to release the Spring 2026 System and Organization Controls (SOC) 1 and 2 reports in machine-readable OSCAL format alongside the PDF version of the reports. The reports cover 188 services over the 12-month period from April 1, 2025 to March 31, 2026, giving customers a full year of assurance. […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "OpenAI News",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published_kst": "2026-06-19T02:00:00+09:00",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EKS now supports customer-routed control plane egress",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
+      "published_kst": "2026-06-19T02:00:00+09:00",
+      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you route outbound Kubernetes API server traffic through your own Amazon VPC. This includes admission webhook callbacks, OpenID Connect (OIDC) provider lookups, and aggregate API server requests. With customer-routed control plane egress, this traffic flows through your VPC, where you control the routing, security groups, and egress path. Organizations with data perimeter requirements, compliance mandates, or private network infrastructure can use customer-routed contro",
+      "via": "official_feed"
+    },
+    {
+      "source": "HPCwire",
+      "title": "Limitless Labs Raises $20M to Advance Physical AI for Mechanical Manufacturing - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazdCRHk0bV9IZDdfb3B1U2FCdExPQTZTVDlESU9qdmRjT0F6bGZieF9iT0dNZHVBRWNxWXdHOHpWQVNGOERUcjUwV2JCSFFmZGxETHd3bTNSY2M4UXBXUkZueFNSMERGTm1xdjY1cmN5UDBySXZHLVhiMTZNUnpmVjBTalZ0TFo1ZVhzQ3Z3bzlBNEEwWlM5cXlQZXNMRURnYVFidHloMEk2QkY3ZERHMm9MdHkzSXdkS0lHVQ?oc=5",
+      "published_kst": "2026-06-19T02:00:39+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "วารสารการเงินธนาคาร",
+      "title": "Microsoft partners with AIAT to cultivate a new generation of AI professionals to support the new S-Curve. - วารสารการเงินธนาคาร",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xdEhkVnc1R1JoNktHZ2ZOQ1d2cUhIRzBkUGxTS2xNZG9fSV9iSzg3OElVTE1yRUlFY3M3OWxHU3M1VUlaSEN0SmJwODBwUmctcjAzWkpHNzM?oc=5",
+      "published_kst": "2026-06-19T02:01:00+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Azure AI Foundry Azure OpenAI Copilot governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+      "published_kst": "2026-06-19T02:32:22+09:00",
+      "summary": "Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you have an agent running in seconds. The agent runs in its own isolated environment with a filesystem and shell, so it can read files, run commands, and write code safely. It remembers users and conversations across sessions, picks up skills you point it at (including the AWS-curated catalog), browses the web, calls your tools through gateway or MCP, and switches model providers mid-session without losing context. Every step streams back to you in ",
+      "via": "official_feed"
+    },
+    {
+      "source": "Amazon Web Services (AWS)",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObzZKbWxBSmFMelplSWVpNndqOTB5MHJlWkRSTW05b21WVm5RVkVvamFYVDRVMzUwMzM3TVhLbW1BZEtjVkNZcXlyeUg2cG40TWxldVJPbDdnV1JsX0l3LXFKSFhNT3NjSFlMZjJBUGZTcU10cFJWaHdCUXltZWYtZXBvQVQwU3NEU1ZZNERkX2ZpbGRiLVh0SmRZcUtvUnc3UVJ3bVRmelVxQklOV2hjbjl2N0pHZWR3ZjJVNnVxMnhoTzdyY3pXMzNWTEIxbGFOb3RMNnVnVkJncDlZRy0yVU1XWHJTQWVEbmFfMA?oc=5",
+      "published_kst": "2026-06-19T02:32:22+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Amazon Bedrock AgentCore SageMaker AI governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "HPCwire",
+      "title": "Dream Secures $260M to Scale Sovereign AI Infrastructure for Governments Worldwide - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaXFuWEdFR2hyeEdKSTBmNE5wRWJpOHZucGI1WXVVODRUZ1plMlZmU3Z1RHBISHhRMGg3b194V3RickdDV3lyQWloREg5WTZCVUo5dm9XbjNXU1BJcGotVjd0YUhGRUNvZ3dVQzNqS2hxcG5OM3dGS3JQNmRTdXEzVDhadVhld2ZJbC1GUTFqLVN4Um40VUFabi0zNGFZZ3JlSG1JWmZ0V09ZMEw4R0pZMWd5QTBDcnFyNmsxWkl4UVV1Zw?oc=5",
+      "published_kst": "2026-06-19T03:14:44+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/",
+      "published_kst": "2026-06-19T03:30:00+09:00",
+      "summary": "Today, AWS announced the availability of all-MiniLM-L12-v2 in Amazon SageMaker JumpStart, expanding the portfolio of models available to AWS customers. This model from Sentence Transformers maps sentences and paragraphs to a 384-dimensional dense vector space, enabling customers to build high-quality semantic search, text clustering, and sentence similarity applications on AWS infrastructure. all-MiniLM-L12-v2 excels at encoding sentences and short paragraphs into dense vector representations that capture semantic meaning, making it ideal for information retrieval, semantic search systems, doc",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "AWS Compute Optimizer enhances EBS volume recommendations with additional performance metrics",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-enhances-ebs-recommendations/",
+      "published_kst": "2026-06-19T03:30:00+09:00",
+      "summary": "AWS Compute Optimizer now includes improved visibility into IOPS and throughput spikes when deliverings Amazon EBS volume rightsizing recommendations. Compute Optimizer analyzes two additional Amazon CloudWatch metrics, VolumeIOPSExceededCheck and VolumeThroughputExceededCheck, which report whether your workload consistently attempted to drive IOPS or throughput beyond your volume's provisioned performance in any given minute. By factoring in these signals, Compute Optimizer helps you make rightsizing decisions to balance cost with performance for workloads that experience bursts of high IOPS ",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/",
+      "published_kst": "2026-06-19T03:30:00+09:00",
+      "summary": "Today, AWS announced the availability of Ministral-3-14B-Instruct-2512 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI delivers frontier-class multimodal capabilities in a compact 14B-parameter architecture optimized for edge deployment, enabling customers to build advanced AI assistants, agentic systems, and vision-enabled applications on AWS infrastructure. Ministral-3-14B-Instruct excels at analyzing images and providing insights based on visual content in addition to text, agentic capabilities with native fu",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/",
+      "published_kst": "2026-06-19T03:35:00+09:00",
+      "summary": "Amazon Connect Customer now supports the ability to interrupt an agent with a contact, overriding their usual routing configuration in case of urgent or time-sensitive work. For example, an agent may be waiting for a time-sensitive callback on their personal extension, while taking customer service calls in the meantime. When that urgent call comes in, it can now ring the agent even if the agent is currently already on another call, so the agent can decide whether to put the first caller on hold to pick up the callback as well. You can also use this feature to directly assign certain contacts ",
+      "via": "official_feed"
+    },
+    {
+      "source": "Anthropic sitemap",
+      "title": "project fetch phase two",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "published_kst": "2026-06-19T03:44:44+09:00",
+      "summary": "sitemap lastmod 기준 후보",
+      "via": "official_sitemap"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud/",
+      "published_kst": "2026-06-19T03:47:00+09:00",
+      "summary": "Starting today, Nested virtualization is now available on additional Intel platforms and additional Regions. Nested virtualization is now available on C7i,R7i, M7i, C8id,R8id, M8id, C7i-flex, M7i-flex, I7i, C8i-flex,R8i-flex, M8i-flex,and X8i, in addition to already available support on C8i, M8i and R8i instances. This capability is also now available in US GovCloud (US-East) and US GovCloud (US-West), in addition to existing support in all commercial regions. With nested virtualization capabilities, customers can create nested environments by running KVM or Hyper-V on virtual EC2 instances. C",
+      "via": "official_feed"
+    },
+    {
+      "source": "Anthropic sitemap",
+      "title": "Evaluating Claude For Bioinformatics With BioMysteryBench",
+      "url": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+      "published_kst": "2026-06-19T03:56:26+09:00",
+      "summary": "sitemap lastmod 기준 후보",
+      "via": "official_sitemap"
+    },
+    {
+      "source": "OpenAI",
+      "title": "New usage analytics and updated spend controls for enterprises - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
+      "published_kst": "2026-06-19T04:10:30+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "OpenAI Codex ChatGPT Enterprise API agents safety admin after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS Security Blog",
+      "title": "Accelerate security investigations with Kiro CLI",
+      "url": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/",
+      "published_kst": "2026-06-19T04:24:30+09:00",
+      "summary": "When a security event occurs in your Amazon Web Services (AWS) environment, rapid response is critical. However security teams often struggle with time-consuming, manual processes that slow down investigations. Analysts must recall complex AWS Command Line Interface (AWS CLI) syntax for multiple services, manually correlate findings across Amazon GuardDuty, AWS CloudTrail, and other security tools, […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "published_kst": "2026-06-19T05:00:27+09:00",
+      "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid. In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/",
+      "published_kst": "2026-06-19T05:20:00+09:00",
+      "summary": "Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resources publicly.. This helps you meet your security and compliance requirements when your brokers need to reach private identity providers (such as LDAP and OAuth 2.0), other Amazon MQ for RabbitMQ brokers, or self-hosted RabbitMQ brokers. Previously, this connectivity for RabbitMQ Federation, Shovel, or authentication required Network Load Balancer and NAT Gateway workarounds. Amazon MQ establishes this connectivity using Amazon VPC Lattice, AWS R",
+      "via": "official_feed"
+    },
+    {
+      "source": "HPCwire",
+      "title": "Kyndryl and AWS Expand Partnership to Accelerate Enterprise Agentic AI Adoption - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXBJQzJSbWtUclo0MGJSeEtEdGFtSmtic040bW1Xc1RGV3Vmbkp3YnN4U0hJT1JaZmduaXJUdVpURWgxUy1Rcm1qM0xlWHV2cUdJclZ4elJVOXplS05IdEU1MXltS3hSRGlGaFJnOHlZNldBQnpVTVJfZUVwdTl1bzVneVdtSVQ2VjRVbXNKb1ZwYmVjcVN5WWxZdTlsRG1Sa1JCOFVIVGJfUDI4UmxPWnBRcWEzVDJiSHJldG42QQ?oc=5",
+      "published_kst": "2026-06-19T05:55:33+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon EC2 G7 instances are now generally available",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
+      "published_kst": "2026-06-19T05:59:00+09:00",
+      "summary": "Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference performance and up to 2.1x graphics performance compared to G6. You can use G7 instances for AI inference workloads such as language translation, video and image analysis, speech recognition, and recommender systems. Additionally, G7 instances also accelerate graphics workloads such as creating and rendering real-time, cinematic-quality graphics, and game streaming, as well as data",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon ECS announces faster service auto scaling",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/",
+      "published_kst": "2026-06-19T06:00:00+09:00",
+      "summary": "Amazon ECS service auto scaling now detects and responds to load changes faster with support for high resolution (20-second) metrics and metric publishing optimizations. In AWS benchmarking tests, time to trigger scale-out improved from 363 seconds to 86 seconds (76% faster, 4.2x), and total time to scale and provision new tasks improved from 386 seconds to 109 seconds (72% faster, 3.5x). Faster service auto scaling also enables you to reduce baseline capacity and lower compute costs while maintaining service reliability and performance as workload demand fluctuates. Amazon ECS service auto sc",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/",
+      "published_kst": "2026-06-19T07:36:00+09:00",
+      "summary": "Amazon MSK Provisioned clusters with Express brokers now support Intelligent Rebalancing on all existing clusters, at no additional cost. Previously available only on newly created clusters, Intelligent Rebalancing is now available on all MSK Provisioned clusters running Express brokers, making it effortless for customers to benefit from automatic partition balancing when scaling their Express-based clusters up or down. Intelligent Rebalancing maximizes the capacity utilization of MSK Express-based clusters by optimally rebalancing Kafka resources for better performance, eliminating the need f",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Amazon CloudWatch Synthetics now supports multilocation canaries",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/",
+      "published_kst": "2026-06-19T07:41:00+09:00",
+      "summary": "Today, Amazon CloudWatch Synthetics announces support for multilocation canaries, allowing developers and site reliability engineers to run the same canary across multiple AWS Regions simultaneously from a single point of management. Previously, monitoring application availability from multiple geographic locations required creating and managing separate canaries in each Region, adding operational overhead and increasing the risk of configuration drift. With multilocation canaries, you create and manage a canary in one primary Region, and CloudWatch Synthetics automatically replicates it to th",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "title": "Production-Ready Autonomous Incident Resolution with AWS DevOps Agent (now GA) and Datadog MCP Server",
+      "url": "https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/",
+      "published_kst": "2026-06-19T07:57:42+09:00",
+      "summary": "This post was co-written with Bharadwaj Tanikella (AI/ML Product Engineering Leader) and Mohammad Jama (Product Marketing Manager) from Datadog. In December 2025, we showed how AWS DevOps Agent and Datadog MCP Server could work together to autonomously correlate monitoring data with the infrastructure deployed and configured on AWS to resolve incidents in minutes instead of […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "published_kst": "2026-06-19T08:31:58+09:00",
+      "summary": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS What’s New",
+      "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/",
+      "published_kst": "2026-06-19T10:00:00+09:00",
+      "summary": "Today, AWS announces the general availability of a new Local Zone in Hanoi, Vietnam, bringing AWS infrastructure closer to end users. This new Local Zone is one of the first AWS Local Zones in the Asia Pacific with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Block Store (Amazon EBS) Local Snapshots, enabling customers to meet data residency requirements by storing and backing up data locally. AWS Local Zones are AWS infrastructure deployments that extend core services, such as compute, storage, networking, and other select services, closer to metropolitan areas wor",
+      "via": "official_feed"
+    },
+    {
+      "source": "Anthropic sitemap",
+      "title": "claude code expertise",
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "published_kst": "2026-06-19T13:10:32+09:00",
+      "summary": "sitemap lastmod 기준 후보",
+      "via": "official_sitemap"
+    },
+    {
+      "source": "Microsoft Source",
+      "title": "Microsoft and AIAT Drive “AI Engineering” Initiative to Build Next-Gen Talent for Thailand’s New S-Curve - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNURPVnE0bmg5VDlMR25BUk1NNE44OU1ORXFIU3lOZ3Z3LWlRSDc1RmRHanFMSm54cEZyMDYyYU5ra2FFOWtPZkRpTWZPX0pNcDNaWnl6THRIbUlCbW9RWVRwZFJ4bGMtWFkwVkRiaGI5WlRYWE1QcWxSVTRfeUJXRlZoeXZMdFd5XzFKdFdLUUJ4MnVicnh1MHRQS3JQLTctVXNiT09fNW14X1JkckFHSm1XbGh6WDFLd3Y3Z044OEdxWlRwZlQwZllWV2ZXWUIyMHZOX2RSdi1iX1hOTG12Q29SNEhuZDA?oc=5",
+      "published_kst": "2026-06-19T14:12:04+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Azure AI Foundry Azure OpenAI Copilot governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Lapaas Voice",
+      "title": "Anthropic launch Artifacts for Claude Code, to share live code page - Lapaas Voice",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFh0R3pTNFhBS3JDU3NwM2RzeUtoOXJkQno5bEJLNlNuM1d2VWZfWmFhQWlhUVBocTd0R01NTW1XVUNCQVBUTzB4VnBHWk5MTXRWZFllaTJuelV3N0o3ZEpIUkxqZjRaN2VSenJwYU5kaTVXeTRId3lzWW4xMzNUOTQ1LXNRNDBZZzFSc0ZfTkloTjBDVzQ0?oc=5",
+      "published_kst": "2026-06-19T16:32:38+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Claude Code MCP Anthropic enterprise API admin security after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "DevOps.com",
+      "title": "GitHub Retires Its Free AI Model Playground — What Developers Need to Know - DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0NBZ19RdzBfcTluTmwwZ3ZUaFQ3ME5VXzM1MklIYV9SeEI1VVItRVlQZllUY1V0Tmd4SWQ4UVE2TmRFRmNzVGZibm1WRkZMRi1oYjZtWlN4RVpwSlUwX3RFcXhJQi04TWhCTzl2QTlJcWhWNGY5dGk5Sk91bHZYTm9HemVPUDNPdWRMQ3FQOVBVU2ZGZTNV?oc=5",
+      "published_kst": "2026-06-19T18:01:52+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Azure AI Foundry Azure OpenAI Copilot governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Marketing Tech News",
+      "title": "Warner Bros Discovery expands agentic AI use in ad buying - Marketing Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEtmSWl3UzRlWTJoQVYwQU1rN0ZObHFlOWV2ODFReUdZRnA1cE5jbElsaEpsYi0zQXFlT2hWMnptaHQyTEFuTWFsWm5oWHhOQ1EtNHlZaHlYSmlTY2NOZWduRFNaeGhibjE5QTl0VklBZ2Q2V2s2YjAyZ0xiU05yZkVGY1RDZTVTZkhR?oc=5",
+      "published_kst": "2026-06-19T18:05:30+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Amazon Bedrock AgentCore SageMaker AI governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Computer Weekly",
+      "title": "Google Cloud boosts for enterprise agentic at London Summit - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1hEeFRwV1Y5UTVJVHg0Mkk0T1ZhU2pXMmxyMlJXQW9xRUR0UjREUEVnbW5KWHA3bkJFNFhlZjRSYmszWVlWZnZNT25IV2hlbzNSYXNZODJOWldJT0RFQU5uVmRiM3kxcFd0Xy1tRWpRbVNBRVNFSEx0YlVDcTVwRWY5dVgwN3ZqVG0wOUlaOGNDellxVGpsQU52Um96RFdDdnZmdFNON3E?oc=5",
+      "published_kst": "2026-06-19T19:14:22+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "TechInformed",
+      "title": "SEP2 brings Gemini Enterprise agents into managed threat monitoring - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUptNjRfOHJiLVpyUjB2Y1dtX3ZhRFNzQWJOTWVlQTF2VlMzR2NjVGVyR1B5ZC0xSGpDaU9iM05ERGFtbnIyQ3IxOExUdTdhY3RkM1N5TUJiMW9uMExsZ1MwWk50NGlRb05zSDFKaXVmbjVGRzV0SE1wM3B2NzkzSE1EUWNfZlA1SFYtSlFKWWcyLUNBb3ZLYQ?oc=5",
+      "published_kst": "2026-06-19T19:39:57+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Tech Times",
+      "title": "Claude Code Artifacts Turns AI Coding Sessions Into Live, Shareable Browser Pages - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmNQVlVnUmJlUUNlWFRtZVNzMEhaYTZBRDNDSmc5VmlaaFdCUDEzbUtDWWVaUFpLN3E5RkhTUFhKa0ZGV2ZZS0VrM090RnJBUERxZFFIMFhXLWhkZEczSktiR21VUFdaMk5CdjhYdUx5dUwtNWVBVmpnYzJqa3R1RVluTTBPYWd6d1BVSUJLajdwdl9IdFhBNEwteWE5d0JvVHBmWkRkQjJwZlpBdEFuX3ZzWXNNMTJsVVljaDB6MWRCRVVLY1ZzMzJ3?oc=5",
+      "published_kst": "2026-06-19T22:21:32+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Claude Code MCP Anthropic enterprise API admin security after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+      "published_kst": "2026-06-19T23:05:04+09:00",
+      "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+      "published_kst": "2026-06-19T23:15:24+09:00",
+      "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code.",
+      "via": "official_feed"
+    },
+    {
+      "source": "Amazon Web Services (AWS)",
+      "title": "Introducing Web Search on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVhzRDJaOXpmWktaVlNzWVJldUF4Rk1HS1hHajdFY3FlZUF3MHNyMy1oYVlPdzc1ajJ5bWh4blFoUU96Zm5kRUV3V1p3S0lpT1Q0LXA4RGtOd20zY3RCMi1TTHJLdl81Sk1paXdJbm1qNWlmSE1lVG90S2dfbnpyVHpEU0RvUUtnMjFId1Bnc1YyaU9jcWVkSlFRbnk5QQ?oc=5",
+      "published_kst": "2026-06-19T23:15:24+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Amazon Bedrock AgentCore SageMaker AI governance after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "Google Cloud Blog",
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_kst": "2026-06-20T01:00:00+09:00",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jun 15 - Jun 19 Join us for a deep dive into agentic AI control with AppyThings Your integrations aren’t failing—they are evolving. When users interact with AI agents, they no longer arrive directly at your site, resulting",
+      "via": "official_feed"
+    },
+    {
+      "source": "Solutions Review",
+      "title": "Storage and Data Protection News for the Week of June 19; Updates from Cohesity, Everpure, Object First & More - Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2Z0VldTYnZ3THU0WkNUd0NndFhKYlBwZlJtbWN5SHBCLVY5Q3ZhcF9nTUNxWUJKRV9BaGQ4NXNUcWVqc1lOOHNxVVlxcVhhY3hIMkxlQm8yNWtHVXlXRUpRRXd5VW1uZFRQZlRuWFkyZUt5NUptZGs2dmN4Qk9oUlV2cmtzMW01VDN1Z1FyOWMweGxQV0t3SElLOEtKQWVHRzdtTlhMVk5nby1NbWxQbndPTkM5dklXTWpWMHVKbi1QM2dXOC02S1hFZTRxWU04aWk4U0s2bXJMMXBHOHdkY2YzMEtGYmhHWjEtTmRFa1E?oc=5",
+      "published_kst": "2026-06-20T03:00:52+09:00",
+      "summary": "",
+      "via": "google_news_rss",
+      "query": "Vertex AI Gemini Enterprise Agent Platform Google Cloud after:2026-06-18 before:2026-06-21"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "title": "Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent",
+      "url": "https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/",
+      "published_kst": "2026-06-20T04:21:30+09:00",
+      "summary": "When something breaks in production, you find out fast. Understanding why it broke, before the damage spreads, is the hard part. That is where Site Reliability Engineering (SRE) teams lose the most time. Think about the last time you got paged at 2 a.m. The alert said something broke, not why. You open four or […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "title": "Supercharge your cloud operations with the Kiro power for AWS DevOps Agent",
+      "url": "https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/",
+      "published_kst": "2026-06-20T05:51:36+09:00",
+      "summary": "When an alarm fires at 2 AM, the first thing most engineers do is grep logs, check recent deployments, and trace code paths. However, the context they need — metrics, traces, topology, configurations — lives in a separate browser tabs and applications. What if your IDE could bring that cloud intelligence directly to your code, […]",
+      "via": "official_feed"
+    },
+    {
+      "source": "AWS DevOps Blog",
+      "title": "Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly",
+      "url": "https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/",
+      "published_kst": "2026-06-20T06:08:45+09:00",
+      "summary": "Introduction Organizations that use feature flags alongside incident response tooling often connect the two manually. When an outage occurs, engineers must identify which flags are relevant, decide whether to disable them, and coordinate the change across teams. This manual process adds latency at the moment it matters most. You can use AWS DevOps Agent and […]",
+      "via": "official_feed"
+    }
+  ],
+  "errors": []
+}
