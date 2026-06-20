@@ -1,6 +1,6 @@
 # 편집 규칙
 
-- 공개 출처와 발표일이 확인된 항목만 본문에 포함합니다.
-- 원문 URL, 제품명, API, CLI, SDK, MCP 같은 고유 용어는 임의 번역하지 않습니다.
-- HTML 표시 문구는 한국어 존댓말과 기업 보고서 톤을 유지합니다.
-- `src/index.html`, `docs/index.html`, 날짜별 `docs/YYYYMMDD/index.html`, standalone HTML을 항상 동기화합니다.
+- 공개 출처와 발표일이 확인된 항목만 HTML에 반영합니다.
+- 사용자 가시 텍스트는 한국어 존댓말 보고서 톤으로 작성합니다.
+- 제품명, 서비스명, 모델명, API, CLI, URL은 검색성과 정확성을 위해 원문 표기를 유지할 수 있습니다.
+- `src/index.html`, `docs/index.html`, 날짜별 보관본, standalone 파일을 항상 함께 동기화합니다.
