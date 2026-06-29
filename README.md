@@ -1,7 +1,11 @@
-# 인공지능·클라우드 기술 동향 브리핑 HTML
+# 인공지능과 클라우드 기술 동향 브리핑
 
-매일 공개 출처 기반 브리핑을 보관하는 정적 HTML 프로젝트입니다.
+공개 출처 기반 일일 브리핑 저장소입니다. 최신 문서는 `docs/index.html`, 날짜별 문서는 `docs/20260630/index.html`에 있습니다.
 
-- 최신본: `docs/index.html`
-- 날짜별본: `docs/20260629/index.html`
-- 원문 근거: `docs/source/`
+## 이번 업데이트
+- 기준일: 2026-06-30
+- 원문 저장: `/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/30/`
+- 원문 근거: `docs/source/20260630-source-notes.md`
+
+## 실행
+`python3 -m http.server -d docs 8080` 후 브라우저에서 확인합니다.
