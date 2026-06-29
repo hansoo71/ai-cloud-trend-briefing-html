@@ -1,3 +1,8 @@
 # 인공지능·클라우드 기술 동향 브리핑
 
-공개 출처 기반 일일 기술 동향 브리핑 정적 페이지 저장소입니다. 최신본은 `docs/index.html`, 날짜별 보관본은 `docs/YYYYMMDD/index.html`에 둡니다.
+이 저장소는 매일 공개 출처 기반 인공지능·클라우드·엔지니어링 브리핑을 HTML로 보관합니다.
+
+- 최신본: `docs/index.html`
+- 날짜별 보관: `docs/20260629/index.html`
+- 원문 근거: `docs/source/20260629-source-notes.md`
+- 텔레그램 요약: `docs/source/20260629-telegram.md`
