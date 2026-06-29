@@ -1,0 +1,62 @@
+[
+  {
+    "category": "OpenAI 뉴스 & 업데이트",
+    "source_name": "OpenAI News",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "published_at": "2026-06-29T02:00:00+09:00",
+    "fetch_method": "OpenAI RSS + r.jina.ai",
+    "raw_path": "/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/29/20260629_[AICloud]_HP-Inc-launches-Frontier-strategic-partnership-with-OpenAI.md",
+    "content_hash": "3a0ba8b3d3f4e3b519860924e742199aec3e82b9a7b821f96f5e516d8d1a8097",
+    "raw_len": 5649,
+    "excerpt": "Title: HP Inc. launches Frontier strategic partnership with OpenAI\n\nURL Source: https://openai.com/index/hp-frontier-partnership\n\nMarkdown Content:\nEnterprise transformation rarely starts all at once. More often, it begins when small teams prove a new way of working is possible. That was the case with HP Inc., which just announced it will scale activation of its [OpenAI Frontier](https://openai.com/business/frontier/) strategic partnership, following a series of successful pilots across different areas.\n\nThe strategic partnership extends how HP is deploying frontier capabilities to help its global efforts to enhance customer-facing experiences and accelerate transformation across its operations. Once scaled, the strategic partnership will focus on deploying AI across the organization in areas ranging from customer and partner-facing solutions and experiences, customer telemetry insights and reporting, employee productivity, and software development.\n\nAs soon as HP began testing OpenAI Frontier in February 2026, the company started exploring different ways it can use the platform. Early signs of success arrived quickly.\n\nOne engineer used OpenAI models to move through 122 pull reque"
+  },
+  {
+    "category": "Enterprise AI 거버넌스",
+    "source_name": "Digital Watch Observatory",
+    "title": "UNESCO summit backs ethical AI governance in Latin America and the Caribbean",
+    "url": "https://dig.watch/updates/unesco-ai-governance-summit",
+    "published_at": "2026-06-28T21:00:00+09:00",
+    "fetch_method": "Google News RSS decoded + r.jina.ai",
+    "raw_path": "/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/29/20260629_[AICloud]_UNESCO-summit-backs-ethical-AI-governance-in-Latin-America-and-the-Caribbean.md",
+    "content_hash": "0721a0b154020a49da45482279b6a22fc15a24d2f473e9a56d0b2af664a8fe73",
+    "raw_len": 4941,
+    "excerpt": "Title: UNESCO summit backs ethical AI governance in Latin America and the Caribbean | Digital Watch Observatory\n\nURL Source: https://dig.watch/updates/unesco-ai-governance-summit\n\nPublished Time: 2026-06-28T14:00:00+02:00\n\nMarkdown Content:\n_More than 20 delegations joined talks on responsible AI governance in the Dominican Republic._\n\nRepresentatives from more than 20 Latin American and Caribbean countries have met in Santo Domingo for a regional summit on AI ethics and [governance](https://www.unesco.org/en/articles/third-ministerial-summit-ethics-artificial-intelligence-latin-america-and-caribbean-takes-place).\n\nThe Third Ministerial and High-Level Authorities Summit on the Ethics of Artificial Intelligence in Latin America and the Caribbean took place on 25 and 26 June in the Dominican Republic. It was organised by [UNESCO](https://dig.watch/actor/united-nations-educational-scientific-and-cultural-organization), the Dominican Republic’s Government Office of Information and Communication Technologies (OGTIC), and CAF – Development Bank of Latin America and the Caribbean.\n\nThe summit brought together ministers, senior government officials, multilateral organisations, academics, p"
+  },
+  {
+    "category": "Claude Code / Skills / MCP / agent tooling 정보",
+    "source_name": "Albawaba / PR Newswire mirror",
+    "title": "NTT DATA and Cursor partner to accelerate enterprise-grade modernization and AI governance",
+    "url": "https://www.albawaba.com/business/pr/ntt-data-and-cursor-partner-accelerate-1631509",
+    "published_at": "2026-06-28T14:04:00+09:00",
+    "fetch_method": "Google News RSS decoded + r.jina.ai",
+    "raw_path": "/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/29/20260629_[AICloud]_NTT-DATA-and-Cursor-partner-to-accelerate-enterprise-grade-modernization-and-AI-.md",
+    "content_hash": "972d4248fc8b8b8aee0d04055c0a24b193a21ffcc566d432e6defa1c2b6f291f",
+    "raw_len": 5206,
+    "excerpt": "Title: NTT DATA and Cursor partner to accelerate enterprise-grade modernization and AI governance\n\nURL Source: https://www.albawaba.com/business/pr/ntt-data-and-cursor-partner-accelerate-1631509\n\nPublished Time: 2026-06-28T05:04:08+0000\n\nMarkdown Content:\nPress release\n\nPublished June 28th, 2026 - 05:04 GMT[Facebook](https://www.albawaba.com/#facebook)[Twitter](https://www.albawaba.com/#twitter)[WhatsApp](https://www.albawaba.com/#whatsapp)\n\nNTT DATA, a global leader in AI, digital business and technology services, today announced a strategic partnership with Cursor, the leading multi-model AI coding platform. Under this initiative, NTT DATA will use Cursor’s advanced AI agents to power the innovation of its global software engineering and delivery models. Cursor will enable NTT DATA to design, build and modernize enterprise systems with greater speed and control, while supporting the governance enterprises require.\n\nThe collaboration marks a strategic advancement in NTT DATA’s transformation into an AI-native services company, enhancing how the company designs, builds and modernizes mission-critical systems. NTT DATA is operationalizing AI inside its engineering and delivery engin"
+  },
+  {
+    "category": "Enterprise AI 거버넌스",
+    "source_name": "The Eastern Herald",
+    "title": "How a Clean GitHub Repo Tricks Your AI Coding Agent Into Running Malware",
+    "url": "https://easternherald.com/2026/06/28/clean-github-repo-ai-coding-agent-malware-prompt-injection/",
+    "published_at": "2026-06-28T22:48:47+09:00",
+    "fetch_method": "Google News RSS decoded + r.jina.ai",
+    "raw_path": "/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/29/20260629_[AICloud]_How-a-Clean-GitHub-Repo-Tricks-Your-AI-Coding-Agent-Into-Running-Malware.md",
+    "content_hash": "bd77345d9e052f00553e3de774cd5c4f51e709b7d3e9736d05cf6fc389903b4e",
+    "raw_len": 7708,
+    "excerpt": "Title: How a Clean GitHub Repo Tricks Your AI Coding Agent Into Running Malware\n\nURL Source: https://easternherald.com/2026/06/28/clean-github-repo-ai-coding-agent-malware-prompt-injection/\n\nPublished Time: 2026-06-28T13:47:32+00:00\n\nMarkdown Content:\n[![Image 1: Add as preferred source on Google](https://easternherald.com/wp-content/plugins/add-as-preferred-source/public/images/google-preferred-source-button.png)](https://www.google.com/preferences/source?q=easternherald.com)\n\nSAN FRANCISCO – The repository contained no malicious code. Not a single line. A researcher from Mozilla’s Zero Day Investigative Network cloned it, opened Claude Code to help set up the project, and watched as the agent encountered a package initialization error and – helpfully – ran a recovery command. That command called an attacker-controlled shell script. The shell script queried a DNS TXT record. The developer’s machine had a reverse shell, and the repository still contained nothing detectable as malware.\n\nDiscover more\n\nDemographics\n\nEconomy\n\nNewspapers\n\nMozilla’s 0DIN team published the demonstration this week, and it illustrates a problem that is getting harder to dismiss as theoretical. The attack "
+  },
+  {
+    "category": "AWS 뉴스 & 업데이트",
+    "source_name": "Yahoo Finance",
+    "title": "Check Point (CHKP) Brings AI Security To Amazon Bedrock AgentCore",
+    "url": "https://finance.yahoo.com/technology/ai/articles/check-point-chkp-brings-ai-070739076.html",
+    "published_at": "2026-06-28T16:07:39+09:00",
+    "fetch_method": "Google News RSS decoded + r.jina.ai; 본문 일부 접근 제한/야후 페이지 잡음 포함",
+    "raw_path": "/Users/hansoo/Documents/obsidian/hansKB/raw/ai-cloud/news/2026/06/29/20260629_[AICloud]_Check-Point-CHKP-Brings-AI-Security-To-Amazon-Bedrock-AgentCore.md",
+    "content_hash": "3e1578078bb50bb01c7d16377bb6b24bc9c9fd9b4c8b7306f80a82a4745de13f",
+    "raw_len": 40192,
+    "excerpt": "Title: Check Point (CHKP) Brings AI Security To Amazon Bedrock AgentCore\n\nURL Source: https://finance.yahoo.com/technology/ai/articles/check-point-chkp-brings-ai-070739076.html\n\nPublished Time: 2026-06-28T07:07:39Z\n\nMarkdown Content:\nOops, something went wrong\n\n[Skip to navigation](https://finance.yahoo.com/technology/ai/articles/check-point-chkp-brings-ai-070739076.html#navigation-container)[Skip to main content](https://finance.yahoo.com/technology/ai/articles/check-point-chkp-brings-ai-070739076.html#nimbus-app)[Skip to right column](https://finance.yahoo.com/technology/ai/articles/check-point-chkp-brings-ai-070739076.html#right-rail)\n\n# Yahoo Finance\n\n[](https://finance.yahoo.com/)\n\nTip: Try a valid symbol or a specific company name for relevant results\n\n### Trending Tickers\n\n*   ![Image 3: BTC-USD-logo](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png) BTC-USD 59859.74 (-0.31%)  \n*   L LLY 1208.12 (+7.13%)  \n*   N NOW 98.34 (+9.85%)  \n*   B BE 252.02 (-18.49%)  \n*   M MRNA 67.27 (+12.59%)  \n\n*   [News](https://www.yahoo.com/)\n*   [Finance](https://finance.yahoo.com/)\n*   [Sports](https://sports.yahoo.com/)\n*   \nMore   \n\n    *   [News](https://www.yahoo.com/)\n        *"
+  }
+]
