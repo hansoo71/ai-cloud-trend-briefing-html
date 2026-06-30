@@ -1,0 +1,31 @@
+---
+source_url: "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/"
+source_name: "AWS What’s New"
+original_title: "Announcing general availability of Amazon WorkSpaces for AI agents"
+published_at: "2026-07-01T02:28:00+09:00"
+collected_at_kst: "2026-07-01T08:03:41.201719+09:00"
+collection: ai-cloud-daily-news
+content_hash: "8cdcd5e73ab72ba108ceb81d4c554f67a72fbaa5200153ae12f736077253883d"
+fetch_method: "direct-urllib-html-strip"
+language: "en"
+tags: ["ai-cloud-daily-news", "aws", "ai-governance", "agent-runtime", "mcp"]
+---
+
+# Announcing general availability of Amazon WorkSpaces for AI agents
+
+- Source URL: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/
+- Source: AWS What’s New
+- Published at: 2026-07-01T02:28:00+09:00
+- Collection: ai-cloud-daily-news
+- Content hash: `8cdcd5e73ab72ba108ceb81d4c554f67a72fbaa5200153ae12f736077253883d`
+
+## RSS / 원문 요약
+
+Amazon WorkSpaces for agents is now generally available, enabling AI agents to securely access and operate desktop applications through managed WorkSpaces environments. Enterprises run critical business processes on desktop applications (ERP systems, CRMs, mainframes, and proprietary tools) where years of customization, undocumented logic, and strict compliance requirements make them too critical to abandon and costly to modernize. WorkSpaces for agentsnow gives AI agents a managed cloud workspace where they can see the screen and operate these applications the way humans do, without requiring application modernization or custom integrations. WorkSpaces uses the same infrastructure for agents as organizations have trusted for over a decade to deliver secure, managed desktops at scale. Agents inherit the same identity controls, network isolation, and compliance boundaries as human users, so organizations gain automation without giving up governance. Organizations can automate workflows such as claims processing, patient record updates, trade settlement, and back-office operations. The service works with any agent framework using Model Context Protocol (MCP), and pricing scales based on active session time. Since launching in Preview , customer and partner feedback has shaped new capabilities. MCP tool forwarding allows agents to interact with applications and the desktop operating system through direct MCP calls rather than using computer use tools, improving accuracy, reducing latency, and lowering cost. Real-time session control gives operators live visibility into agent activity with the ability to revoke access mid-session. Domain-joined fleet support lets agents operate under existing Active Directory identities, extending the same access policies and audit attribution that apply to employees. To learn more, visit Amazon WorkSpaces for AI agents . To get started building, see the documentation and sample code on GitHub .
+
+## 원문 추출 텍스트
+
+Announcing general availability of Amazon WorkSpaces for AI agents - AWS Skip to main content Filter: All English Contact us AWS Marketplace Support My account Search Filter: All Sign in to console Create account Announcing general availability of Amazon WorkSpaces for AI agents Posted on: Jun 30, 2026 Amazon WorkSpaces for agents is now generally available, enabling AI agents to securely access and operate desktop applications through managed WorkSpaces environments. Enterprises run critical business processes on desktop applications (ERP systems, CRMs, mainframes, and proprietary tools) where years of customization, undocumented logic, and strict compliance requirements make them too critical to abandon and costly to modernize. WorkSpaces for agentsnow gives AI agents a managed cloud workspace where they can see the screen and operate these applications the way humans do, without requiring application modernization or custom integrations. WorkSpaces uses the same infrastructure for agents as organizations have trusted for over a decade to deliver secure, managed desktops at scale. Agents inherit the same identity controls, network isolation, and compliance boundaries as human users, so organizations gain automation without giving up governance. Organizations can automate workflows such as claims processing, patient record updates, trade settlement, and back-office operations. The service works with any agent framework using Model Context Protocol (MCP), and pricing scales based on active session time. Since launching in Preview , customer and partner feedback has shaped new capabilities. MCP tool forwarding allows agents to interact with applications and the desktop operating system through direct MCP calls rather than using computer use tools, improving accuracy, reducing latency, and lowering cost. Real-time session control gives operators live visibility into agent activity with the ability to revoke access mid-session. Domain-joined fleet support lets agents operate under existing Active Directory identities, extending the same access policies and audit attribution that apply to employees. To learn more, visit Amazon WorkSpaces for AI agents . To get started building, see the documentation and sample code on GitHub .   Create an AWS account Learn What Is AWS? What Is Cloud Computing? What Is Agentic AI? Cloud Computing Concepts Hub AWS Cloud Security What's New Blogs Press Releases Resources Getting Started Training AWS Trust Center AWS Solutions Library Architecture Center Product and Technical FAQs Analyst Reports AWS Partners Developers Builder Center SDKs & Tools .NET on AWS Python on AWS Java on AWS PHP on AWS JavaScript on AWS Help Contact Us File a Support Ticket AWS re:Post Knowledge Center AWS Support Overview AWS Accessibility Legal Event Code of Conduct Event Terms & Conditions English Back to top Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability or other legally protected status. x facebook linkedin instagram twitch youtube podcasts email Privacy Site terms Your Privacy Choices California Consumer Privacy Act (CCPA) Opt-Out Icon Cookie Preferences © 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+
+> [!note] Ingest 상태
+> Obsidian raw 저장 후 LLM Wiki collection `ai-cloud-daily-news` 동기화 대상으로 생성된 원문 Markdown입니다. source_url=https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/
